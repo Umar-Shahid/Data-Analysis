@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Data files
+*.csv
+*.xlsx
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
