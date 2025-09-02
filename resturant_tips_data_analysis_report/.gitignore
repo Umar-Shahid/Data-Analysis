@@ -14,9 +14,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Data files
-*.csv
-*.xlsx
 
 # Distribution / packaging
 dist/
