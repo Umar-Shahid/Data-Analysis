@@ -327,4 +327,20 @@ If you find my work helpful, please consider:
 
 *Last Updated: January 2026*
 
+---
+
+## 📥 Riksdag Project - Data Files
+
+This repository includes a Swedish Parliament (Riksdag) analysis project. Two large processed datasets are stored separately due to file size limitations:
+
+- `all_speeches.csv` (~117 MB) - Complete processed Riksdag speeches
+- `speeches_with_opponents.csv` (~117 MB) - Speeches with identified opposing speakers
+
+To use these datasets, download them from:
+- **Kaggle**: [Riksdag Speeches Dataset](https://kaggle.com/datasets/muhammadumarshahid/riksdag_speeches)
+- Or regenerate them by running the processing scripts in `scripts/`
+
+Place the downloaded CSVs in `data/processed/` directory.
+
 **Thanks for visiting! Let's turn data into insights together.** 📊✨
+
