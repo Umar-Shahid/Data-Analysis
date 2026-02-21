@@ -337,7 +337,7 @@ This repository includes a Swedish Parliament (Riksdag) analysis project. Two la
 - `speeches_with_opponents.csv` (~117 MB) - Speeches with identified opposing speakers
 
 To use these datasets, download them from:
-- **Kaggle**: [Riksdag Speeches Dataset](https://kaggle.com/datasets/muhammadumarshahid/riksdag_speeches) (License: CC0: Public Domain)
+- **Kaggle**: [Riksdag Speeches (Processed CSVs)](https://www.kaggle.com/datasets/muhammadumarshahid/riksdag-speeches-processed-csvs) (License: CC0: Public Domain)
 - Or regenerate them by running the processing scripts in `scripts/`
 
 Place the downloaded CSVs in `data/processed/` directory.
