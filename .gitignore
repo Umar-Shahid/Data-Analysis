@@ -63,6 +63,7 @@ notebooks/.ipynb_checkpoints
 output/
 data/raw/
 data/interim/
+data/processed/
 
 # Environment and secrets
 .env
