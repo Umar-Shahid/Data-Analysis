@@ -80,3 +80,8 @@ desktop.ini
 
 # Windows shortcuts
 *.lnk
+
+# Kaggle upload staging folders
+kaggle_upload/
+kaggle_test/
+kaggle_notebook_upload/
