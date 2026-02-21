@@ -1,0 +1,806 @@
+<dokumentstatus><dokument>
+ <hangar_id>5182615</hangar_id>
+ <dok_id>HA09133</dok_id>
+ <rm>2022/23</rm>
+ <beteckning>133</beteckning>
+ <typ>prot</typ>
+ <subtyp></subtyp>
+ <doktyp>prot</doktyp>
+ <typrubrik>Riksdagens protokoll 2022/23:133</typrubrik>
+ <dokumentnamn>Protokoll</dokumentnamn>
+ <debattnamn>Protokoll</debattnamn>
+ <tempbeteckning></tempbeteckning>
+ <organ></organ>
+ <mottagare></mottagare>
+ <nummer>133</nummer>
+ <slutnummer>0</slutnummer>
+ <datum>2023-08-17 00:00:00</datum>
+ <systemdatum>2023-09-26 16:54:36</systemdatum>
+ <publicerad>2023-08-17 00:00:00</publicerad>
+ <titel>Protokoll 2022/23:133 Torsdagen den 17 augusti</titel>
+ <subtitel></subtitel>
+ <status>justerat</status>
+ <htmlformat>html</htmlformat>
+ <relaterat_id></relaterat_id>
+ <source>RIM</source>
+ <sourceid></sourceid>
+ <dokument_url_text>https://data.riksdagen.se/dokument/HA09133/text</dokument_url_text>
+ <dokument_url_html>https://data.riksdagen.se/dokument/HA09133</dokument_url_html>
+ <dokumentstatus_url_xml>https://data.riksdagen.se/dokumentstatus/HA09133</dokumentstatus_url_xml>
+ <html>&lt;div class="w460px"&gt;
+&lt;style&gt;&lt;!--
+p.NormalIndent{margin-top:0.6em;text-indent:0em !important;} 
+.w460px{width: 460px;font-size:0.8em;font-family:Verdana, Geneva, sans-serif}
+div&gt;p.Kantrubrik,p.Kantrubrik, p.Innehll, p.TOC1, p.TOC2, p.TOC3, p.Tryckort {visibility:hidden !important;}
+div.w460px&gt;div&gt;h1 {font-size:1.2em !important;}
+div.w460px&gt;div&gt;h2 {font-weight:bold !important;}
+h2.dtyp{font-size:1.5em !important;} @page Section1 { size:595.35pt 842pt; margin:28.35pt 243.8pt 225.4pt 56.7pt }
+div.Section1 { page:Section1 }
+body { t-a:j; font-family:'Verdana'; font-size:10pt }
+h1, h2, h3, h4, h5, p { margin:0pt }
+li, table { margin-top:0pt; margin-bottom:0pt }
+h1 { margin-top:24pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:bold; color:#000000 }
+h2 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h3 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h4 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; font-style:italic; color:#2e74b5 }
+h5 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#2e74b5 }
+.AnmDat { t-a:j; font-style:italic }
+.Anmlan { t-a:j; font-weight:normal }
+.Av { t-a:j }
+.Beslut { t-a:j; font-weight:bold }
+.Beslutsfattande { margin-left:14.2pt; t-a:j }
+.Bordlggning { margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Dikt { margin-top:6pt; margin-left:14.2pt; text-align:left }
+.Eget { t-a:j }
+.Footer { t-a:j }
+.FrgeSvarDatum { margin-top:12pt; text-align:left; font-style:italic }
+.Frgerubrik { t-a:j; font-size:20pt }
+.Frgesvar { margin-top:12pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.FrgesvarRad2 { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.Fredragning { margin-left:14.2pt; text-indent:-14.2pt; text-align:left }
+.Fredragning1 { t-a:j }
+.Header { t-a:j; line-height:15.65pt }
+.IPFR { t-a:j; font-weight:bold }
+.IPFRej { t-a:j; font-weight:bold }
+.IPMellanrubriker { margin-top:9pt; margin-bottom:3pt; text-align:left; page-break-after:avoid; font-style:italic }
+.Innehll { margin-bottom:12pt; t-a:j; font-size:20pt }
+.Kantformat { t-a:j; font-size:9pt; font-style:italic }
+.Kantrubrik { line-height:11.5pt; font-size:9pt; font-style:italic }
+.KantrubrikV { line-height:11.5pt; font-size:9pt; font-style:italic }
+.ListParagraph { margin-left:36pt; t-a:j }
+.Muntligfrga { margin-top:12pt; t-a:j; page-break-after:avoid; font-style:italic }
+.NormalIndent, .NormalIndrag0, .Normalindrag { text-indent:14.2pt; t-a:j }
+.NormalRam { t-a:j }
+.PunktlistaBomber { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaNummer { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaTankstreck { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Rubrik1-EU-nmnden { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.SidfotH { margin-right:5.65pt; text-align:right; font-size:9pt }
+.SidfotV { margin-right:5.65pt; text-align:left; font-size:9pt }
+.SidhuvudF { margin-right:5.65pt; t-a:j; font-size:11pt }
+.SidhuvudFText { margin-right:5.65pt; t-a:j; line-height:12pt; font-size:11pt }
+.SidhuvudFVapen { margin-right:5.65pt; t-a:j; line-height:11.5pt; font-size:11pt }
+.SidhuvudH { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudHS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.SidhuvudV { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudVS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.Subtitle { margin-top:12pt; text-align:left; page-break-after:avoid; font-style:italic }
+.TOC1 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:bold }
+.TOC2 { margin-right:28.35pt; margin-left:28.35pt; text-indent:0pt; font-weight:normal }
+.TOC3 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:normal; font-style:italic }
+.Till { t-a:j }
+.Title { t-a:j; font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+.Tryckort { t-a:j; line-height:12.25pt; font-size:8pt }
+.Upplysning { t-a:j; font-style:italic }
+.anmdat0 { margin-top:5pt; margin-bottom:5pt; t-a:j }
+span.Rubrik4Char { font-family:'Verdana'; font-size:12pt; font-style:italic; color:#2e74b5 }
+span.Rubrik5Char { font-family:'Verdana'; font-size:12pt; color:#2e74b5 }
+span.RubrikChar { font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+--&gt;&lt;/style&gt;
+
+		&lt;div class="Section1"&gt;
+			&lt;h1&gt;
+				&lt;a name="Textstart"&gt;&lt;/a&gt;&lt;a name="_Toc143174822"&gt;&lt;/a&gt;&lt;a name="_Toc143174852"&gt;&lt;/a&gt;&lt;a name="_Toc146633397"&gt;&lt;/a&gt;&lt;a name="_Toc146639455"&gt;&lt;span style="-aw-bookmark-end:Textstart"&gt;&lt;/span&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Ärenden för hänvisning till utskott&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174822"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174852"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633397"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande dokument hänvisades till utskott:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Propositioner&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2022/23:135 och 137 till justitieutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2022/23:136 till civilutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Skrivelser&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2022/23:127 och 129 till justitieutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2022/23:128 till finansutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2022/23:134 till socialutskottet&lt;/span&gt;&lt;a name="PassTempLäge"&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc143174119"&gt;&lt;/a&gt;&lt;a name="_Toc143174823"&gt;&lt;/a&gt;&lt;a name="_Toc143174853"&gt;&lt;/a&gt;&lt;a name="_Toc146633398"&gt;&lt;/a&gt;&lt;a name="_Toc146639456"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försäljning av jaktrobotar till USA&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174119"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174823"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174853"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633398"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.2pt; -aw-element-left:outside; -aw-element-top:323.25pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Fredragning1"&gt;
+				&lt;a name="_Toc143174120"&gt;&lt;/a&gt;&lt;a name="_Toc143174824"&gt;&lt;/a&gt;&lt;a name="_Toc143174854"&gt;&lt;/a&gt;&lt;a name="_Toc146633399"&gt;&lt;/a&gt;&lt;a name="_Toc146639457"&gt;&lt;span&gt;Finansutskottets betänkande 2022/23:FiU32&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174120"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174824"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174854"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633399"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p class="Fredragning"&gt;
+				&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försäljning av jaktrobotar till USA&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;föredrogs.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Kammaren biföll utskottets förslag att ärendet fick avgöras trots att det varit tillgängligt kortare tid än två vardagar före den dag då det skulle behandlas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc143174121"&gt;&lt;/a&gt;&lt;a name="_Toc143174825"&gt;&lt;/a&gt;&lt;a name="_Toc143174855"&gt;&lt;/a&gt;&lt;a name="_Toc146633400"&gt;&lt;/a&gt;&lt;a name="_Toc146639458"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;EDWARD RIEDL&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174121"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174825"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174855"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633400"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Sommaren har för de flesta här hemma i Sverige inneburit sol och bad, kanske tid med barnbarn och väldigt mycket annat, vila och återhämtning. Nu börjar semestrarna vara slut för de allra flesta i vårt land, och höstens arbete är igång eller har varit igång ett tag.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige har många problem som behöver lösas. Svenska hushåll pressas av en tuff ekonomi. Det saknas inte problem i vårt land. Men vi lever trots allt detta i fred och frihet. Bara en liten bit bort, i en annan del av Europa, upplever människor i Ukraina krigets alla fasor. Våld, död och fruktansvärda övergrepp är en del av deras vardag. Putins Ryssland bedriver ett fullskaligt anfallskrig mot sitt grannland Ukraina.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:left"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi som bor i Sverige är på många sätt lyckligt lottade. Vi har samlats här i riksdagen något tidigare än planerat för höstterminen, och vi tänker nu göra det som står i vår makt för att hjälpa och stötta det ukrainska folket i deras frihetskamp. I dag beslutar vi om finansutskottets betänkande &lt;/span&gt;&lt;span style="font-style:italic"&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försäljning av jaktrobotar till USA&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Under en presskonferens med försvarsminister Pål Jonson i tisdags presenterades ett nytt stödpaket från Sverige till Ukraina, och det är det vi kommer att fatta beslut om här i dag. Stödpaketet omfattar ammunition och reservdelar till de materielsystem som Sverige skänkt till Ukraina. Det handlar om Stridsfordon&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;90 och Stridsvagn&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;122, för att nämna två av dem. Stödet innebär också att Sverige skänker transportfordon, beredskapsvaror och minröjningsutrustning. Samtidigt får regeringen ett bemyndigande att besluta om försäljning av jaktrobot Rb&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;99 till USA, som sedan ska skänkas vidare till Ukraina. Det sammanlagda värdet av stödpaketet uppgår till cirka 3,4 miljarder kronor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Stödpaketet omfattar också ersättning till Försvarsmakten för till exempel transport- och säkerhetsskyddskostnader. Sverige kommer med detta stödpaket att ha bidragit med drygt 20 miljarder kronor i militärt stöd till Ukraina.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sedan invasionen i februari 2022 har Sverige därtill bidragit med motsvarande 5,2 miljarder kronor till humanitärt och civilt stöd. Det handlar om ökat bistånd genom stöd till humanitära organisationer, stöd för att främja kvinnors och flickors möjligheter och rättigheter och civil krishantering i form av donationer av till exempel sjukvårdsmateriel, brandskydd, generatorer och tält. Sverige bidrar också med stöd till Ukrainas reformarbete och återuppbyggnad.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Denna vecka har vi arbetat skyndsamt för att få ett trettonde stödpaket på plats, först genom ett utskottsinitiativ i finansutskottet och i dag i kammaren för vidare hantering av Sveriges regering.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Försvaret av Ukrainas självständighet och landområden kommer att ha en avgörande betydelse inte bara för Ukrainas utan för hela Europas framtid. Det handlar lika mycket om svenska säkerhetsintressen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige, den svenska regeringen och den svenska riksdagen kommer fortsatt att göra det vi kan för att stödja det ukrainska folket. Jag är stolt över att vi så här skyndsamt har kunnat få detta på plats för att nu bidra till ukrainarnas kamp för att återfå sin frihet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag vill här inne, herr talman, rikta ett tack till talmannen och till riksdagens samtliga partier för gott och skyndsamt samarbete. Stort tack till talmanskansliet och finansutskottets kansli för allt arbete som ni gjort under några få bråda dagar!&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är brådskande och absolut nödvändigt att vi skickar mer ammuni&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tion och reservdelar till de stridsfordon och stridsvagnar som vi redan skänkt. Det är av yttersta vikt att vi fortsatt är lyhörda för Ukrainas behov och fortsätter stötta Ukraina så länge som det krävs. Den svenska beslutsamheten att stötta Ukraina är kompakt. Samtliga partier i riksdagen står bakom detta.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc143174122"&gt;&lt;/a&gt;&lt;a name="_Toc143174826"&gt;&lt;/a&gt;&lt;a name="_Toc143174856"&gt;&lt;/a&gt;&lt;a name="_Toc146633401"&gt;&lt;/a&gt;&lt;a name="_Toc146639459"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;INGELA NYLUND WATZ&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174122"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174826"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174856"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633401"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! I Ukraina utkämpas nu, som vi alla vet, ett av de allvarligaste krigen sedan andra världskriget. Den ryska krigföringen i Ukraina är brutal och det mänskliga lidandet helt ofattbart. Berättelser om sexuella övergrepp, tortyr, deportationer och avrättningar av civilbefolkning följer i de ryska truppernas spår. Den ryska statsledningen tycks vara beredd att acceptera stora egna förluster av både materiel och soldater. Människoliv värderas lågt i den ryska strävan efter geopolitiska vinster.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den ryska invasionen av ett fredligt, demokratiskt grannland kan aldrig tolereras, och vi måste fortsätta stå upp för Ukrainas rätt att försvara sin suveränitet och sin integritet. Men Rysslands krig i Ukraina handlar om mer än så. Det är en konfrontation med hela det demokratiska väst, den europeiska säkerhetsordningen och folkrätten. I grunden handlar det om en värderingsmässig konflikt, där demokratin ställs mot auktoritärt styre eller diktatur. De säkerhetspolitiska spänningarna kommer att bestå för lång tid framöver, herr talman.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sveriges politik i det här allvarliga säkerhetspolitiska läget har utgått från tre delar. Det handlar om att stötta Ukraina, rikta sanktioner mot Ryssland och stärka Sverige.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sedan invasionskriget inleddes har det svenska stödet till Ukraina uppgått till mer än 20 miljarder kronor – ett arbete som startade under den tidigare socialdemokratiskt ledda regeringen och som fortsatt efter reger&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ingsskiftet. Den breda enigheten om stöd till Ukraina är en förutsättning för att stödet ska vara uthålligt och långsiktigt. Och det är en styrka för Sverige.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Utvecklingen av kriget i Ukraina är direkt avgörande för det säkerhetspolitiska läget också här i Sverige. Vi ska fortsätta stötta Ukraina på alla sätt vi kan – ekonomiskt, humanitärt och militärt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I dag beslutar riksdagen om ännu ett stödpaket med försvarsmateriel i form av reservdelar, beredskapsvaror, ammunition, minröjningsutrustning och transportfordon till ett värde av cirka 3,4 miljarder kronor. Därtill bemyndigas regeringen att besluta om försäljning av jaktrobotar till USA, som sedan kommer att doneras till Ukraina för att stärka det ukrainska luftförsvaret. Vi socialdemokrater står fullt och fast bakom utskottets förslag.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Kriget i Ukraina och det förändrade säkerhetspolitiska läget kräver av oss att också stärka Sverige. För att öka vår försvarsförmåga pågår just nu en omläggning av svensk försvarspolitik. Vi har i bred enighet kommit överens om att försvarsutgifterna ska uppgå till 2 procent av bnp. Det är avgörande att de ökade resurserna till försvaret också omsätts i faktiskt ökad försvarsförmåga.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Men Sverige och medborgarnas fri- och rättigheter hotas inte enbart av det allvarliga säkerhetspolitiska läget i Europa. Den senaste tidens skändningar av religiösa skrifter har genererat reaktioner långt bortom våra landsgränser, och vi har i dag ett försämrat säkerhetsläge här i Sverige. Detta visar på vikten av att hela tiden fortsätta arbetet med att rusta Sveriges beredskap och motståndskraft såväl civilt som militärt, samtidigt som vi aldrig, aldrig sviker Ukraina.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Med det vill jag yrka bifall till utskottets förslag i betänkandet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc143174123"&gt;&lt;/a&gt;&lt;a name="_Toc143174827"&gt;&lt;/a&gt;&lt;a name="_Toc143174857"&gt;&lt;/a&gt;&lt;a name="_Toc146633402"&gt;&lt;/a&gt;&lt;a name="_Toc146639460"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;MATTIAS ERIKSSON FALK&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(SD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174123"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174827"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174857"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633402"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Den 24 februari 2022 är ett datum som vi för alltid bör komma ihåg som den dag Ryssland påbörjade sin fullskaliga och olagliga invasion av sin närmaste granne – ett självständigt och demokratiskt Uk&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;raina.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Om några dagar är det ett och ett halvt år sedan Ryssland inledde kriget och därmed den förödelse som ukrainarna måste leva i, med tusentals förlorade människoliv och terrorbombade städer, sjukhus och skolor. Ryssarnas taktik är att slå mot civila och att lämna efter sig ett söndrat land fullt av minor. Krigsbrotten från rysk sida är oräkneliga.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sveriges riksdag har som svar på Rysslands krig beslutat att stödja Ukraina såväl humanitärt som ekonomiskt och militärt. Hittills har Sveriges stöd uppgått till ett värde om cirka 17 miljarder kronor. Stödet har bestått av såväl skyddsutrustning som Stridsvagn 122, Stridsfordon 90 och artillerisystemet Archer samt utrustning för minröjning och annan teknisk materiel.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Stödet från Sverige och omvärlden är avgörande för Ukrainas försvarsförmåga och möjligheten att slå tillbaka de ryska styrkorna. Varje dag stupar ukrainska soldater i kampen för att skydda sitt land, sina familjer och civila. Men lika viktigt är det att förhindra den ryska önskan om att utplåna Ukraina som självständig nation. Med stor sannolikhet bidrar det svenska stödet, tillsammans med övrigt stöd, till att minska antalet stupade soldater och civila.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Det är glädjande att ett enigt finansutskott har beslutat att föreslå riksdagen att sända ytterligare försvarsmateriel till Ukraina. Totalt uppgår det nya stödpaketet till cirka 3,4 miljarder kronor. Det innebär att Sveriges samlade stöd, i och med det stödpaket vi i dag behandlar, kommer uppgå till över 20 miljarder.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det nya stödpaketet omfattar reservdelar och ammunition till Stridsvagn 122, Stridsfordon 90 och artillerisystemet Archer. Det är en självklarhet att Sverige skickar de delar som behövs för att underhålla och säkerställa fortsatt drift av de vapensystem vi tidigare skickat till Ukraina. Paketet innehåller även välbehövlig minröjningsutrustning och transportfordon. Utöver detta ingår även försäljning av Robot 99 till USA, som i sin tur kommer att donera dessa till Ukraina som en del i luftvärnssystemet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverigedemokraterna vill trycka på vikten av att fortsatt stötta Ukraina för att de ska kunna värna sin nations rätt att existera och möjligheten att skydda sitt folk. Vid debatten om föregående stödpaket sa min partikollega Charlotte Quensel att ”Ukrainas krig är Europas krig”. I detta vill jag till fullo instämma.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Europa har allt att vinna på att ukrainska styrkor klarar att tvinga ryssarna ut ur Ukraina och tillbaka in i Ryssland. Ett scenario där Ryssland lyckas med sin invasion är helt otänkbart.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Med det, herr talman, vill jag yrka bifall till finansutskottets förslag i betänkande&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;32.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:left"&gt;
+				&lt;a name="_Toc143174124"&gt;&lt;/a&gt;&lt;a name="_Toc143174828"&gt;&lt;/a&gt;&lt;a name="_Toc143174858"&gt;&lt;br style="page-break-before:always; clear:both"&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc146633403"&gt;&lt;/a&gt;&lt;a name="_Toc146639461"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;HANNA GUNNARSSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(V):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174124"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174828"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174858"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633403"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Det är snart ett och ett halvt år sedan Rysslands fullskaliga invasion av Ukraina och det fruktansvärda kriget inleddes, detta efter år av ockupation av Krim. Krig leder alltid till dödsoffer, sönderslagna familjer, stor förödelse med sönderbombade städer och infrastruktur, många flyktingar och generationer av barn som kommer att växa upp med konsekvenserna, sorgen och minnena.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Rysslands invasion, ockupation och krig är såklart fullständigt oacceptabelt. Det strider mot allt vad folkrätt heter och måste fortsätta att fördömas med de allra starkaste ord. Invasionen är oprovocerad, olaglig och oförsvarlig. Angreppet är en kränkning av Ukrainas territoriella integritet och suveränitet och innebär ett stort mänskligt lidande för det ukrainska folket. Det är därför mycket viktigt att världen fortsätter och utökar de ekonomiska sanktionerna mot Ryssland, slutar att köpa rysk olja och gas och sätter ännu större press på de oligarker som gömmer sig och sina tillgångar utanför Ryssland.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Putins regim är även ett hot mot alla de invånare som motsätter sig styret och som inte passar in i det samhälle som Putin vill bygga. För ryska aktivister för mänskliga rättigheter, hbtqi-personer, feminister, urfolksföreträdare, miljörörelser och den politiska oppositionen är den egna regimen ett dagligt säkerhetshot.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Under den tid som det fullskaliga kriget har pågått har vi tvingats att lära oss mycket och att förstå den nya, allvarliga säkerhetspolitiska utvecklingen i Europa med ett imperialistiskt Ryssland som krigar mot sina grannländer. För Vänsterpartiets del har det inneburit att vi har insett att det inte räcker med humanitärt, ekonomiskt och diplomatiskt stöd utan att det även behövs militära insatser. Det militära stödet med vapen, ammunition och utbildning till Ukraina krävs för att Rysslands krig inte ska lyckas och för att Ukraina inte ska tvingas lämna ifrån sig vare sig mark eller makt till Ryssland. Att kunna försvara sina gränser och sin egen befolkning är grundläggande för att Ukraina i framtiden ska kunna bygga upp och stärka sin demokrati och välfärd för befolkningen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Sveriges stöd till Ukraina är, och måste vara, brett och långsiktigt. Tusentals av de miljoner människor som tvingats fly från Uk&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;raina har tagit sig till Sverige. De kämpar med att klara sig i ett nytt land, med all den osäkerhet det innebär när familj och vänner är kvar i kriget i Ukraina. De ukrainska flyktingarnas ekonomiska situation i Sverige är också mycket allvarlig. De och många andra flyktingar som befinner sig i vårt land har mycket liten ekonomisk ersättning att leva på. Vänsterpartiet har många gånger krävt att regeringen ska höja ersättningen för att göra vardagen mer dräglig för flyktingar. Det är också ett sätt att stödja Ukraina och ukrainarnas möjligheter att sedan åka tillbaka och bygga upp sitt land. När kriget är slut ska Sverige vara en aktiv part i återuppbyggnaden av Ukraina, utifrån den inriktning som den ukrainska befolkningen vill se.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Detsamma gäller vårt stöd till Moldavien och Georgien, två länder som också har drabbats av rysk imperialism och ockupation. I Belarus styr fortfarande diktaturen, med en kämpande opposition som drabbas av attacker och döms till långa fängelsestraff. De senaste ett och ett halvt åren har våra kontakter med dessa länder, eller oppositionsgrupper, intensifierats för att stödja deras kamp mot rysk ockupation, påverkan och desinformation.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Världen är inte så fredlig som vi önskar att den ska vara. Runt om i världen pågår krig och konflikter. Människor flyr för sina liv, diktatorer härjar och människor lever i förtryck. Det är otroligt viktigt att Sverige är en stark röst i världen för fred, frihet, demokrati, mänskliga rättigheter och jämlikhet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Kriget i Ukraina har pågått i nästan ett och ett halvt år. Vänsterpartiet står bakom det humanitära, ekonomiska och militära stöd som Sverige skickar till Ukraina och fördömer den ryska invasionen och ockupationen. Vi yrkar därmed bifall till utskottets förslag.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc143174125"&gt;&lt;/a&gt;&lt;a name="_Toc143174829"&gt;&lt;/a&gt;&lt;a name="_Toc143174859"&gt;&lt;/a&gt;&lt;a name="_Toc146633404"&gt;&lt;/a&gt;&lt;a name="_Toc146639462"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;KERSTIN LUNDGREN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(C):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174125"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174829"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174859"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633404"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! I dag är det dag 540. Vi fortsätter räkna. På liknande sätt är det det 13:e paketet som riksdagen beslutar om. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Under tiden vi sitter här noterar jag flyglarm över Poltava, Charkiv, Dnipropetrovsk, Donetsk och Zaporizjzja. Ett antal städer har rapporterat explosioner. I Kiev varnar man nu för att explosiva produkter och objekt kommer att demoleras.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Under tiden då många svenskar, förmodar jag, såg det sista avsnittet av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Allsång på Skansen&lt;/span&gt;&lt;span&gt; i tisdags kväll noterade jag att det ljöd flyglarm i hela Ukraina under en och en halv timme. Det är olika villkor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Kriget pågår i Ukraina på vår kontinent Europa varje sekund, varje minut, varje timme och varje dygn. Ukrainarna strider för sin frihet och rätten till sitt land och sin självständighet för att deras barn inte ska behöva strida för sin frihet ännu en gång i framtiden som de själva nu gör. De är väl medvetna om att generationer före dem som nu strider upplevt samma hot och samma angrepp.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Ryssarna strider för att erövra, kolonisera och utplåna Ukraina och för att Putin ska få bygga sitt imperium. De strider för att återerövra imperiet och sina vasallstater. De begår krigsbrott. De har en president som är efter&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;lyst av ICC och därför inte kan delta i toppmötet i Sydafrika under de kom&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;mande dagarna.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det finns mycket att göra för att säkra att den internationella tribunalen kommer till stånd så att straffrihet inte ska råda, inte heller för president Putin.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Ukrainarna strider också för vår frihet, våra värden och vår demokrati. De strider för att få välja att bli medlemmar i EU och i Nato. Om de själva så vill ska de också få det.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! När vi så småningom ska klubba detta beslut i kammaren tycker jag ändå att det finns skäl för oss att fundera över vilka slutsatser vi drar av att ha sett detta pågå i 540 dagar. Vilka slutsatser drar vi av att detta är det 13:e paket som kommer till stånd genom utskottsinitiativ? Vilka slutsatser drar vi av att Ukraina nu än en gång är föremål för många länders diskussioner? Vi hörde i dag om Tyskland där man önskar luftförsvarsförmåga. Vi vet att diskussioner pågår om F16 och även att frågan om Jas Gripen är aktuell.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Man skulle kunna tänka sig att utskottsinitiativ och den här snabbheten krävs av säkerhetsskäl för att Ukraina inte ska utsättas för särskilt tryck eller hot när beslut som dessa tas. Men, herr talman, det förloras i detta läge när den allmänna diskussionen kan avläsas och följas dag för dag i Kreml, som därmed kan bidra med sin desinformation och sprida bilder. De ser ju vad som händer och den diskussionen som pågår – vilka som är för och vilka som är emot – och var det finns möjligheter och ytor att agera på.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det finns därför skäl för oss att fundera på om vi behöver arbeta på det här sättet. Vi har som sagt levererat – cirka 17 miljarder militärt – och vi vet såklart att det används. Det är därför vi har levererat. Vi vet också av egen erfarenhet att när något använts behövs reservdelar och ersättning.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! För mig och Centerpartiet är det ändå lite märkligt att vi inte klarar att ligga steget lite före och ha en planering för att säkerställa den kontinuitet som krävs för att Ukraina ska kunna visa att man har uthållighet och långsiktighet. Sådant sänder en tydlig signal till Kreml: Man behöver inte gå med mössan i hand till andra länder för att begära eller be om något, utan här finns det kraft och uthållighet att agera på slagfältet för att vinna freden. Det är dit vi vill komma, det vill säga att Ukraina ska vinna freden.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Efter att riksdagen fattat beslut – vi står fullt ut bakom förslaget, herr talman – behöver vi alla fundera på om vi kan göra det här på ett smartare sätt i Sverige men också i dialog med våra vänner för att säkerställa att Ukraina når målet att vinna freden och slå tillbaka de ryska angreppen som så hårt har drabbat Ukraina och det ukrainska folket, inte minst barnen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag yrkar bifall till utskottets förslag i betänkandet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc143174126"&gt;&lt;/a&gt;&lt;a name="_Toc143174830"&gt;&lt;/a&gt;&lt;a name="_Toc143174860"&gt;&lt;/a&gt;&lt;a name="_Toc146633405"&gt;&lt;/a&gt;&lt;a name="_Toc146639463"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;YUSUF AYDIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174126"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174830"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174860"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633405"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Om en vecka är det exakt ett och ett halvt år sedan Ryssland invaderade Ukraina. Rysslands fullskaliga och avskyvärda krig har orsakat stort mänskligt lidande och enorm förstörelse. Samtidigt måste man se med beundran på den vilja och det mod alla ukrainare sedan dess har kämpat med, dag och natt, för att försvara sin frihet och självständighet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Stödet till Ukraina är både moraliskt rätt och nödvändigt. Det handlar om anständighet och medmänsklighet. Ukraina slåss inte bara för sin egen överlevnad och frihet utan också för vår och Europas gemensamma säkerhet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige har tagit ett stort ansvar för att stödja Ukraina. Vi har redan skickat tolv militära stödpaket dit. Det totala beloppet före dagens paket motsvarar cirka 17 miljarder kronor. Utöver det bidrar Sverige också med ett omfattande humanitärt, ekonomiskt och politiskt stöd. I juli tecknade Sverige och Ukraina avtal för att öka möjligheterna att direktupphandla materiel från svensk försvarsindustri, vilket ökar långsiktigheten i det militära stödet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Vi ska i dag fatta ännu ett viktigt beslut, ett beslut om det 13:e militära stödpaketet som inkluderar ammunition, reservdelar och annan försvarsmateriel till ett värde av cirka 3,4 miljarder kronor. Totalt innebär detta 13 militära stödpaket till ett värde av drygt 20 miljarder kronor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är viktigt och nödvändigt att fortsätta stödja Ukraina så länge det krävs men hela tiden anpassa stödet till Ukrainas behov. Detta stödpaket syftar därför till att skapa förutsättningar för att fortsätta använda redan överförd försvarsmateriel från Sverige.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Ryssland missbedömde gravt Ukrainas militära, politiska och samhälleliga motståndskraft liksom västs sammanhållning och vilja att stödja Ukraina och tillfoga Ryssland ekonomisk skada genom olika sanktioner. Det samlade stödet är oerhört viktigt för att Ukraina ska vinna freden.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Utöver dagens viktiga beslut har EU fortsatt att visa ett viktigt, tydligt och beslutsamt engagemang men också uthållighet. Under det svenska ordförandeskapet har Sverige bibehållit enigheten i Europa och samlat EU:s 27 länder bakom flera sanktionspaket mot Ryssland. EU har enats om att leverera en miljon artillerigranater till Ukraina, tagit initiativ till att frysta ryska tillgångar ska finansiera Ukrainas återuppbyggnad och förhandlat fram en tribunal för att utreda och lagföra Rysslands krigsbrott. Detta har varit viktiga framgångar för det svenska ordförandeskapet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Kristdemokraterna har sedan kriget började varit tydligt i vårt orubbliga stöd för Ukraina. Vi är därför stolta att riksdagen med dagens beslut, som fattas med enhällighet, visar att Sverige fortsätter sin tydliga hållning att inte tveka att stödja de ukrainska kvinnor och män som med livet som insats försvarar sitt land och sin frihet. Vi står upp för Ukraina inte enbart i ord och tanke utan också i handling och vapen, för fred och frihet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Avslutningsvis vill jag rikta ett stort tack till talmannen och finansutskottet med dess ledamöter, under ledning av ordförande Edward Riedl, och dess kansli för en skyndsam hantering av dagens ärende.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I detta anförande instämde Christian Carlsson (KD).&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc143174127"&gt;&lt;/a&gt;&lt;a name="_Toc143174831"&gt;&lt;/a&gt;&lt;a name="_Toc143174861"&gt;&lt;/a&gt;&lt;a name="_Toc146633406"&gt;&lt;/a&gt;&lt;a name="_Toc146639464"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ANNIKA HIRVONEN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(MP):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174127"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174831"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174861"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633406"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Författaren Anna Takanen skriver i sin bok &lt;/span&gt;&lt;span style="font-style:italic"&gt;Sörjen som blev&lt;/span&gt;&lt;span&gt; att det tar fyra generationer innan ett krig går ur en familj. De orden ekade i mig den 24 februari 2022 när jag stod på en snabbt hopordnad demonstration mot Rysslands angrepp och krig mot Ukraina.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det tar fyra generationer. Jag är barn till den fjärde generationens män som bekämpade Rysslands invasion och försök att göra Finland till en del av Ryssland. Det är nu runt 80 år sedan.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Krig är bomber som trasar sönder hus, vägar och broar. Krig trasar också sönder människor. De såren är från våldtäkterna och från slagfälten. De såren är i de barn som inte får hem sina fäder eller mödrar. De såren går i arv.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Att ta in konsekvenserna för miljontals ukrainare här och nu och i det som är framför oss är oerhört. Det handlar om de barn som får hem sina föräldrar och möter blicken från en pappa som har sett helvetet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är för dem som vi har samlats i dag i riksdagen för att göra motstånd mot Ryssland. Det vill ta sig rätten att i kraft av sin styrka att förgöra människors liv och frihet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag reste till Polen för att se hur mottagandet av flyktingar från Ukraina gick till. På resan hem delade jag färja med en ukrainsk familj. Det var mormor, mamma och fyra små flickor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;En fullastad bagagevagn körde på färjan i Gdansk, och på handtaget satt den yngsta flickan. Hon skrattade så att det bubblade över när det guppade på lastkajen. Det skrattet bär jag med mig. Så tänker jag att barn ska få skratta, orädda, oberörda och trygga. Det är för de barnen som vi måste fortsätta kampen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Det är inte bara för barnen i Ukraina och det ukrainska folket som vi fattar besluten i dag. Det är också för det Ryssland och Putin har sagt. Han vill tillbaka till det ryska imperiet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Om det visar sig att Ryssland får rätt, att den starke kan ta sig rätt, hotas fler stater och i grunden den folkrätt som ger varje nation rätt att bestämma om sin framtid. Den måste Sverige fortsätta att försvara.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Jag yrkar därför bifall till utskottets förslag, som är enhälligt. Vi är eniga om mycket, och det är en styrka. Jag vill också be de ledamöter som har tagit sig tid i dag att delta i den här viktiga debatten att fundera över ytterligare frågor där mer behöver göras.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi i Miljöpartiet har länge uppmärksammat att stora belopp betalas till Ryssland när Sverige och andra europeiska länder fortsätter att köpa rysk fossil energi, olja och gas. Vi måste få slut på pengaflödet till Putins krigskassa.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! De barn och kvinnor som flytt till vårt land är väldigt tacksamma för den trygghet som de har fått här. Men jag har också mött en kvinnlig läkare på Röda Korsets hjälpcenter som beskrev för mig hur hon försökte att få 100 kronor att räcka till. Hon försökte se till att det fanns något alternativ till den kokta potatisen att servera femåringen. De lever här under existensminimum. Vi måste klara av att göra det bättre också för dem.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc143174128"&gt;&lt;/a&gt;&lt;a name="_Toc143174832"&gt;&lt;/a&gt;&lt;a name="_Toc143174862"&gt;&lt;/a&gt;&lt;a name="_Toc146633407"&gt;&lt;/a&gt;&lt;a name="_Toc146639465"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ANNA STARBRINK&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(L):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174128"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174832"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174862"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633407"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Nästa vecka har det gått 18 månader sedan Ryssland inledde sitt oprovocerade, orättfärdiga anfallskrig mot Ukraina. Det har varit så mycket lidande, så många skadade och så mycket död.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den strid som Ukraina nu för är en kamp för sitt lands frihet och sin självständighet. Samtidigt är det en kamp för Europas frihet och även vår. Den kampen måste Ukraina vinna. Ukraina måste vinna kriget och vinna freden. Det är möjligt. Det måste vi tro. Men det är möjligt bara om omvärlden fortsätter att ge ett omfattande militärt, humanitärt och politiskt stöd.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är en styrka att den internationella sammanhållningen i stödet till Ukraina är fortsatt stark och att vi i Sveriges riksdag i dag står helt eniga i vår långsiktiga vilja att agera för att fortsätta att skicka vapen och annan materiel till Ukraina.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I dag är det det 13:e stödpaketet som står på agendan. Den här gången uppgår stödpaketets värde till 3,4 miljarder. Sammantaget är vi väl då uppe i dryga 20 miljarder. Reservdelar, ammunition, minröjningsutrustning, transportfordon med mera finns i paketet, och det är nödvändiga tillskott till det ukrainska försvaret.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sveriges stöd till Ukraina ska självklart ses som en solidaritetshandling för det ukrainska folket och dess rätt att forma sin framtid. Och på vilket fantastiskt sätt de lyckas sköta sitt försvar! Vilken skicklighet, vilken inno&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;vationskraft och vilken enorm vilja!&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Men självklart finns det också stora förluster, skador och död. Våra hjärtan blöder för det ukrainska folket. Därför är vårt stöd så viktigt. Men det är också viktigt som ett strategiskt led i att hävda Europas och vår egen frihet och vår fred. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Ryssland har onda avsikter. Putins ambitioner sträcker sig vida längre än till Ukraina. Omvärlden har många gånger felbedömt Rysslands intentioner. Kanske har vi önsketänkt. Vi ville ju så gärna tro på freden, demokratin och friheten i Europa och att den var vunnen en gång för alla, även för det ryska folket. Men det står klart, vilket vår försvarsberedning konstaterar, att Ryssland sedan lång tid tillbaka anser sig vara i konflikt med hela västvärlden.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Utvecklingen i Ryssland går i neostalinistisk riktning. Det ser vi tydliga exempel på, med långa fängelsestraff för kritik mot regimen och med olika övergrepp och förföljelser, till exempel deportationer från Ukraina. Statens ideologi och överordnade förhållningssätt utgår från idén om Rysslands särart. Det övergripande hotet är från väst, och vad som framhålls som centralt är de ryska traditionerna, som står i skarp kontrast till den frihetliga, liberala ordning som vi lever i och vill försvara.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försälj-ning av jaktrobotar &lt;/span&gt;&lt;br&gt;&lt;span&gt;till USA&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är dessa värderingar som vi måste värja oss mot. I dag är det Ukraina som slåss för sitt land och sin frihet och samtidigt för vår frihet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det stödpaket som vi i dag beslutar om är som sagt ett av många, men jag befarar att det inte är det sista. Sverige och omvärlden måste fortsätta att stödja Ukraina, och vi får aldrig ge upp. Vi måste hålla ihop. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Men det räcker inte att sända vapen. För att våra stödpaket verkligen ska få den betydelse som jag tror att vi alla önskar måste vi göra mycket mer. Vi måste stödja Ukraina politiskt och humanitärt. Vi måste driva på för Ukrainas medlemskap i EU och se till att Ukraina redan nu bjuds in att delta i EU:s försvarssamarbete Pesco. Vi bör också när vi själva en dag får bli medlemmar i Nato välkomna Ukraina som en allierad.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Krigsförbrytarna i Ryssland måste ställas inför rätta i Haag. En tribunal kommer att få stor betydelse. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Återuppbyggnaden av landet är inget som ligger långt i framtiden, när kriget är över. Återuppbyggnaden måste ske hela tiden, här och nu. Det handlar om de människor som lever sin vardag i Ukraina och hela tiden utsätts för dessa övergrepp och attacker från Ryssland. Där måste Sverige på olika sätt bidra.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag har förstått att det inom inte minst vårdområdet finns mycket vi kan bidra med. Det finns en hög kompetens i Sverige när det gäller bland annat rehabilitering av skadade människor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Låt mig avsluta med att tacka alla partier i Sveriges riksdag för att vi så samlat och enigt i ord och handling visar vårt samstämmiga och mycket konkreta stöd för Ukraina. Jag yrkar bifall till finansutskottets förslag.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Överläggningen var härmed avslutad. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Beslutsfattande"&gt;
+				&lt;a name="_Toc143174129"&gt;&lt;/a&gt;&lt;a name="_Toc143174833"&gt;&lt;/a&gt;&lt;a name="_Toc143174863"&gt;&lt;/a&gt;&lt;a name="_Toc146633408"&gt;&lt;/a&gt;&lt;a name="_Toc146639466"&gt;&lt;span&gt;(Beslut fattades under § 3.)&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174129"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174833"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174863"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633408"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc143174834"&gt;&lt;/a&gt;&lt;a name="_Toc143174864"&gt;&lt;/a&gt;&lt;a name="_Toc146633409"&gt;&lt;/a&gt;&lt;a name="_Toc146639467"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Beslut om ärende som slutdebatterats vid dagens sammanträde&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174834"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174864"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633409"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Beslut"&gt;
+				&lt;a name="_Toc143174835"&gt;&lt;/a&gt;&lt;a name="_Toc143174865"&gt;&lt;/a&gt;&lt;a name="_Toc146633410"&gt;&lt;/a&gt;&lt;a name="_Toc146639468"&gt;&lt;span&gt;FiU32 Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försäljning av jaktrobotar till USA&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174835"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174865"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633410"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Kammaren biföll utskottets förslag.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc143174836"&gt;&lt;/a&gt;&lt;a name="_Toc143174866"&gt;&lt;/a&gt;&lt;a name="_Toc146633411"&gt;&lt;/a&gt;&lt;a name="_Toc146639469"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om frågor för skriftliga svar&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174836"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174866"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633411"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande frågor för skriftliga svar hade framställts:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="anmdat0" style="margin-top:0pt; margin-bottom:0pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 16 augusti&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2022/23:920 Arbetarkvinnor&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:93.55pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Sofia Amloh&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Paulina Brandberg (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2022/23:921 Möjlighet att rädda strömmingen&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Malin Larsson&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till landsbygdsminister Peter Kullgren (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2022/23:922 Haverikommission för cyberincidenter&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Adrian Magnusson&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Carl-Oskar Bohlin (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2022/23:923 Ökat antal konkurser i Halland&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Aida Birinxhiku&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till energi- och näringsminister Ebba Busch (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc143174837"&gt;&lt;/a&gt;&lt;a name="_Toc143174867"&gt;&lt;/a&gt;&lt;a name="_Toc146633412"&gt;&lt;/a&gt;&lt;a name="_Toc146639470"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Kammaren åtskildes kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;11.45.&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174837"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc143174867"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146633412"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sammanträdet leddes av talmannen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Vid protokollet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:189.95pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p&gt;
+				&lt;span&gt;GERGÖ KISCH&lt;/span&gt;&lt;span style="-aw-import:spaces"&gt;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0; &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="width:51pt; text-indent:0pt; display:inline-block"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="width:65.2pt; text-indent:0pt; display:inline-block"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;/Olof Pilo&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Tryckort"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Innehll"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;&lt;span&gt;Innehållsförteckning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Ärenden för hänvisning till utskott&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försäljning av jaktrobotar till USA&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Finansutskottets betänkande 2022/23:FiU32&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;EDWARD RIEDL&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;INGELA NYLUND WATZ&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;MATTIAS ERIKSSON FALK&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(SD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;HANNA GUNNARSSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(V)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;KERSTIN LUNDGREN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(C)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;YUSUF AYDIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ANNIKA HIRVONEN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ANNA STARBRINK&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;(Beslut fattades under § 3.)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Beslut om ärende som slutdebatterats vid dagens sammanträde&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;FiU32 Ändringar i statens budget för 2023 – Försvarsmateriel till Ukraina och försäljning av jaktrobotar till USA&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om frågor för skriftliga svar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Kammaren åtskildes kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;11.45.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Tryckort"&gt;
+				&lt;span&gt;Tryck: Elanders Sverige AB, Vällingby 2023&lt;/span&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+</html>
+</dokument>
+<dokbilaga>
+<bilaga>
+<dok_id>HA09133</dok_id>
+<subtitel></subtitel>
+<filnamn>prot_202223__133.pdf</filnamn>
+<filstorlek>248811</filstorlek>
+<filtyp>pdf</filtyp>
+<titel>Protokoll 2022/23:133 Torsdagen den 17 augusti</titel>
+<fil_url>https://data.riksdagen.se/fil/033F58F7-1430-4155-A427-42A132F087A2</fil_url>
+</bilaga>
+</dokbilaga>
+</dokumentstatus>

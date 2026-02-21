@@ -1,0 +1,1063 @@
+<dokumentstatus><dokument>
+ <hangar_id>5210565</hangar_id>
+ <dok_id>HB09127</dok_id>
+ <rm>2023/24</rm>
+ <beteckning>127</beteckning>
+ <typ>prot</typ>
+ <subtyp></subtyp>
+ <doktyp>prot</doktyp>
+ <typrubrik>Riksdagens protokoll 2023/24:127</typrubrik>
+ <dokumentnamn>Protokoll</dokumentnamn>
+ <debattnamn>Protokoll</debattnamn>
+ <tempbeteckning></tempbeteckning>
+ <organ></organ>
+ <mottagare></mottagare>
+ <nummer>127</nummer>
+ <slutnummer>0</slutnummer>
+ <datum>2024-06-07 00:00:00</datum>
+ <systemdatum>2024-11-06 15:45:30</systemdatum>
+ <publicerad>2024-06-07 00:00:00</publicerad>
+ <titel>Protokoll 2023/24:127 Fredagen den 7 juni</titel>
+ <subtitel></subtitel>
+ <status>justerat</status>
+ <htmlformat>html</htmlformat>
+ <relaterat_id></relaterat_id>
+ <source>RIM</source>
+ <sourceid></sourceid>
+ <dokument_url_text>https://data.riksdagen.se/dokument/HB09127/text</dokument_url_text>
+ <dokument_url_html>https://data.riksdagen.se/dokument/HB09127</dokument_url_html>
+ <dokumentstatus_url_xml>https://data.riksdagen.se/dokumentstatus/HB09127</dokumentstatus_url_xml>
+ <html>&lt;div class="w460px"&gt;
+&lt;style&gt;&lt;!--
+p.NormalIndent{margin-top:0.6em;text-indent:0em !important;} 
+.w460px{width: 460px;font-size:0.8em;font-family:Verdana, Geneva, sans-serif}
+div&gt;p.Kantrubrik,p.Kantrubrik, p.Innehll, p.TOC1, p.TOC2, p.TOC3, p.Tryckort {visibility:hidden !important;}
+div.w460px&gt;div&gt;h1 {font-size:1.2em !important;}
+div.w460px&gt;div&gt;h2 {font-weight:bold !important;}
+h2.dtyp{font-size:1.5em !important;} @page Section1 { size:595.35pt 842pt; margin:28.35pt 243.8pt 225.4pt 56.7pt }
+div.Section1 { page:Section1 }
+body { t-a:j; font-family:'Verdana'; font-size:10pt }
+h1, h2, h3, h4, h5, p { margin:0pt }
+li, table { margin-top:0pt; margin-bottom:0pt }
+h1 { margin-top:24pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:bold; color:#000000 }
+h2 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h3 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h4 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; font-style:italic; color:#2e74b5 }
+h5 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#2e74b5 }
+.AnmDat { t-a:j }
+.Anmlan { t-a:j; font-weight:normal }
+.Av { t-a:j }
+.Beslut { t-a:j; font-weight:bold }
+.Beslutsfattande { margin-left:14.2pt; t-a:j }
+.Bordlggning { margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Dikt { margin-top:6pt; margin-left:14.2pt; text-align:left }
+.Eget { t-a:j }
+.Footer { t-a:j }
+.FrgeSvarDatum { margin-top:12pt; text-align:left; font-style:italic }
+.Frgerubrik { t-a:j; font-size:20pt }
+.Frgesvar { margin-top:12pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.FrgesvarRad2 { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.Fredragning { margin-left:14.2pt; text-indent:-14.2pt; text-align:left }
+.Fredragning1 { t-a:j }
+.Header { t-a:j; line-height:15.65pt }
+.IPFR { t-a:j; font-weight:bold }
+.IPFRej { t-a:j; font-weight:bold }
+.IPMellanrubriker { margin-top:9pt; margin-bottom:3pt; text-align:left; page-break-after:avoid; font-style:italic }
+.Innehll { margin-bottom:12pt; t-a:j; font-size:20pt }
+.Kantformat { t-a:j; font-size:9pt; font-style:italic }
+.Kantrubrik { line-height:11.5pt; font-size:9pt; font-style:italic }
+.KantrubrikV { line-height:11.5pt; font-size:9pt; font-style:italic }
+.ListParagraph { margin-left:36pt; t-a:j }
+.Muntligfrga { margin-top:12pt; t-a:j; page-break-after:avoid; font-style:italic }
+.NormalIndent, .NormalIndrag0, .Normalindrag { text-indent:14.2pt; t-a:j }
+.NormalRam { t-a:j }
+.Partirster { margin-left:65.2pt; text-indent:-65.2pt; t-a:j }
+.PunktlistaBomber { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaNummer { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaTankstreck { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Rubrik1-EU-nmnden { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.SidfotH { margin-right:5.65pt; text-align:right; font-size:9pt }
+.SidfotV { margin-right:5.65pt; text-align:left; font-size:9pt }
+.SidhuvudF { margin-right:5.65pt; t-a:j; font-size:11pt }
+.SidhuvudFText { margin-right:5.65pt; t-a:j; line-height:12pt; font-size:11pt }
+.SidhuvudFVapen { margin-right:5.65pt; t-a:j; line-height:11.5pt; font-size:11pt }
+.SidhuvudH { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudHS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.SidhuvudV { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudVS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.Subtitle { margin-top:12pt; text-align:left; page-break-after:avoid; font-style:italic }
+.TOC1 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:bold }
+.TOC2 { margin-right:28.35pt; margin-left:28.35pt; text-indent:0pt; font-weight:normal }
+.TOC3 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:normal; font-style:italic }
+.Till { t-a:j }
+.Title { t-a:j; font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+.Tryckort { t-a:j; line-height:12.25pt; font-size:8pt }
+.Upplysning { t-a:j; font-style:italic }
+span.Rubrik4Char { font-family:'Verdana'; font-size:12pt; font-style:italic; color:#2e74b5 }
+span.Rubrik5Char { font-family:'Verdana'; font-size:12pt; color:#2e74b5 }
+span.RubrikChar { font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+--&gt;&lt;/style&gt;
+
+		&lt;div class="Section1"&gt;
+			&lt;h1 style="line-height:11.6pt"&gt;
+				&lt;a name="Textstart"&gt;&lt;/a&gt;&lt;a name="_Toc168648876"&gt;&lt;/a&gt;&lt;a name="_Toc180751282"&gt;&lt;/a&gt;&lt;a name="_Toc181006024"&gt;&lt;span style="-aw-bookmark-end:Textstart"&gt;&lt;/span&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Justering av protokoll&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648876"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751282"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Protokollen för den 14–17 maj justerades.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1 style="margin-top:26pt; line-height:11.6pt"&gt;
+				&lt;a name="_Toc168648877"&gt;&lt;/a&gt;&lt;a name="_Toc180751283"&gt;&lt;/a&gt;&lt;a name="_Toc181006025"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om återtagande av plats i riksdagen&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648877"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751283"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Förste vice talmannen meddelade att &lt;/span&gt;&lt;span style="font-style:italic"&gt;Märta Stenevi &lt;/span&gt;&lt;span&gt;(MP) återtagit sin plats i riksdagen från och med den 1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;juni, varigenom uppdraget som ersättare upphört för Amanda Palmstierna (MP).&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1 style="margin-top:26pt; line-height:11.6pt"&gt;
+				&lt;a name="_Toc168648878"&gt;&lt;/a&gt;&lt;a name="_Toc180751284"&gt;&lt;/a&gt;&lt;a name="_Toc181006026"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om ersättare&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648878"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751284"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Förste vice talmannen anmälde att &lt;/span&gt;&lt;span style="font-style:italic"&gt;Mats Sander&lt;/span&gt;&lt;span&gt; (M) skulle tjänstgöra som ersättare för Ulrika Hein&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;dorff (M) under tiden för hennes ledighet den 6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;september 2024–23&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;maj 2025.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1 style="margin-top:26pt; line-height:11.6pt"&gt;
+				&lt;a name="_Toc168648879"&gt;&lt;/a&gt;&lt;a name="_Toc180751285"&gt;&lt;/a&gt;&lt;a name="_Toc181006027"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om kompletteringsval&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648879"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751285"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Förste vice talmannen meddelade &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;att Vänsterpartiets partigrupp anmält Kajsa Fredholm som suppleant i konstitutionsutskottet samt&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;att Miljöpartiets partigrupp anmält Märta Stenevi som ledamot i social&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;försäkringsutskottet och som suppleant i skatteutskottet, i civilutskottet och i socialutskottet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Förste vice talmannen förklarade valda till &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;ledamot i socialförsäkringsutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Märta Stenevi (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;suppleant i konstitutionsutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Kajsa Fredholm (V)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:left"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;suppleant i skatteutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Märta Stenevi (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;suppleant i civilutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Märta Stenevi (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;suppleant i socialutskottet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Märta Stenevi (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1 style="margin-top:21pt; line-height:11.6pt"&gt;
+				&lt;a name="_Toc168648880"&gt;&lt;/a&gt;&lt;a name="_Toc180751286"&gt;&lt;/a&gt;&lt;a name="_Toc181006028"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om fördröjda svar på interpella&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tioner&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648880"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751286"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Följande skrivelser hade kommit in:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;Interpellation 2023/24:772&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Till riksdagen &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Interpellation 2023/24:772 Könsapartheid&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;av Alexandra Völker (S) &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Interpellationen kommer att besvaras tisdagen den 17&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;september 2024.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Skälet till dröjsmål beror på resa.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Stockholm den 3 juni 2024&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Utrikesdepartementet &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Tobias Billström (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Enligt uppdrag&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;Klas Molin&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Expeditionschef&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;Interpellation 2023/24:776&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Till riksdagen &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Interpellation 2023/24:776 Sveriges ambassadör mot människohandel&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;av Linnéa Wickman (S) &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Interpellationen kommer att besvaras tisdagen den 17&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;september 2024.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Skälet till dröjsmål beror på resa.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Stockholm den 3 juni 2024&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Utrikesdepartementet &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Tobias Billström (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Enligt uppdrag&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;Klas Molin&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Expeditionschef&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="font-style:italic"&gt;Interpellation 2023/24:777&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;Till riksdagen &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Interpellation 2023/24:777 Ambassadören mot människohandel&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.6pt"&gt;
+				&lt;span&gt;av Janine Alm Ericson (MP) &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.6pt"&gt;
+				&lt;span&gt;Interpellationen kommer att besvaras tisdagen den 17&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;september 2024.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:left"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Skälet till dröjsmål beror på resa.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Stockholm den 3 juni 2024&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Utrikesdepartementet &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Tobias Billström (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Enligt uppdrag&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-style:italic"&gt;Klas Molin&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Expeditionschef&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-style:italic"&gt;Interpellation 2023/24:792&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Till riksdagen &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Interpellation 2023/24:792 Ekonomisk jämställdhet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av Eva Lindh (S) &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Interpellationen kommer att besvaras torsdagen den 5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;september 2024.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Skälet till dröjsmålet är sedan tidigare inbokade engagemang.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Stockholm den 4 juni 2024&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Finansdepartementet &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Elisabeth Svantesson (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Enligt uppdrag&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-style:italic"&gt;Johan Ndure&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Departementsråd&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc168648881"&gt;&lt;/a&gt;&lt;a name="_Toc180751287"&gt;&lt;/a&gt;&lt;a name="_Toc181006029"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om granskningsrapport&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648881"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751287"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Förste vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till skatteutskottet:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;a name="_Hlk180759720"&gt;&lt;span&gt;RiR 2024:12 Vem där – fastställande av identitet vid statliga myndigheter&lt;/span&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc168648882"&gt;&lt;/a&gt;&lt;a name="_Toc180751288"&gt;&lt;/a&gt;&lt;a name="_Toc181006030"&gt;&lt;span style="-aw-bookmark-end:_Hlk180759720"&gt;&lt;/span&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Ärenden för bordläggning&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648882"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751288"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande dokument anmäldes och bordlades:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Konstitutionsutskottets betänkanden&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:KU20 Granskningsbetänkande&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:KU21 Behandlingen av riksdagens skrivelser&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:KU17 Riksrevisionens årsredovisning för 2023&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:KU23 Kommittéberättelse – kommittéernas verksamhet under 2023&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:KU24 Tydligare regler för val till Sametinget&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:KU26 Verksamhetsredogörelser för riksdagens nämnder, m.m.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Utrikesutskottets betänkanden&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:UU9 Strategisk exportkontroll 2023 – krigsmateriel och produkter med dubbla användningsområden&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:UU13 Europarådet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Trafikutskottets betänkanden&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:TU16 Digitaliserings- och postfrågor&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:TU17 Sjöfartsfrågor&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:TU19 Flygplatshavarnas kostnader för säkerhetskontroller&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1 style="line-height:11.3pt"&gt;
+				&lt;a name="_Toc168648883"&gt;&lt;/a&gt;&lt;a name="_Toc180751289"&gt;&lt;/a&gt;&lt;a name="_Toc181006031"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Bordläggning och beslut om förlängd motionstid&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648883"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751289"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.3pt"&gt;
+				&lt;span&gt;Följande dokument anmäldes och bordlades:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning" style="line-height:11.3pt"&gt;
+				&lt;span&gt;Redogörelse&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning" style="line-height:11.3pt"&gt;
+				&lt;span&gt;2023/24:RR5 Riksrevisorns årliga rapport 2024&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.3pt"&gt;
+				&lt;span&gt;Kammaren biföll talmannens förslag att motionstiden för ovanstående redogörelse skulle förlängas till och med &lt;/span&gt;&lt;span style="font-style:italic"&gt;onsdagen den 18&lt;/span&gt;&lt;span style="font-style:italic"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;september&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1 style="margin-top:22pt; line-height:11.3pt"&gt;
+				&lt;a name="_Toc168648884"&gt;&lt;/a&gt;&lt;a name="_Toc180751290"&gt;&lt;/a&gt;&lt;a name="_Toc181006032"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;9&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om interpellationer&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648884"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751290"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.3pt"&gt;
+				&lt;span&gt;Följande interpellationer hade framställts:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="AnmDat" style="line-height:11.3pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 31 maj&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:803 Kvaliteten på bostadspolitiska åtgärder&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Markus Kallifatides&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;till statsrådet Andreas Carlson (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="AnmDat" style="line-height:11.3pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 3 juni&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:804 Arbetsmarknadsprövning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Leif Nysmed&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;till statsrådet Maria Malmer Stenergard (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="AnmDat" style="line-height:11.3pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 4 juni&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:805 Beräkningen av riksnormen&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Maj Karlsson&lt;/span&gt;&lt;span&gt; (V)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;till statsrådet Camilla Waltersson Grönvall (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1 style="margin-top:23pt; line-height:11.3pt"&gt;
+				&lt;a name="_Toc168648885"&gt;&lt;/a&gt;&lt;a name="_Toc180751291"&gt;&lt;/a&gt;&lt;a name="_Toc181006033"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;10&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om frågor för skriftliga svar&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648885"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751291"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.3pt"&gt;
+				&lt;span&gt;Följande frågor för skriftliga svar hade framställts:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="AnmDat" style="line-height:11.3pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 31 maj&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:956 Förstärkt skydd för företagare mot bankbedrägerier&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Anna-Belle Strömberg&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;till statsrådet Niklas W&lt;/span&gt;&lt;a name="PassTempLäge"&gt;&lt;/a&gt;&lt;span&gt;ykman (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:957 Järnvägsförbindelsen i Ystads hamn&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Adrian Magnusson&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;till statsrådet Andreas Carlson (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="AnmDat" style="line-height:11.3pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 3 juni&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:958 En skyldighet att beakta vissa samhällsintressen vid offentlig upphandling&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Amanda Palmstierna&lt;/span&gt;&lt;span&gt; (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;till statsrådet Erik Slottner (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:959 Cirkulär träråvara&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Amanda Palmstierna&lt;/span&gt;&lt;span&gt; (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till landsbygdsminister Peter Kullgren (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="AnmDat"&gt;
+				&lt;span style="font-style:italic"&gt;den 4 juni&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:960 Israels attacker i Gaza&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Dzenan Cisija&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till utrikesminister Tobias Billström (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="AnmDat"&gt;
+				&lt;span style="font-style:italic"&gt;den 5 juni&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:961 Grundvattnet på Gotland&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Amanda Palmstierna&lt;/span&gt;&lt;span&gt; (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till landsbygdsminister Peter Kullgren (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:962 Olyckor vid vattensläpp från vattenkraft&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Anette Rangdag&lt;/span&gt;&lt;span&gt; (SD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till energi- och näringsminister Ebba Busch (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:963 Varma bostäder&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Katarina Luhr&lt;/span&gt;&lt;span&gt; (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Andreas Carlson (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc168648886"&gt;&lt;/a&gt;&lt;a name="_Toc180751292"&gt;&lt;/a&gt;&lt;a name="_Toc181006034"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;11&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om skriftliga svar på frågor&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648886"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751292"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Skriftliga svar på följande frågor hade kommit in:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="AnmDat"&gt;
+				&lt;span style="font-style:italic"&gt;den 5 juni&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:934 EU-initiativ mot desinformation och utländsk påverkan på demokratin&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Matilda Ernkrans&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Jessika Roswall (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:935 Utvinningen av kritiska råvaror i Kongo-Kinshasa&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Håkan Svenneling&lt;/span&gt;&lt;span&gt; (V)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till utrikesminister Tobias Billström (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:936 Utökade rättigheter för Palestina i FN&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Håkan Svenneling&lt;/span&gt;&lt;span&gt; (V)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till utrikesminister Tobias Billström (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:937 Resor till Mellanöstern&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Johan Büser&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till utbildningsminister Mats Persson (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:938 Användning av vapen från väst i Ryssland &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Markus Wiechel&lt;/span&gt;&lt;span&gt; (SD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till försvarsminister Pål Jonson (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:939 Kinas agerande i samband med Taiwans presidentinstal&lt;/span&gt;&lt;span style="font-weight:bold"&gt;&amp;#xad;&lt;/span&gt;&lt;span style="font-weight:bold"&gt;lation&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Markus Wiechel&lt;/span&gt;&lt;span&gt; (SD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till utrikesminister Tobias Billström (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:left"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:940 Möjligheten att göra teoriprov till körkort i hela landet &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Monica Haider&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Andreas Carlson (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:941 Implementering av plattformsdirektivet i Sverige&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Ciczie Weidby&lt;/span&gt;&lt;span&gt; (V)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Paulina Brandberg (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:943 Sjukvården i Region Gotland&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Karin Rågsjö&lt;/span&gt;&lt;span&gt; (V)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Acko Ankarberg Johansson (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:944 Beredning av förslag om avvecklande av statliga kasinon och en effektivare penningtvättstillsyn&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Rickard Nordin&lt;/span&gt;&lt;span&gt; (C)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Niklas Wykman (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:942 Skydd mot påverkansoperationer i valet till Europaparlamentet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Helén Pettersson&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Carl-Oskar Bohlin (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:945 Anmälan från Myndigheten för psykologiskt försvar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Denis Begic&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Carl-Oskar Bohlin (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:946 Påtryckning som påverkar myndighetsbeslut&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Markus Wiechel&lt;/span&gt;&lt;span&gt; (SD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till utrikesminister Tobias Billström (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:952 Den nya lagen om skyddade boenden&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Laila Naraghi&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Camilla Waltersson Grönvall (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:949 Beredningen av begreppet mognadsgrad för tilldelning av kapacitet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Elisabeth Thand Ringqvist&lt;/span&gt;&lt;span&gt; (C)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till energi- och näringsminister Ebba Busch (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:953 Direktiv för utredning om bodelning &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Laila Naraghi&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till justitieminister Gunnar Strömmer (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:947 Åtgärder mot lågt barnafödande i Sverige&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Leonid Yurkovskiy&lt;/span&gt;&lt;span&gt; (SD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till socialminister Jakob Forssmed (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:955 Regeringens hållning avseende surrogatarrangemang inför kommande EU-förhandlingar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Laila Naraghi&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till justitieminister Gunnar Strömmer (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:951 Artskyddsregler&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Helena Lindahl&lt;/span&gt;&lt;span&gt; (C)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Romina Pourmokhtari (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:948 Minskad risk för diskriminering vid polisens arbete&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Rasmus Ling&lt;/span&gt;&lt;span&gt; (MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till justitieminister Gunnar Strömmer (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:954 Våldsutsatta kvinnors möjlighet att behålla sin bostad&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Laila Naraghi&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Paulina Brandberg (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc168648887"&gt;&lt;/a&gt;&lt;a name="_Toc180751293"&gt;&lt;/a&gt;&lt;a name="_Toc181006035"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;12&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Kammaren åtskildes kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;10.02.&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc168648887"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc180751293"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sammanträdet leddes av förste vice talmannen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Vid protokollet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:189.95pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p&gt;
+				&lt;span&gt;GERGÖ KISCH&lt;/span&gt;&lt;span style="-aw-import:spaces"&gt;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0; &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="width:51pt; text-indent:0pt; display:inline-block"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="width:65.2pt; text-indent:0pt; display:inline-block"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;/Olof Pilo&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Tryckort"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Innehll"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;&lt;span&gt;Innehållsförteckning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Justering av protokoll&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om återtagande av plats i riksdagen&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om ersättare&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om kompletteringsval&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om fördröjda svar på interpellationer&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om granskningsrapport&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Ärenden för bordläggning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Bordläggning och beslut om förlängd motionstid&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;9&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om interpellationer&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;10&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om frågor för skriftliga svar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;11&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om skriftliga svar på frågor&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;12&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Kammaren åtskildes kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;10.02.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Tryckort"&gt;
+				&lt;span&gt;Tryck: Elanders Sverige AB, Vällingby 2024&lt;/span&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+</html>
+</dokument>
+<dokbilaga>
+<bilaga>
+<dok_id>HB09127</dok_id>
+<subtitel></subtitel>
+<filnamn>prot_202324__127.pdf</filnamn>
+<filstorlek>128882</filstorlek>
+<filtyp>pdf</filtyp>
+<titel>Protokoll 2023/24:127 Fredagen den 7 juni</titel>
+<fil_url>https://data.riksdagen.se/fil/07AA012F-8ADF-4EF8-9199-B9A9969F5E0E</fil_url>
+</bilaga>
+</dokbilaga>
+</dokumentstatus>

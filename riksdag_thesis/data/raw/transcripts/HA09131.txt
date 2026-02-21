@@ -1,0 +1,936 @@
+<dokumentstatus><dokument>
+ <hangar_id>5181821</hangar_id>
+ <dok_id>HA09131</dok_id>
+ <rm>2022/23</rm>
+ <beteckning>131</beteckning>
+ <typ>prot</typ>
+ <subtyp></subtyp>
+ <doktyp>prot</doktyp>
+ <typrubrik>Riksdagens protokoll 2022/23:131</typrubrik>
+ <dokumentnamn>Protokoll</dokumentnamn>
+ <debattnamn>Protokoll</debattnamn>
+ <tempbeteckning></tempbeteckning>
+ <organ></organ>
+ <mottagare></mottagare>
+ <nummer>131</nummer>
+ <slutnummer>0</slutnummer>
+ <datum>2023-06-27 00:00:00</datum>
+ <systemdatum>2023-09-22 14:59:34</systemdatum>
+ <publicerad>2023-06-27 00:00:00</publicerad>
+ <titel>Protokoll 2022/23:131 Tisdagen den 27 juni</titel>
+ <subtitel></subtitel>
+ <status>justerat</status>
+ <htmlformat>html</htmlformat>
+ <relaterat_id></relaterat_id>
+ <source>RIM</source>
+ <sourceid></sourceid>
+ <dokument_url_text>https://data.riksdagen.se/dokument/HA09131/text</dokument_url_text>
+ <dokument_url_html>https://data.riksdagen.se/dokument/HA09131</dokument_url_html>
+ <dokumentstatus_url_xml>https://data.riksdagen.se/dokumentstatus/HA09131</dokumentstatus_url_xml>
+ <html>&lt;div class="w460px"&gt;
+&lt;style&gt;&lt;!--
+p.NormalIndent{margin-top:0.6em;text-indent:0em !important;} 
+.w460px{width: 460px;font-size:0.8em;font-family:Verdana, Geneva, sans-serif}
+div&gt;p.Kantrubrik,p.Kantrubrik, p.Innehll, p.TOC1, p.TOC2, p.TOC3, p.Tryckort {visibility:hidden !important;}
+div.w460px&gt;div&gt;h1 {font-size:1.2em !important;}
+div.w460px&gt;div&gt;h2 {font-weight:bold !important;}
+h2.dtyp{font-size:1.5em !important;} @page Section1 { size:595.35pt 842pt; margin:28.35pt 243.8pt 225.4pt 56.7pt }
+div.Section1 { page:Section1 }
+body { t-a:j; font-family:'Verdana'; font-size:10pt }
+h1, h2, h3, h4, h5, p { margin:0pt }
+li, table { margin-top:0pt; margin-bottom:0pt }
+h1 { margin-top:24pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:bold; color:#000000 }
+h2 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h3 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h4 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; font-style:italic; color:#2e74b5 }
+h5 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#2e74b5 }
+.AnmDat { t-a:j; font-style:italic }
+.Anmlan { t-a:j; font-weight:normal }
+.Av { t-a:j }
+.Beslut { t-a:j; font-weight:bold }
+.Beslutsfattande { margin-left:14.2pt; t-a:j }
+.Bordlggning { margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Dikt { margin-top:6pt; margin-left:14.2pt; text-align:left }
+.Eget { t-a:j }
+.Footer { t-a:j }
+.FrgeSvarDatum { margin-top:12pt; text-align:left; font-style:italic }
+.Frgerubrik { t-a:j; font-size:20pt }
+.Frgesvar { margin-top:12pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.FrgesvarRad2 { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.Fredragning { margin-left:14.2pt; text-indent:-14.2pt; text-align:left }
+.Fredragning1 { t-a:j }
+.Header { t-a:j; line-height:15.65pt }
+.IPFR { t-a:j; font-weight:bold }
+.IPFRej { t-a:j; font-weight:bold }
+.IPMellanrubriker { margin-top:9pt; margin-bottom:3pt; text-align:left; page-break-after:avoid; font-style:italic }
+.Innehll { margin-bottom:12pt; t-a:j; font-size:20pt }
+.Kantformat { t-a:j; font-size:9pt; font-style:italic }
+.Kantrubrik { line-height:11.5pt; font-size:9pt; font-style:italic }
+.KantrubrikV { line-height:11.5pt; font-size:9pt; font-style:italic }
+.ListParagraph { margin-left:36pt; t-a:j }
+.Muntligfrga { margin-top:12pt; t-a:j; page-break-after:avoid; font-style:italic }
+.NormalIndent, .NormalIndrag0, .Normalindrag { text-indent:14.2pt; t-a:j }
+.NormalRam { t-a:j }
+.PunktlistaBomber { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaNummer { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaTankstreck { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Rubrik1-EU-nmnden { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.SidfotH { margin-right:5.65pt; text-align:right; font-size:9pt }
+.SidfotV { margin-right:5.65pt; text-align:left; font-size:9pt }
+.SidhuvudF { margin-right:5.65pt; t-a:j; font-size:11pt }
+.SidhuvudFText { margin-right:5.65pt; t-a:j; line-height:12pt; font-size:11pt }
+.SidhuvudFVapen { margin-right:5.65pt; t-a:j; line-height:11.5pt; font-size:11pt }
+.SidhuvudH { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudHS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.SidhuvudV { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudVS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.Subtitle { margin-top:12pt; text-align:left; page-break-after:avoid; font-style:italic }
+.TOC1 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:bold }
+.TOC2 { margin-right:28.35pt; margin-left:28.35pt; text-indent:0pt; font-weight:normal }
+.TOC3 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:normal; font-style:italic }
+.Till { t-a:j }
+.Title { t-a:j; font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+.Tryckort { t-a:j; line-height:12.25pt; font-size:8pt }
+.Upplysning { t-a:j; font-style:italic }
+.anmdat0 { margin-top:5pt; margin-bottom:5pt; t-a:j }
+span.Rubrik4Char { font-family:'Verdana'; font-size:12pt; font-style:italic; color:#2e74b5 }
+span.Rubrik5Char { font-family:'Verdana'; font-size:12pt; color:#2e74b5 }
+span.RubrikChar { font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+--&gt;&lt;/style&gt;
+
+		&lt;div class="Section1"&gt;
+			&lt;h1&gt;
+				&lt;a name="Textstart"&gt;&lt;/a&gt;&lt;a name="_Toc138762898"&gt;&lt;/a&gt;&lt;a name="_Toc146023939"&gt;&lt;/a&gt;&lt;a name="_Toc146279046"&gt;&lt;span style="-aw-bookmark-end:Textstart"&gt;&lt;/span&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om subsidiaritetsprövning&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762898"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023939"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Tredje vice talmannen anmälde att utdrag ur prot. 2022/23:39 för torsdagen den 8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;juni i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från näringsutskottet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc138762899"&gt;&lt;/a&gt;&lt;a name="_Toc146023940"&gt;&lt;/a&gt;&lt;a name="_Toc146279047"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om faktapromemoria&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762899"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023940"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Tredje vice talmannen anmälde att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:286.3pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2022/23:FPM97 En reformering av tullunionen &lt;/span&gt;&lt;span style="font-style:italic"&gt;COM(2023)&lt;/span&gt;&lt;span style="font-style:italic"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;258&lt;/span&gt;&lt;span&gt;,&lt;/span&gt;&lt;span style="font-style:italic"&gt; COM(2023)&lt;/span&gt;&lt;span style="font-style:italic"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;262&lt;/span&gt;&lt;span&gt;,&lt;/span&gt;&lt;span style="font-style:italic"&gt; COM(2023)&lt;/span&gt;&lt;span style="font-style:italic"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;259&lt;/span&gt;&lt;span&gt;, &lt;/span&gt;&lt;span style="font-style:italic"&gt;COM(2023)&lt;/span&gt;&lt;span style="font-style:italic"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;257&lt;/span&gt;&lt;span&gt; till skatteutskottet&lt;/span&gt;&lt;a name="PassTempLäge"&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc138762608"&gt;&lt;/a&gt;&lt;a name="_Toc138762900"&gt;&lt;/a&gt;&lt;a name="_Toc146023941"&gt;&lt;/a&gt;&lt;a name="_Toc146279048"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Svar på interpellation 2022/23:387 om barns och ungas möjlighet till en bra start i livet&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762608"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762900"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023941"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.2pt; -aw-element-left:outside; -aw-element-top:357.25pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;a name="_Toc138762609"&gt;&lt;/a&gt;&lt;a name="_Toc138762901"&gt;&lt;span&gt;Svar på interpellationer&lt;/span&gt;&lt;/a&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc146023942"&gt;&lt;/a&gt;&lt;a name="_Toc146279049"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Socialminister JAKOB FORSSMED&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762609"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762901"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023942"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Sanna Backeskog har frågat mig vilka åtgärder jag och regeringen ämnar vidta för att i den ekonomiska krisen säkerställa att barn och unga fortsatt får möjlighet till en bra start i livet med goda uppväxtvillkor, mat på bordet och en aktiv fritid.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag vill inledningsvis understryka att jag delar den oro som Sanna Backeskog redogör för samt engagemanget när det gäller vikten av goda uppväxtvillkor i det tidiga livet och av att barn och unga ges möjlighet att delta i fritidsaktiviteter.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen har beslutat om en omfattande satsning som ska bidra till en aktiv och meningsfull fritid för barn och unga. Det ska införas ett fritidskort som innehåller ett värde som kan användas som betalning för barn och unga i åldrarna 8–16 år för fritidsaktiviteter inom till exempel idrottsrörelsen, friluftsorganisationer och andra organisationer inom civilsamhället och kulturområdet. Fritidskortet ska ge fler barn och unga möjlighet att i gemenskap med andra få tillgång till idrott, kultur, friluftsliv och föreningsliv. Särskilt barn och unga från socioekonomiskt utsatta hushåll ska genom fritidskortet få utökade möjligheter att delta i fritidsaktiviteter. Detta är en viktig reform för att bidra till ökad hälsa.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringens ambition är att fritidskortet ska införas 2024. Ett fritidskort kan därmed vara det extra stöd som behövs i hushållskassan för att barnet eller den unge ska kunna fortsätta med sin fritidsaktivitet trots det tuffa ekonomiska läget.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;För 2023 har 50 miljoner kronor avsatts för att ta fram nödvändig infrastruktur för införandet av ett fritidskort till barn och unga. I april 2023 gav regeringen E&lt;/span&gt;&lt;span&gt;&amp;#x2011;&lt;/span&gt;&lt;span&gt;hälsomyndigheten, Folkhälsomyndigheten, Försäkringskassan, Myndigheten för ungdoms- och civilsamhällesfrågor och Statens kulturråd ett uppdrag att förbereda och ta fram ett förslag för en digital tjänst och för införandet av ett fritidskort för barn och unga. Under 2024 beräknas 731 miljoner kronor för att införa reformen med fritidskort, och från och med 2025 beräknas årligen 792 miljoner kronor för samma ändamål.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Utöver fritidskortet vill jag lyfta fram en annan satsning som bidrar till att skapa goda uppväxtvillkor och ökad jämlikhet genom att ge varje barn en bra start i livet. Regeringen gav i maj 2023 Socialstyrelsen ett uppdrag att stödja och stimulera barnhälsovårdens förebyggande arbete genom utökade hembesöksprogram. Inom ramen för uppdraget ska myndigheten bland annat fördela medel till regioner under 2023 för att i samverkan med kommuner förbereda utökade hembesöksprogram inom områden med socioekonomiska utmaningar. Även detta är en långsiktig satsning. För 2023 har 50 miljoner kronor avsatts, och regeringen beräknar 100 miljoner kronor för 2024 samt 200 miljoner kronor årligen från och med 2025.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen har även beslutat om andra satsningar som har bidragit till att mildra den situation med ansträngd hushållsekonomi som många för närvarande upplever. Ett sådant exempel är det så kallade elstödet till hushåll, som kan ha bidragit till att skapa det extra utrymme som kan behövas för att betala barns fritidsaktiviteter. Därtill har regeringen förlängt det tillfälliga tilläggsbidraget inom bostadsbidraget till och med december 2023 samt höjt tilläggsbidraget från och med juli 2023.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Avslutningsvis vill jag understryka att regeringen följer utvecklingen både vad gäller det ekonomiska läget i stort och hur utvecklingen påverkar barns och ungas uppväxtvillkor. Barn och unga ska ges möjlighet till en aktiv och meningsfull fritid i gemenskap med andra.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762610"&gt;&lt;/a&gt;&lt;a name="_Toc138762902"&gt;&lt;/a&gt;&lt;a name="_Toc146023943"&gt;&lt;/a&gt;&lt;a name="_Toc146279050"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;SANNA BACKESKOG&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762610"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762902"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023943"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag tackar socialministern för svaret.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Hur väl ett samhälle fungerar speglas i barnens levnadssituation. Under den här våren har jag och mina partikamrater i Gävleborg satt särskilt fokus på frågan om barns uppväxtvillkor och ojämlikhet i det tidiga livet. Vi har besökt familjecentraler, förskolor, förlossningar, barnsjukvårdens och socialtjänstens förebyggandeenheter och kvinnojourer.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Mina riksdagskollegor och jag har träffat många kompetenta och engagerade medarbetare i välfärden. Vi har samtalat med barn och deras föräldrar och med ledare inom föreningslivet. Bilden är samstämmig: Ojämlikheten har ökat, och den demokratiska kontrollen över välfärden har minskat. Det finns all anledning att oroas över barnfamiljers hushållsekonomi, över bostadssegregationen, över ojämlikhet i hälsan och över den ökade psykiska ohälsan.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:left"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Detta är inget unikt för Gävleborg – klassklyftorna har ökat i hela landet. Skillnaderna mellan dem som lever i socioekonomisk utsatthet och de mest förmögna har inte varit så här stora på decennier. Det är dåligt för samhällsgemenskapen, för folkhälsan och faktiskt också för demokratin.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Allra tuffast är det för de ensamstående föräldrarna och deras barn. Jag tycker att de barnrättsorganisationer som jag träffade på ett seminarium i riksdagen tidigare i år uttryckte det väldigt klart: Det ena barnets vardag är det andra barnets utopi. Ansökningarna till Majblomman har ökat myck&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;et det senaste året, och ansökningarna handlar om alltmer basala saker – en filt för 300 kronor, eftersom det är så kallt hemma, är ett exempel.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Ekonomisk ojämlikhet mellan hushåll återspeglas i barnens hälsa. De flesta människor kan nog skriva under på att alla borde ges samma förutsättningar och samma möjligheter att påverka sin situation och att lyckas i livet, men i praktiken skiljer sig barns förutsättningar åt redan när de först ser dagens ljus.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den stora jämlikhetsutredningen &lt;/span&gt;&lt;span style="font-style:italic"&gt;En gemensam angelägenhet&lt;/span&gt;&lt;span&gt;, som den dåvarande socialdemokratiska regeringen och finansministern Magdalena Andersson tillsatte, visade på ojämlikheter redan i den prenatala miljön. Utredaren Per Molander lyfte till exempel upp hur höga stressnivåer hos en gravid kvinna, som är kopplade till låg inkomst och utsatta arbetsvillkor eller familjeförhållanden, ger negativa effekter på barnets kognitiva förmåga, hälsa och studieresultat. Barn i låginkomstfamiljer löper större risk att födas med låg vikt och är i större utsträckning inlagda på sjukhus eller behöver besöka läkare i öppenvården. Sambandet är extra tydligt när det gäller diagnoser som är relaterade till psykisk ohälsa. Om din hälsa är dålig i barndomen påverkar det dina förutsättningar i såväl skolan som arbetslivet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Hushållsekonomi och hälsa är två tätt sammankopplade faktorer som har stor betydelse för de små barnens utveckling och livschanser. Andra viktiga faktorer är familjeförhållanden, förskola, skola och boendesitua&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tion.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi som är demokratiskt folkvalda har ett ansvar och en möjlighet att verka politiskt för att utjämna skillnader och för att inget barn ska lämnas efter. Då behövs både generella och riktade satsningar.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi behöver en stark välfärd som kan finnas där för varenda unge, och vi behöver en aktiv arbetsmarknadspolitik för att barnen ska få se sina föräldrar gå till jobbet. Men vi behöver också en regering som vill och klarar av att prioritera resurser dit där de behövs som mest.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag vill fråga socialministern om han anser att Arbetsförmedlingen, Sveriges kommuner och Sveriges regioner har tillräckliga resurser för att utjämna skillnader och för att ge alla barn en bra och trygg start i livet. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762611"&gt;&lt;/a&gt;&lt;a name="_Toc138762903"&gt;&lt;/a&gt;&lt;a name="_Toc146023944"&gt;&lt;/a&gt;&lt;a name="_Toc146279051"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;LINNÉA WICKMAN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762611"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762903"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023944"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Perioden från ett barns första år fram till 20 års ålder är den viktigaste i en människas utveckling. Det är en tid när vi ska lära för livet, och under denna tid är förskola och skola vid sidan om hemmet och fritidsaktiviteter den mest betydelsefulla miljön. Den är betydelsefull för att utveckla grundläggande kunskaper, färdigheter, social förmåga och samarbete med andra. Under den första delen av våra liv är det osvikligt så att våra uppväxtvillkor styrs av familjens livssituation, som i sig är en förutsättning för att kunna utvecklas och möta hinder. Ojämlikhet och ohälsa tenderar att gå i arv om man inte aktivt försöker att utjämna levnadsvillkoren. Här har svensk skola en av sina mest centrala uppgifter.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Vi ser dock hur de ekonomiska klyftorna ökar och hur de familjer som redan har de minsta ekonomiska marginalerna lämnas i sticket av regeringen under krisen. Vi ser hur kunskapsklyftorna mellan de barn som klarar sig bäst respektive sämst i skolan ökar. Vi ser att likvärdigheten brister och att föräldrars utbildningsnivå får en allt större betydelse för hur barnen lyckas i skolan. Vårt skolsystem förmår inte längre att öka jämlikheten mellan barn.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Men i sitt svar på Sanna Backeskogs interpellation nämner statsrådet inte ens skolans roll. Jag förstår varför, för Tidölaget vill inte göra något åt den ojämlika skolan. I stället slåss man med näbbar och klor för ett världsunikt skolsystem där stora friskolekoncerner överkompenseras och dessutom plockar ut vinster på våra skattemedel. Vi har kunnat se hur skolpengen använts till inköp av våffelstugor och skärgårdstomter och hur skattemedel som skulle ha gått till barnens skola i en kommun i stället använts för att expandera och öppna en skola i en annan kommun. Det är förstås helt vansinnigt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Samtidigt som vi ser konsekvenserna av marknadsskolan och de ekonomiska klyftorna i vårt samhälle hör vi larmen från landets kommun- och regionpolitiker. Det saknas 24 miljarder kronor för att de ska kunna upprätthålla dagens nivå på skola, sjukvård och kultur- och fritidsverksamhet. Sveriges lärare bedömer att minst 12 miljarder kronor behöver tillföras till enbart förskola och skola. Men SD-regeringen har i stället skurit ned på skolan med 2 miljarder kronor i fasta priser, visar en utredning från riksdagens utredningstjänst. Det är ett faktum att den regering statsrådet ingår i valde att prioritera sänkt skatt till sig själv, oss riksdagsledamöter och landets höginkomsttagare med 13 miljarder kronor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag har varit kommun- och regionpolitiker längre än jag har suttit i Sveriges riksdag, och jag vet mycket väl hur lokalpolitiker av olika politisk färg under våren tvingats sitta med hopplösa besparingslistor och försökt prioritera de minst dåliga alternativen för att budgeten ska gå ihop. Kostnadskrisen i kombination med regeringens bristfälliga statsbidrag tvingar Sveriges kommuner och regioner att antingen genomföra skadliga nedskärningar, ofta inom den icke lagstadgade men förebyggande verksamheten, eller höja den platta kommunalskatten, vilket slår hårdast mot vanliga löntagare.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag undrar därför: Vad tycker socialministern att landets kommun- och regionpolitiker ska göra i detta svåra läge? Ska de genomföra stora nedskärningar, som ytterst drabbar barnen, eller ska de höja kommunalskatten i tider av hög inflation?&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762612"&gt;&lt;/a&gt;&lt;a name="_Toc138762904"&gt;&lt;/a&gt;&lt;a name="_Toc146023945"&gt;&lt;/a&gt;&lt;a name="_Toc146279052"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Socialminister JAKOB FORSSMED&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762612"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762904"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023945"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag tackar Sanna Backeskog och Linnéa Wickman. Jag uppskattar ert engagemang för barn och unga, och precis som ledamöterna tycker jag att vi som folkvalda företrädare har ett ansvar att se till att barn kan växa upp under så goda omständigheter som möjligt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:left"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag delar bilden från familjecentraler, socialtjänst och föreningsliv att många barn och unga har det tufft. Vi vet att barn i 10–12-årsåldern ofta slutar på sin fritidsaktivitet för att de vet att det är för dyrt. De kanske säger att det är tråkigt, men i själva verket vet de att pengarna inte räcker för mamma eller pappa när aktiviteten konkurrerar med matkassen och elräkningen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är tuffa tider med en inflationsekonomi, och det finns begränsning&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ar för vad det offentliga kan göra vad gäller stöd och stimulanser efter&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;som en hög inflation slår allra hårdast mot de mest utsatta i samhället. Med detta sagt gäller det att göra satsningar som är välriktade och verkligen når fram, och då är det tillfälligt höjda bostadsbidraget från den 1 juli en viktig satsning. Sanna Backeskog nämnde ensamstående föräldrar, och 135&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 av de mest ekonomiskt utsatta får i och med detta ett höjt stöd med upp till 775 kronor för dem som har högst nivåer i bostadsbidraget till 2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;100 kronor. Det är otroligt viktigt att detta nu kommer på plats, och jag är glad att vi delar ambitionen att förbättra för denna grupp. Av dessa 135&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 är ju de flesta ensamstående mammor eller pappor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Därutöver vill vi införa ett fritidskort. Jag tror att det är viktigt för att varje barn ska känna att barnets fritidsaktivitet inte behöver konkurrera med matkassen, och att man inte ska behöva känna att man måste välja mellan dessa två saker är ett av huvudskälen till att vi gör detta. De som lever i socioekonomisk utsatthet ska få ett extra högt belopp så att de inte måste sluta på sin fritidsaktivitet eller kanske, trots dyrtider, kan börja med en fritidsaktivitet. För mig är det otroligt angeläget och viktigt att alla barn ska ha chans till en aktiv och meningsfull fritid med närvarande vuxna och ledare som välkomnar en till aktiviteten, efterfrågar en och ser en. Detta är väldigt viktigt för att bryta ohälsa och ojämlikhet bland barn och unga.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Därför ställer jag frågan till Socialdemokraterna: Har ni ändrat er och är för fritidskortet? Det är mycket märkligt att ni är emot denna reform. I&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;er utgiftsområdesmotion kallar ni det för fattigvård att satsa 800 miljoner kronor på att alla barn ska ha rätt till en aktiv och meningsfull fritid. Det kan man tycka i en teoretisk diskussion, men för de barn och unga som får detta stöd kommer det att vara ett konkret tillskott till just det som Sanna Backeskog och Linnéa Wickman efterfrågar, nämligen en aktiv och meningsfull fritid som bidrar till att utjämna skillnader för barn och unga. Jag vill ha svar på min fråga.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762613"&gt;&lt;/a&gt;&lt;a name="_Toc138762905"&gt;&lt;/a&gt;&lt;a name="_Toc146023946"&gt;&lt;/a&gt;&lt;a name="_Toc146279053"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;SANNA BACKESKOG&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762613"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762905"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023946"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Vad hjälper ett fritidskort om familjen inte har pengar till träningskläder? Vad hjälper ett fritidskort om kommunerna tvingas minska sina bidrag till föreningar, underhåll av planer och allt annat som bygger sammanhållning, kultur och föreningsliv?&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Det tidiga livet spelar stor roll för hur människan formas och utvecklas. Perioden upp till fem års ålder får konsekvenser för den vuxna människans förmåga att leva ett gott, rikt och långt liv. Störningar och problem i det tidiga skedet kan få livslånga konsekvenser. Ojämlikhe&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ter i det tidiga livet utgör allvarliga orsaker till att störningar och problem fördjupas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Ofta reduceras diskussioner om ojämlikhet till inkomster och förmögenhet. Det är ett väldigt viktigt perspektiv men inte alls tillräckligt för att förstå och bekämpa ojämlikheter. Som jag nämnde i mitt inledande anför&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ande behöver ojämlikheter förstås bredare och över hela livet. Jag pekade på ett antal faktorer som måste vägas in, och jag vill beröra en av dessa lite ytterligare, nämligen betydelsen av små barns boende och uppväxtmiljö.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag bor i Andersberg i Gävle. Det är ett eftersatt område med socio&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ekonomiska utmaningar där ojämlikheten är hög. Jag träffar ofta föräldrar som bor i området och föreningar som är aktiva där. När de pratar med mig om vilka problem de ser i sina barns vardag är det de otillräckliga gemensamma resurserna de tar upp. De pratar inte om behov av skatte&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;sänkningar utan om oro över för små resurser i skola och förskola, om bemötandet på hälsocentralen, om behov av mödra- och barnavård och om trygga och om trivsamma boendemiljöer, utemiljöer och gångvägar. De pratar alltså om sina barns uppväxtmiljö.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Segregation är en aspekt av närmiljön som påverkar barnens utveck&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ling. Vilket grannskap man växer upp i har betydelse för vilka livschanser som erbjuds. Barn som växer upp i utsatta områden bor i hög grad i utsatta områden även som vuxna. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Att växa upp i ett socialt utsatt område kan också innebära att växa upp med känslan av att ingen tror på en. Många är de föräldrar och barn som har berättat för mig om diskriminering och misstänkliggörande. Där jag bor i Andersberg vet vi något om detta, och lika mycket som jag älskar min stadsdel hatar jag vad ojämlikheten gör med oss och med oss Andersbergsbor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Detta förstår våra kommunpolitiker. Socialdemokraterna i Gävle genomför nu tillsammans med Liberalerna, Centerpartiet, Miljöpartiet och Kristdemokraterna ett långsiktigt lyft för Andersberg. Det handlar bland annat om tryggare bilvägar, viktiga mötesplatser, kultur och föreningsliv och en närvarande socialtjänst och förebyggandeenhet. Det är mycket bra, men jag är djupt oroad över den ekonomiska kris som vi befinner oss i och hur våra kommunpolitiker ska klara av att möta den.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Samtidigt som hushållen får allt svårare att klara ekonomin ökar kostnaderna för kommunerna, föreningarna och bostadsbolagen. Då duger det inte att minska statsbidragen till skola, bostadsbyggande och hälso- och sjukvård.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag vill fråga statsrådet om han är beredd att påverka sina samarbetspartier för att regeringen ska kunna lägga i en högre växel och kroka arm med kommunpolitikerna i arbetet med att skapa trygga boendemiljöer och bättre livsvillkor för alla landets barn.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762614"&gt;&lt;/a&gt;&lt;a name="_Toc138762906"&gt;&lt;/a&gt;&lt;a name="_Toc146023947"&gt;&lt;/a&gt;&lt;a name="_Toc146279054"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;LINNÉA WICKMAN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762614"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762906"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023947"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Socialministern har i debatten lyft fram några insatser som regeringen vill rikta till kommuner och regioner när det gäller barns uppväxtvillkor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag tror i grunden att statsrådet delar vår oro kring barns utsatthet. Men problemet är att de insatser som statsrådet föreslår inte på långa vägar kan väga upp de kraftiga nedskärningar som regeringen nu tvingar landets kommuner och regioner att göra. Detta är nedskärningar som kommer att drabba ekonomiskt utsatta barn, oavsett välmenande ord från statsrådet. Regeringen har inte ens valt att ge ett besked om statsbidragen för nästa år så att man runt om i landet åtminstone skulle kunna planera för framtiden i detta extraordinära läge.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Statsrådets icke-svar på min fråga är inte lugnande för någon i vårt land. Jag tycker att det närmast är ett hån att lämna kommuner och regioner i sticket när de ska hantera kostnadskrisen. Faktum är att varje stor nedskärning eller skattehöjning som nu kommer att göras i en kommun ytterst är en konsekvens av regeringens politik.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! I mitt hemlän Gävleborg lever en högre andel av befolkningen i ekonomisk utsatthet än i riket i stort. Det betyder också att fler barn lever i fattigdom. Det är just dessa barn som med regeringens politik får betala priset för krisen. Det är dessa barn som får sluta på fritis när familjen inte längre har råd och som halkar efter i skolan när det skärs ned på den extra stödresursen i klassrummet. Det är också dessa barn som nu går hungriga när skolan har stängt för sommaren. För dessa barn är löftet om ett fritidskort 2024 en mycket klen tröst.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762615"&gt;&lt;/a&gt;&lt;a name="_Toc138762907"&gt;&lt;/a&gt;&lt;a name="_Toc146023948"&gt;&lt;/a&gt;&lt;a name="_Toc146279055"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Socialminister JAKOB FORSSMED&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762615"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762907"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023948"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag tackar interpellanterna för frågorna.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fick vi något besked om fritidskortet från Socialdemokraterna? Vi fick besked om att det bara är i den perfekta världen som det är värt att satsa 800&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;miljoner kronor per år på barns och ungas fritid. Det är bara om kommunerna fortsatt underhåller gräsplanerna ordentligt som detta är värt att göra. Är det så vi ska tolka svaret, fru talman?&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är rätt att det införs 2024 och att det är en klen tröst i dag, men det kommer naturligtvis att vara väldigt viktigt när det införs. Politik är också långsiktighet. Det är saker man vill göra framåt. Det tar lite tid innan man kan få saker och ting på plats. Är det skäl nog att vara emot det, att det införs 2024? Hade Socialdemokraterna varit för det om det hade införts 2023? Det är också en rimlig fråga att ställa mot bakgrund av de svar som ges här från Socialdemokraterna. Argumentationen är ju också så märklig, fru talman – man talar om detta som fattigvård när det i själva verket gäller att barn och ungdomar ska ha rätt till en aktiv och meningsfull fritid.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Linnéa Wickman undrade i sitt första anförande varför jag inte talar mer om skolan här. Det beror på att interpellationen inte berör skolan. Den berör en massa andra saker. Den nämner skolan i samband med skolbespisningar. Vill man ha en interpellationsdebatt om skolan kan man ställa en interpellation om skolan.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag pratar gärna om skolan. Det är väldigt viktigt. Därför ser vi nu till att bygga ut elevhälsan så att den finns fysiskt tillgänglig på alla skolor. Den ska få mer resurser för att kunna stötta barn och unga på ett bättre sätt än i dag, både med skolan och med måendet i övrigt. Vi har en kraftigt ökande psykisk ohälsa som vi behöver möta på olika sätt. Ett sätt att möta den är genom mer aktiv och meningsfull fritid, för vi vet att det spelar roll för hur barn och ungdomar mår.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi jobbar naturligtvis med arbete, för en väldigt viktig orsak till ojäm&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;likhet är arbetslöshet. Är man i långvarig arbetslöshet är också risken större att man drabbas av sociala problem och att det också kan gå i arv. Det är alltså otroligt angeläget att vi både har bidrags- och ersättnings&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;system som stöttar här och nu och att vi kommer med reformer som bidrar till att bryta långvarig arbetslöshet. Det är oerhört angeläget att göra detta.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Föräldrastöd behövs, för det är tufft att vara förälder i dag. Många föräldrar behöver extra stöttning i sin viktiga roll. Vi satsar ytterligare medel för att klara av detta och ytterligare medel för att rekrytera fler familjehem till de barn där det ändå inte funkar med de egna biologiska föräldrarna. Det är också viktigt att ha den beredskapen när man pratar om barns och ungas uppväxtvillkor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag vill också gärna understryka betydelsen av det allra tidigaste livet, vilket nämndes här. Vi satsar nu på utökade hembesöksprogram för att bygga tillit och för att se till att alla barn får rätt att så tidigt som möjligt i livet få insatser som lägger en grund för mer jämlikhet när det gäller hälsa. Det bekymrar mig oerhört mycket att vi fortfarande inte ser några tecken på att vi klarar att minska ojämlikheten när det gäller hälsa. Detta är en enorm utmaning för samhället, och vi behöver göra en massa olika saker. Där ingår förstås kommuner och regioner som en väldigt viktig part. Men vi är i en tuff ekonomisk tid. Det finns begränsningar. Vi vet att om vi driver på en inflationsekonomi kommer också de allra mest utsatta att drabbas hårdast.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen satsade 12 miljarder i statsbidrag i årets budget, och vi kommer naturligtvis att återkomma i budgeten för nästa år med bedömningar och besked till landets kommuner och regioner om hur vi ser på detta framåt och på de behov som helt uppenbart finns ute i regioner och kommuner när det gäller välfärden.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762616"&gt;&lt;/a&gt;&lt;a name="_Toc138762908"&gt;&lt;/a&gt;&lt;a name="_Toc146023949"&gt;&lt;/a&gt;&lt;a name="_Toc146279056"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;SANNA BACKESKOG&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762616"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762908"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023949"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Runt om i Sverige pågår nu ett mycket gott och viktigt arbete för att alla barn ska ha en trygg och likvärdig uppväxt, för föräldrarnas arbetsutsikter, för skolresultaten och för en meningsfull fritid, samtidigt som man brottas med väldigt små resurser och en ekonomisk kris.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;När såväl kommun- och regionpolitiker som barnrättsorganisationer, lärare, poliser och socionomer larmar, då sänker Tidöpartierna skatten med 13 miljarder och utsätter samtidigt hela välfärden för ett stålbad. Det duger inte. De riktade satsningarna blir som att ge en kaka med ena handen men ta en gräddtårta med den andra handen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag sitter i justitieutskottet och har haft förmånen att samtala med poliser runt om i landet. Jag får en ganska samstämmig bild. De lovordar de senare årens ökade fokus på brottsförebyggande arbete och väldigt tydliga samverkan med kommunerna. Samtidigt vittnar de om en djup oro för kommunernas resurser framöver. De om några vet att de viktigaste förebyggande insatserna görs i skolan, i föreningslivet, i socialtjänsten och inom hälso- och sjukvården.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige behöver fler lärare, förskolepedagoger, fältassistenter, socionomer och sjuksköterskor, inte färre. Vi behöver en stark samhällsgemenskap och en välfärd som kan se och möta varenda unge utifrån just det barnets förutsättningar.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag vill tacka statsrådet för en konstruktiv debatt. Jag uppskattar hans engagemang i frågan. Jag känner mig inte tryggare med svaren. Det handlar om finansiering till välfärden och kommunernas förutsättningar att arbeta jämlikhetsskapande och förebyggande. Men jag hoppas att vi kan föra fler samtal tillsammans framöver om hur Sverige ska bli bättre på att skapa trygghet för våra barn här och nu och rusta dem för framtiden, för den enda faktiska anknytningen vi har till framtiden är barnen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Trevlig sommar till er alla! &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762617"&gt;&lt;/a&gt;&lt;a name="_Toc138762909"&gt;&lt;/a&gt;&lt;a name="_Toc146023950"&gt;&lt;/a&gt;&lt;a name="_Toc146279057"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;9&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Socialminister JAKOB FORSSMED&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762617"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762909"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023950"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag vill tacka Sanna Backeskog för den interpellationsdebatt vi har haft här – den är bra och viktig.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag uppskattar det engagemang som finns mycket, och jag uppskattar också att få inspel utifrån hur man uppfattar verksamheter. Det är väldigt angeläget för en regering att få den bilden klar för sig, även om vi förstås själva också är ute och träffar verksamheter. Jag uppskattar olika typer av idéer och naturligtvis det arbete som görs i Gävle och i stadsdelen där. Det lät spännande och intressant, också när det gäller hur man jobbar med fysisk miljö för att öka upplevelsen av trivsel på olika sätt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi behöver göra mycket för att säkra barns och ungas uppväxtvillkor och hälsa. Jag är orolig över många saker när det gäller detta. Hur går det med sömnen hos niondeklassare som sover alldeles för lite? Hur påverkar det deras möjlighet till en god psykisk hälsa, till exempel? Hur påverkar skärmtiden detta? Vad gör det med barn och unga i dag att ständigt ha sociala medier på armlängds avstånd från sig själv dygnet runt, hela tiden? Vi behöver veta mer om detta.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi behöver jobba med skolan på olika sätt, med ökat stöd via elevhälsan, och se till att bygga ut kapaciteten i barn- och ungdomspsykiatrin. Vi behöver arbeta med socialtjänsten och se till att de kan samverka mycket bättre med skolan och polisen i ett tidigare skede för att fånga upp de barn som riskerar att hamna fel i tillvaron och de barn som bara behöver extra stöttning. Vi behöver jobba med föräldrarna så de får rätt verktyg att kunna stötta sina barn på bästa sätt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi behöver jobba med föreningslivet och se till att föreningar får möjlighet att vara ännu mer närvarande i fler barns liv och att det finns fler extra vuxna i barns liv som välkomnar dem till en aktivitet. Att barn som har det tufft hemma får komma till en aktivitet där någon säger ”Jag har inte sett dig här på ett tag, vad kul att se dig!” kan verkligen göra skillnad i ett barns liv. Detta vet vi att många barn och unga vittnar om.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Interpellationsdebatten var härmed avslutad.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc138762618"&gt;&lt;/a&gt;&lt;a name="_Toc138762910"&gt;&lt;/a&gt;&lt;a name="_Toc146023951"&gt;&lt;/a&gt;&lt;a name="_Toc146279058"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Svar på interpellation 2022/23:385 om ny uppsättning byggverktyg för Kommunsverige&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762618"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762910"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023951"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762619"&gt;&lt;/a&gt;&lt;a name="_Toc138762911"&gt;&lt;/a&gt;&lt;a name="_Toc146023952"&gt;&lt;/a&gt;&lt;a name="_Toc146279059"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;10&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet ANDREAS CARLSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762619"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762911"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023952"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Arwin Sohrabi har frågat mig om jag avser att införa ett nytt statligt investeringsstöd, om jag avser att undanta allmännyttan från lagen om offentlig upphandling samt om jag avser att införa en modern variant av förköpsrätten enligt vad som har angetts i interpellationen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;För att börja med investeringsstödet delar jag inte Arwin Sohrabis uppfattning att bara för att ett bostadsprojekt har finansierats med statliga medel så har bostäderna tillkommit enbart tack vare detta stöd. Enligt en rapport som konsultföretaget Tyréns har gjort på uppdrag av Hyresgästföreningen har uppemot 40 procent av stödet gått till bostäder som skulle ha byggts ändå. Med det resultatet som utgångspunkt kan man knappast kalla stödet för effektivt. Regeringen och jag har inte för avsikt att införa ett sådant investeringsstöd som Arwin Sohrabi efterlyser.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;När det gäller lagen om offentlig upphandling och dess konsekvenser för allmännyttiga bostadsföretag konstateras det i betänkandet &lt;/span&gt;&lt;span style="font-style:italic"&gt;Bygg och bo till lägre kostnad&lt;/span&gt;&lt;span&gt; (SOU 2020:75) att frågan är komplex. Frågan behandlas även i betänkandet &lt;/span&gt;&lt;span style="font-style:italic"&gt;Sänk tröskeln till en god bostad&lt;/span&gt;&lt;span&gt; (SOU 2022:14), som också innehåller ett förslag till förändring av lagen om offentlig upphandling. Betänkandet bereds inom Regeringskansliet, och jag vill inte föregripa resultatet av denna beredning.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den tredje frågan handlar om införandet av en ny förköpslag. Reger&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ingen beslutade den 17 maj 2023 om tilläggsdirektiv till den pågående utredningen om en ny förköpslag. Regeringen har lagt om fokus för utredningen och har nu uppdragit åt utredaren att se över de särskilda situationer där det kan vara motiverat att kommunen eller staten går in och tar över ett fastighetsköp. Det handlar om att förebygga och bekämpa organiserad brottslighet och att skydda totalförsvaret. Regeringen avser därmed inte att införa en sådan variant av förköpsrätt som Arwin Sohrabi föreslår.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762620"&gt;&lt;/a&gt;&lt;a name="_Toc138762912"&gt;&lt;/a&gt;&lt;a name="_Toc146023953"&gt;&lt;/a&gt;&lt;a name="_Toc146279060"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;11&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ARWIN SOHRABI&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762620"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762912"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023953"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Medan vi står här och debatterar står vi inför den kanske värsta bostadskrisen på flera årtionden. När jag talar med folk om att den sverigedemokratiska högerregeringen har en bostadsminister som aktivt väljer att inte agera utan hellre saboterar möts jag väldigt ofta av förvåning. Folk förvånas över att vi faktiskt har en bostadsminister med tanke på avsaknaden av handling och bostadspolitik.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I dag kan jag personligen i alla fall bekräfta statsrådets existens, men huruvida statsrådet har en bostadspolitik är upp till honom att redogöra för under interpellationsdebattens gång.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi kan börja med det investeringsstöd som regeringen tog bort. Man kan förstås tycka vad man vill om stödet, men om vi för ett ögonblick pausar tyckandet och kollar på fakta går det inte komma ifrån att stödet bidrog till ett ökat bostadsbyggande. Statsrådet vet detta. Han vet det därför att samma rapport som han hänvisade till i sitt svar säger att stödet totalt bidrog till 30&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 fler bostäder med lägre hyra som annars inte hade blivit av.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Rapporten visar också att alla bostäder som byggdes med stödet, inte bara de 30&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000, hade lägre hyra än övrig nyproduktion. Bara i min hemkommun Malmö hade det fram till september 2021 byggts cirka 2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;200 lägenheter där investeringsstöd beviljats.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Om stödet hade tagits bort när vi fortfarande hade socialdemokratiska rekordsiffror för bostadsbyggandet hade det förmodligen också påverkat byggtakten, men att regeringen tog bort det under brinnande kris och i vad som kan vara den värsta bostadskrisen på flera årtionden måste man säga var synnerligen obegåvat.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Om det fortsätter så här kommer dessvärre regeringens och statsrådets eftermäle enbart att vara tomrum, för att där bostäder borde ha stått finner vi i dag inget annat än just tomrum. Detta tomrum är dock väl representa&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tivt för regeringens handlingsförlamning, orkeslöshet och totala resigna&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tion inför krisen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Därefter har vi förköpsrätten, fru talman. Den tidigare socialdemokratiska regeringen tillsatte en utredning om en modern variant av förköpsrätten för kommunerna, som bland annat skulle främja långsiktig samhällsomvandling och motverka segregation. Detta kunde statsrådet och hans kollegor förstås inte tillåta, och därför skrotade man helt den inriktningen. Jag kan bara beklaga att statsrådet inte ens ville se resultatet av den tillsatta utredningen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman och åhörare! Avslutningsvis vill jag kort beröra det förslag om att undanta allmännyttan från LOU som nu verkar vara under beredning. Jag vill bara tillägga att åhörarna bör veta att utredningar har visat att dagens LOU-regler missgynnar de allmännyttiga bostadsbolagen och faktiskt leder till högre kostnader.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Man kan fråga sig varför inte allmännyttan ska få verka på affärsmässiga villkor. Jag vill påminna statsrådet om att det redan när alliansreger&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ingen införde den så kallade allbolagen 2011 hette att det handlade om att allmännyttan skulle få verka på just affärsmässiga villkor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Bostaden är inte som vilken vara som helst, utan det är en central del av vår välfärd. Vi har nu fått höra om vad statsrådet och regeringen inte vill, men negering bygger inga bostäder. Hur länge till ska kommunerna stå utan stöd och verktyg för att tackla krisen?&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762621"&gt;&lt;/a&gt;&lt;a name="_Toc138762913"&gt;&lt;/a&gt;&lt;a name="_Toc146023954"&gt;&lt;/a&gt;&lt;a name="_Toc146279061"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;12&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;MARKUS KALLIFATIDES&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762621"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762913"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023954"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Tack, statsrådet, för svaret! Jag tackar interpellanten Arwin Sohrabi för möjligheten att få delta här i frågor som statsrådet och jag har haft nöjet att diskutera under riksdagsåret ett antal gånger.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Det är klart att vi med en SD-kontrollerad högermajoritet i Sveriges riksdag får en högerpolitik i Sverige – en enligt min uppfattning dålig högerpolitik. Vi får marknadisering, privatisering och underfinansiering av välfärd och arbetsmarknadspolitik. Vi får skattesänkningar och elstöd riktade till miljonärer och kanske till och med miljardärer.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi får beskärning och begränsning av demokratiskt valda politikers handlingsutrymme och handlingsmöjligheter. Till exempel snävar man av en eventuellt kommande modern förköpsrätt på bostadsområdet. Kommunpolitiker ska inte få använda samhällsplanering och markanvändning som ett verktyg för att bekämpa bostadssegregation, säkra industriell utveckling och säkra en rättvis klimatomställning. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Inget av detta är vad Sverige behöver. Men jag undrar om inte den förtida avvecklingen av investeringsstödet till byggande av hyresrätter med lägre hyresnivå är ett slags försök att sätta svenskt rekord i illa tajmad politik. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi ser nu att det 2023 kommer att färdigställas cirka 60&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 bostäder i Sverige. År 2024 kommer det enligt Boverkets prognos att färdigställas 40&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 bostäder. År 2025 kommer enligt samma prognos 30&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 bostäder att färdigställas, det vill säga hälften av det som behövs per år. Var kommer vi att hamna 2026, Andreas Carlson? &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! I sitt svar på ledamoten Sohrabis interpellation menar statsrådet att det investeringsstöd som fanns inte var effektivt, och han hänvisar till Tyrénrapporten som gjorts på uppdrag av Hyresgästföreningen. I denna rapport konstateras det att ungefär 60&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;procent av de lägenheter som har byggts med stöd inte hade byggts utan stöd. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;År 2017–2021 satsade vi 9,7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;miljarder kronor. Vi fick enligt rapporten 30&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 lägenheter. I dessa lägenheter bor 62&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 personer, statistiskt uppskattat. Till en kostnad av 156&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 kronor per person fick dessa människor en nybyggd, bra och välplanerad bostad att bo i. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Statsrådet menar att detta inte är effektivt, eller har varit det. Då undrar jag: Jämfört med vad? Är det kanske jämfört med den miljon som vi har satsat på att utomeuropeiska arbetskraftsinvandrare ska få en anställning i rutbranschen i Sverige, eller vad jämför man med? &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Min fråga till statsrådet inför sommaruppehållet är: Kan riksdagen hoppas på lite mer noggranna bedömningar av åtgärders effektivitet på det bostadspolitiska området framöver?&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762622"&gt;&lt;/a&gt;&lt;a name="_Toc138762914"&gt;&lt;/a&gt;&lt;a name="_Toc146023955"&gt;&lt;/a&gt;&lt;a name="_Toc146279062"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;13&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet ANDREAS CARLSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762622"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762914"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023955"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag vill inleda med Arwin Sohrabis följdfrågor. En interpellationsdebatt går till på ett sådant sätt att ett statsråd får konkreta frågor, och jag har gett svar på dessa frågor i interpellationssvaret. Det är kanske inte alltid precis som ledamoten önskar. Men att ta svaren på dessa tre frågor till intäkt för att vi inte gör andra saker på bostadsområdet håller inte riktigt. Vi gör väldigt mycket just nu, och vi har en väldigt tuff situation på bostadsmarknaden. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;När det gäller frågan om investeringsstödet, som båda ledamöterna tar upp, kan bostadsbristen inte lösas med kostsamma subventioner med låg träffsäkerhet. Enligt den utvärdering som jag hänvisade till, och som ledamöterna också tog upp i sina inlägg, skulle 40&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;procent av bostäderna – fyra av tio bostäder – ha byggts även utan stödet. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vad handlar detta om i kronor? Jo, det handlar om att ungefär 10&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;miljarder kronor av skattebetalarnas pengar gått till byggen som ändå hade skett. Det kan inte på något sätt anses vara ett effektivt och ansvarsfullt hanterande av skattebetalarnas pengar i ett läge där ekonomin är väldigt tuff, inte minst för de allra mest utsatta hushållen. Och det är där som regeringen har lagt sitt största fokus i sin vårändringsbudget, där förstärkningen och förlängningen av det tillfälliga bostadsbidraget för barnfamiljer är den enskilt största satsningen, eller posten, i budgeten. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det var riksdagen som beslutade att 2021 avveckla investeringsstödet. Om regeringen inte hade fullföljt detta beslut hade vi haft ansökningar som uppgått till 16&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;miljarder kronor för kommande år att hantera. Tillsammans med de 4 miljarder kronor som har tillskjutits av regeringen för att på ett ansvarsfullt sätt avveckla investeringsstödet hade summan uppgått till 20&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;miljarder svenska kronor. Ett exempel för att man ska förstå hur stor denna summa är är att hela reformutrymmet för den innevarande budgeten i år 40&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;miljarder kronor. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Inte ens Socialdemokraterna själva tyckte att det var en befogad ekonomisk prioritering i detta ekonomiska läge, då de inte lade ett öre mer än regeringen i sin skuggbudget för att behålla investeringsstödet. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen arbetar alltså med träffsäkra reformer. Det finns ett eftersatt reformbehov. Byggbar mark behöver tillgängliggöras, ledtider behöver kortas, regelverk behöver förbättras och förändras. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;För två veckor sedan bjöd jag in ett stort antal aktörer i bostads- och byggsektorn för att prata om just den tuffa situation som är just nu. Det kom flera förslag på bordet. Det fanns i huvudsak en samsyn kring de strukturella hinder som behöver åtgärdas. Vi hade varit i ett bättre läge om den förra regeringen under åtta år, då det i huvudsak var högkonjunktur och billigt att bygga, hade använt denna tid för att förbereda bostadsbyggandet i Sverige för en tuffare situation som vi nu är inne i. Denna chans tog man inte, och det får vi nu bära ansvaret för när vi arbetar i högt tempo för att ta fram de reformer som krävs för att få en bättre fungerande bostadsmarknad, så att fler ska kunna förverkliga sina boendedrömmar. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen kommer förstås att återkomma till detta, och jag ser fram emot det. Vi kommer att återkomma med reformer redan till hösten och under mandatperioden. Det får vi säkert anledning att återkomma till även i interpellationsdebatter. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762623"&gt;&lt;/a&gt;&lt;a name="_Toc138762915"&gt;&lt;/a&gt;&lt;a name="_Toc146023956"&gt;&lt;/a&gt;&lt;a name="_Toc146279063"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;14&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ARWIN SOHRABI&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762623"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762915"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023956"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag tackar statsrådet för svaret. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det kan vara så att statsrådet ännu inte har förstått allvaret i denna situation, och det kan vara så att statsrådet tror att våra varningar om kollapsen är baserade på våra tyckanden. Jag vill därför uppmana statsrådet att lyssna på myndigheterna, förutsatt att regeringen nu har något förtroende kvar för dem. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Boverket menar att mer än 60&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 bostäder behöver byggas varje år bara för att klara bostadsförsörjningen. Detta vet självklart statsrådet. I deras juniprognos sägs det dock att antalet påbörjade bostäder minskar från över 70&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 under toppåret 2021 till cirka 27&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 detta år och till 22&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 nästa år. De är inte ensamma om att ha en så dyster prognos. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Enligt exempelvis SCB störtdyker bostadsbyggandet med 50&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;procent i hela landet – en halvering. Och i vissa regioner, exempelvis min egen, är fallet ännu brantare. Trots detta – åtta månader efter att statsrådet tillträdde – har ingenting ännu presenterats för att få igång byggandet. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är klart att statsrådet i denna interpellation kan ducka och prata om vad ni vill göra. Men faktum kvarstår att ingenting har gjorts. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det stöd som statsrådet så lättvindigt avfärdar hade i dag kunnat möjliggöra billigare boenden för vanligt folk. När mattan rycktes undan för investeringsstödet visade det sig nämligen att man med kirurgisk precision satte krokben för bostadsbyggandet i stället för att behålla det. Stödet hade kunnat funka som en dämpare under denna nedgång. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Även vi socialdemokrater hade som förslag att i alla fall beta av kön för 2023 i stället för att helt och hållet rycka undan mattan för detta stöd. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Som tidigare har framförts kan man tycka vad man vill om stödets träffsäkerhet. Men 30&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 bostäder hade inte byggts om det inte vore för detta stöd. Och dessa bostäder hade varit mer än behjälpliga i dessa kris&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tider. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag vill bara lite kortfattat med ett exempel berätta för statsrådet vilka konsekvenser hans handlande faktiskt får i verkligheten. Häromdagen kunde man i Malmö läsa i tidningarna att en byggherre sa att de kommer att bli tvungna att höja hyran kraftigt i en fastighet som de snart ska bygga och som innehåller nästan bara små ettor. De kommer att behöva höja hyran med nästan 20&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;procent eftersom specifikt investeringsstödet avskaffades och eftersom de hade planerat utifrån investeringsstödet när de planerade denna byggnad. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vad säger statsrådet till alla dessa människor – många kanske är ungdomar som skulle få detta som sitt första boende – som nu kommer att få chockhöjda hyror för att detta stöd rycks undan och man inte ens låter kön betas av? Tänker han över huvud taget på hur hans agerande påverkar vanligt folk? &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Som anledning till att man stoppade utredningen om förköp sa statsrådet i en intervju att den har väckt oro bland vissa hushåll och fastighetsägare. Jag tyckte att detta uttalande var något komiskt. Vad som har väckt mycket oro bland många hushåll är nämligen det faktum att folk inte vet var de ska bo framöver. Men detta har statsrådet inte agerat på över huvud taget. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Trots att statsrådet kanske tror det är det ingen som förväntar sig att han på åtta månader ska göra vad den förra regeringen gjorde på åtta år, men jag tror nog att alla förväntar sig att han i alla fall ska göra någonting. I vilket annat jobb kan man gå åtta månader utan att göra någonting? &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är förstås inte heller någon som anklagar statsrådet för att ha initierat en ekonomisk kris; det han anklagas för är att med största sannolikhet ha förvärrat krisen genom att nedmontera viktiga stöd. Vidare handlar det inte bara om byggnation utan även om arbetstillfällen som går förlorade när bostadsbranschen påverkas. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762624"&gt;&lt;/a&gt;&lt;a name="_Toc138762916"&gt;&lt;/a&gt;&lt;a name="_Toc146023957"&gt;&lt;/a&gt;&lt;a name="_Toc146279064"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;15&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;MARKUS KALLIFATIDES&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762624"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762916"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023957"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Statsrådet Andreas Carlson talar om 10, kanske 20, miljarder kronor som hade kunnat satsas på investeringsstöd framåt om det gamla regelverket hade gällt. Han skrämmer oss alltså med dessa stora tal. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Därför tycker jag att det är på sin plats, fru talman, att påpeka att 13&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;miljarder var vad den sittande regeringen satsade på att sänka skatten för oss riksdagsledamöter och andra höginkomsttagare. Elisabeth Svantes&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;son har också skickat ut promemorior om att förbereda skattesänkningar på i storleksordningen 24 miljarder, inte minst för höginkomsttagare, under nästkommande år. Tydligen finns det alltså pengar till skattesänkning&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ar för Andreas Carlson och mig men inte till att bygga bostäder, bekämpa trångboddheten och säkra ett samhälle som håller ihop och en byggbransch som lever. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag har tidigare under försommaren konstaterat att statsrådet inte har några egna prognoser gällande bostadsbyggandet under mandatperioden. Jag har också konstaterat att det inte finns några tydliga bostadspolitiska mål – inte ens sådana som bostadsministerns partikamrat Larry Söder med emfas krävde i denna kammare under den förra mandatperioden. Jag menar vidare att bostadsministern saknar en trovärdig plan för hur vi ska få igång bostadsbyggandet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Trots allt detta, fru talman, vill jag önska Andreas Carlson en mycket fin sommar och tacka för denna debatt. Samtidigt vill jag påpeka att sommaren är ett bra tillfälle att reflektera och kanske tänka om. Det kommer att behöva ges stöd till nybyggnation av bostäder som vanligt folk har råd att bo i. Sverige behöver en annan bostadspolitik. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762625"&gt;&lt;/a&gt;&lt;a name="_Toc138762917"&gt;&lt;/a&gt;&lt;a name="_Toc146023958"&gt;&lt;/a&gt;&lt;a name="_Toc146279065"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;16&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet ANDREAS CARLSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762625"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762917"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023958"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag har förstått allvaret. Det är en väldigt tuff situation på bostadsmarknaden. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;De prognoser som både SCB och Boverket har presenterat liksom de rapporter från olika aktörer i branschen som jag ofta möter – det kan vara civilsamhället, parterna i treparten, byggföretag eller aktörer från andra delar av bostadsmarknaden – understryker allvaret. Det var också därför jag bjöd in till ett stort och angeläget möte för två veckor sedan. Där kom det upp flera förslag på bordet som vi nu analyserar. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:left"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Arwin Sohrabi säger att vi avskaffade investeringsstödet lättvindigt. Det gjorde vi inte alls. Det var ett riksdagsbeslut. Riksdagens beslut är inte lättvindiga beslut. Regeringen har förstås att följa det riksdagen beslutar, och vi avvecklade investeringsstödet på ett ansvarsfullt sätt. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Frågan går dock tillbaka till Arwin Sohrabi: Var ska de 10 miljarder kronorna hämtas någonstans? Ska de tas från skolan, vården och omsor&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;gen? Man kan göra som Kallifatides, det vill säga debattera skatter, men då kan man lika väl ställa sig frågan varför riksdagsledamöter ska få höjt barnbidrag. Det är nämligen precis det Socialdemokraterna föreslår, till skillnad från vad regeringen har gjort. Vi har förstärkt det tillfälliga till&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;läggsbidraget till barnfamiljer, vilket träffar 110&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 barnfamiljer som verkligen behöver ett extra stöd. Det kan innebära skillnaden för dem under den tuffa sommar som många familjer nu möter. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är en av de saker som regeringen har gjort. Jag tänkte räkna upp några till, för jag tror inte att Arwin Sohrabi har följt med i allt regeringen har gjort under dessa åtta månader för att få en bättre fungerande bostadsmarknad. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Boverket har fått i uppdrag att ta fram förslag till betydande lättnader i byggkraven för studentbostäder. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi har tillsatt en utredning om att sänka tröskeln till eget ägande för att utveckla systemet med ägarlägenheter och en ny modell för hyrköp av bostäder som fungerar bra i många andra länder, inte minst Norge. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi har tillsatt en kommitté för högre produktivitetstillväxt. Ett av problemen på bostadsmarknaden är att tillväxten är väldigt låg när det kommer till byggande. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi har tillsatt en kommitté som har fått i uppdrag att analysera hur låntagarbaserade makrotillsynsåtgärder fungerar och ta fram ändamålsenliga förändringar vad gäller både bolånetakets utformning och amorteringskravet. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Finansinspektionen har kartlagt undantagen från amorteringskraven under vintern 2022–2023 och den ventil för amortering som är viktig för många av de hushåll där livssituationen ändras. Man kanske förlorar jobbet eller på grund av sjukdom inte kan amortera i samma takt. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Länsstyrelserna har fått i uppdrag att redovisa vilka åtgärder som genomförs i samverkan med kommunerna för att främja ett ökat bostadsbyggande där det finns ett underskott på bostäder. Det sätter ett ökat tryck på både länsstyrelserna och kommunerna. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi har remitterat en promemoria med förslag om ett höjt schablon&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;avdrag vid uthyrning av privatbostadsfastigheter, privatbostäder och hy&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;res&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;lägenheter så att det ska bli mer lönsamt att hyra ut en del av sin bostad. Vi har också tillsatt en utredning som ska förenkla privatuthyrning samt en utredning som ska ta fram förslag om att i princip återställa presum&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tionshyressystemet. Där har konsekvensen blivit att en del av kalkylen har påverkats kraftigt, vilket både allmännyttan och många andra har pekat på. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi har dessutom gjort det tilläggsdirektiv i förköpslagen som har debatterats tidigare, och vi har även många andra saker på gång. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Problemet är inte att vi har gjort för lite under dessa åtta månader utan att det fanns ett stort reformbehov efter Socialdemokraternas åtta år. Där arbetar vi nu i kapp i ett högt tempo, och jag ser fram emot att återkomma med fler reformer, fru talman. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762626"&gt;&lt;/a&gt;&lt;a name="_Toc138762918"&gt;&lt;/a&gt;&lt;a name="_Toc146023959"&gt;&lt;/a&gt;&lt;a name="_Toc146279066"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;17&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ARWIN SOHRABI&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762626"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762918"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023959"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag tackar statsrådet och även Markus Kallifatides. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag vill inledningsvis bara säga att vi socialdemokrater självklart är för en del av förslagen, till exempel det om höjt bostadsbidrag. Jag vill också säga att jag står fast vid det jag sa tidigare, nämligen att högerpartierna lättvindigt avskaffade det viktiga investeringsstödet. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag konstaterade tidigare att det är upp till statsrådet att framföra huru&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;vida han har en bostadspolitik eller ej. I sitt senaste inlägg tog statsrådet upp några förslag som han har lagt fram. Det återstår att se om de kommer att leda till ökat byggande, men det syns i alla fall inte i prognoserna. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Såvida statsrådets avslutande inlägg inte går helt emot den passivitet vi tyvärr har vant oss vid kan vi tyvärr konstatera att regeringens bostadspolitik inte bygger några bostäder. Det rabblades upp ett antal reformer, men de bygger inga bostäder. Att ha en bostadsminister som inte bygger bostäder – en bostadsminister utan handlingskraftig bostadspolitik – är säkert möjligt, men det är meningslöst. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Oavsett detta hoppas jag att statsrådet fortsatt kommer att ta frågan på det allvar den förtjänar, vilket han påstår att han gör. Förhoppningsvis har denna interpellationsdebatt bidragit med något. Kanske blir den 27 juni en väckarklocka. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag vill avslutningsvis framföra en förhoppning om att statsrådet i sitt sista inlägg inte kommer med något raljant svar där han slår ifrån sig allt ansvar, hänvisar till att han bara har haft jobbet i åtta månader eller – vilket är ännu värre – lägger ansvaret på någon helt annan. Jag vill även passa på att önska en trevlig sommar till talmannen, åhörarna och Markus samt, framför allt, till statsrådet. Jag önskar att han får en trevlig sommar. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag vill också säga att vi socialdemokrater är redo att agera. Vad Sverige behöver är nämligen en regering som agerar, och det Sverige har nu är en regering som negerar. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc138762627"&gt;&lt;/a&gt;&lt;a name="_Toc138762919"&gt;&lt;/a&gt;&lt;a name="_Toc146023960"&gt;&lt;/a&gt;&lt;a name="_Toc146279067"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;18&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet ANDREAS CARLSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762627"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762919"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023960"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Sverige befinner sig i ett tufft ekonomiskt läge. Byggtakten sjunker, och förutsättningarna för bostadsbyggande har försämrats kraftigt. Det låter lite grann i debatten som att Arwin Sohrabi inte riktigt ser utvecklingen, som till stor del beror på omvärldsfaktorer. Det handlar om den höga inflationen, stigande räntor, höjda energipriser, en minskad efterfrågan och en stor osäkerhet. Samtidigt är byggbehovet fortsatt stort i vårt land, och de strukturella problemen på bostadsmarknaden beror inte på omvärldsfaktorer utan på att bostadspolitiken bortprioriterats under en alltför lång tid.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi har nu lagt om en del av bostadspolitiken och ökat tempot. Det hade varit välkommet om fler reformer hade varit på plats för att korta ledtider, få mer byggbar mark och förenkla och förbättra regelverk. Det är icke desto mindre inte fel att göra det nu i högt tempo. Det var också något som många i branschen efterlyste i rundabordssamtalet för två veckor sedan. När nu konjunkturen vänder och vi ser ökningar av både produktivitets&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;kostnaderna och finansieringsproblemen är det klart att vi hade varit i ett bättre läge om flera av de här sakerna varit på plats. Men regeringen arbe&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tar nu i högt tempo för att få en bättre fungerande bostadsmarknad. Vi analyserar också förslag som har kommit fram och som på kort sikt kan dämpa effekterna. Då är det viktigaste beskedet till de hushåll som har de allra minsta marginalerna att det har varit vår huvudprioritet att dämpa effekterna för dem. Vi kommer att återkomma, och jag ser fram emot det.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag vill tacka för den här interpellationen. Jag vill också önska en trevlig sommar till ledamöterna, till fru talmannen, till alla hårt arbetande medarbetare i Riksdagsförvaltningen som är representerade här i kammaren denna förmiddag och till alla åhörare som har följt debatten.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellationer&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Interpellationsdebatten var härmed avslutad.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc138762920"&gt;&lt;/a&gt;&lt;a name="_Toc146023961"&gt;&lt;/a&gt;&lt;a name="_Toc146279068"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om fråga för skriftligt svar&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762920"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023961"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande fråga för skriftligt svar hade framställts:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="anmdat0" style="margin-top:0pt; margin-bottom:0pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 26 juni&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2022/23:820 Skatt för prostituerade&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:209.8pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Helena Vilhelmsson&lt;/span&gt;&lt;span&gt; (C)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till finansminister Elisabeth Svantesson (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc138762921"&gt;&lt;/a&gt;&lt;a name="_Toc146023962"&gt;&lt;/a&gt;&lt;a name="_Toc146279069"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Kammaren åtskildes kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;10.01.&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc138762921"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc146023962"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sammanträdet leddes av tredje vice talmannen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;Vid protokollet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; line-height:11.3pt; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:189.95pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span&gt;ANNA ASPEGREN&lt;/span&gt;&lt;span style="-aw-import:spaces"&gt;&amp;#xa0;&amp;#xa0;&amp;#xa0; &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="line-height:11.3pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent" style="line-height:11.3pt"&gt;
+				&lt;span style="width:51pt; text-indent:0pt; display:inline-block"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="width:65.2pt; text-indent:0pt; display:inline-block"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;/Olof Pilo&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Tryckort"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Innehll"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;&lt;span&gt;Innehållsförteckning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om subsidiaritetsprövning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om faktapromemoria&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Svar på interpellation 2022/23:387 om barns och ungas möjlighet till en bra start i livet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Socialminister JAKOB FORSSMED&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;SANNA BACKESKOG&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;LINNÉA WICKMAN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Socialminister JAKOB FORSSMED&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;SANNA BACKESKOG&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;LINNÉA WICKMAN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Socialminister JAKOB FORSSMED&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;SANNA BACKESKOG&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;9&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Socialminister JAKOB FORSSMED&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Svar på interpellation 2022/23:385 om ny uppsättning byggverktyg för Kommunsverige&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;10&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet ANDREAS CARLSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;11&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ARWIN SOHRABI&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;12&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;MARKUS KALLIFATIDES&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;13&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet ANDREAS CARLSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;14&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ARWIN SOHRABI&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;15&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;MARKUS KALLIFATIDES&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;16&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet ANDREAS CARLSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;17&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;ARWIN SOHRABI&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;18&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet ANDREAS CARLSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om fråga för skriftligt svar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Kammaren åtskildes kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;10.01.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Tryckort"&gt;
+				&lt;span&gt;Tryck: Elanders Sverige AB, Vällingby 2023&lt;/span&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+</html>
+</dokument>
+<dokbilaga>
+<bilaga>
+<dok_id>HA09131</dok_id>
+<subtitel></subtitel>
+<filnamn>prot_202223__131.pdf</filnamn>
+<filstorlek>200236</filstorlek>
+<filtyp>pdf</filtyp>
+<titel>Protokoll 2022/23:131 Tisdagen den 27 juni</titel>
+<fil_url>https://data.riksdagen.se/fil/EB08FBE6-52B1-4637-BCEF-E5258551953B</fil_url>
+</bilaga>
+</dokbilaga>
+</dokumentstatus>

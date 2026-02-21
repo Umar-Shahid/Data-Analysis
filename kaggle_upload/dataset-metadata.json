@@ -1,0 +1,10 @@
+{
+  "title": "Riksdag Speeches (Processed CSVs)",
+  "id": "muhammadumarshahid/riksdag_speeches",
+  "licenses": [
+    {
+      "name": "CC0: Public Domain"
+    }
+  ],
+  "description": "Processed Swedish Parliament (Riksdag) speeches and transcripts with opponent references"
+}

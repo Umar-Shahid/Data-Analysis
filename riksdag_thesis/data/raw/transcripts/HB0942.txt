@@ -1,0 +1,811 @@
+<dokumentstatus><dokument>
+ <hangar_id>5192905</hangar_id>
+ <dok_id>HB0942</dok_id>
+ <rm>2023/24</rm>
+ <beteckning>42</beteckning>
+ <typ>prot</typ>
+ <subtyp></subtyp>
+ <doktyp>prot</doktyp>
+ <typrubrik>Riksdagens protokoll 2023/24:42</typrubrik>
+ <dokumentnamn>Protokoll</dokumentnamn>
+ <debattnamn>Protokoll</debattnamn>
+ <tempbeteckning></tempbeteckning>
+ <organ></organ>
+ <mottagare></mottagare>
+ <nummer>42</nummer>
+ <slutnummer>0</slutnummer>
+ <datum>2023-12-05 00:00:00</datum>
+ <systemdatum>2024-01-25 17:07:19</systemdatum>
+ <publicerad>2023-12-05 00:00:00</publicerad>
+ <titel>Protokoll 2023/24:42 Tisdagen den 5 december</titel>
+ <subtitel></subtitel>
+ <status>justerat</status>
+ <htmlformat>html</htmlformat>
+ <relaterat_id></relaterat_id>
+ <source>RIM</source>
+ <sourceid></sourceid>
+ <dokument_url_text>https://data.riksdagen.se/dokument/HB0942/text</dokument_url_text>
+ <dokument_url_html>https://data.riksdagen.se/dokument/HB0942</dokument_url_html>
+ <dokumentstatus_url_xml>https://data.riksdagen.se/dokumentstatus/HB0942</dokumentstatus_url_xml>
+ <html>&lt;div class="w460px"&gt;
+&lt;style&gt;&lt;!--
+p.NormalIndent{margin-top:0.6em;text-indent:0em !important;} 
+.w460px{width: 460px;font-size:0.8em;font-family:Verdana, Geneva, sans-serif}
+div&gt;p.Kantrubrik,p.Kantrubrik, p.Innehll, p.TOC1, p.TOC2, p.TOC3, p.Tryckort {visibility:hidden !important;}
+div.w460px&gt;div&gt;h1 {font-size:1.2em !important;}
+div.w460px&gt;div&gt;h2 {font-weight:bold !important;}
+h2.dtyp{font-size:1.5em !important;} @page Section1 { size:595.35pt 842pt; margin:28.35pt 243.8pt 225.4pt 56.7pt }
+div.Section1 { page:Section1 }
+body { t-a:j; font-family:'Verdana'; font-size:10pt }
+h1, h2, h3, h4, h5, p { margin:0pt }
+li, table { margin-top:0pt; margin-bottom:0pt }
+h1 { margin-top:24pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:bold; color:#000000 }
+h2 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h3 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h4 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; font-style:italic; color:#2e74b5 }
+h5 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#2e74b5 }
+.AnmDat { t-a:j; font-style:italic }
+.Anmlan { t-a:j; font-weight:normal }
+.Av { t-a:j }
+.Beslut { t-a:j; font-weight:bold }
+.Beslutsfattande { margin-left:14.2pt; t-a:j }
+.Bordlggning { margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Dikt { margin-top:6pt; margin-left:14.2pt; text-align:left }
+.Eget { t-a:j }
+.Footer { t-a:j }
+.FrgeSvarDatum { margin-top:12pt; text-align:left; font-style:italic }
+.Frgerubrik { t-a:j; font-size:20pt }
+.Frgesvar { margin-top:12pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.FrgesvarRad2 { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.Fredragning { margin-left:14.2pt; text-indent:-14.2pt; text-align:left }
+.Fredragning1 { t-a:j }
+.Header { t-a:j; line-height:15.65pt }
+.IPFR { t-a:j; font-weight:bold }
+.IPFRej { t-a:j; font-weight:bold }
+.IPMellanrubriker { margin-top:9pt; margin-bottom:3pt; text-align:left; page-break-after:avoid; font-style:italic }
+.Innehll { margin-bottom:12pt; t-a:j; font-size:20pt }
+.Kantformat { t-a:j; font-size:9pt; font-style:italic }
+.Kantrubrik { line-height:11.5pt; font-size:9pt; font-style:italic }
+.KantrubrikV { line-height:11.5pt; font-size:9pt; font-style:italic }
+.ListParagraph { margin-left:36pt; t-a:j }
+.Muntligfrga { margin-top:12pt; t-a:j; page-break-after:avoid; font-style:italic }
+.NormalIndent, .NormalIndrag0, .Normalindrag { text-indent:14.2pt; t-a:j }
+.NormalRam { t-a:j }
+.PunktlistaBomber { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaNummer { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaTankstreck { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Rubrik1-EU-nmnden { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.SidfotH { margin-right:5.65pt; text-align:right; font-size:9pt }
+.SidfotV { margin-right:5.65pt; text-align:left; font-size:9pt }
+.SidhuvudF { margin-right:5.65pt; t-a:j; font-size:11pt }
+.SidhuvudFText { margin-right:5.65pt; t-a:j; line-height:12pt; font-size:11pt }
+.SidhuvudFVapen { margin-right:5.65pt; t-a:j; line-height:11.5pt; font-size:11pt }
+.SidhuvudH { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudHS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.SidhuvudV { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudVS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.Subtitle { margin-top:12pt; text-align:left; page-break-after:avoid; font-style:italic }
+.TOC1 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:bold }
+.TOC2 { margin-right:28.35pt; margin-left:28.35pt; text-indent:0pt; font-weight:normal }
+.TOC3 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:normal; font-style:italic }
+.Till { t-a:j }
+.Title { t-a:j; font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+.Tryckort { t-a:j; line-height:12.25pt; font-size:8pt }
+.Upplysning { t-a:j; font-style:italic }
+.anmdat0 { margin-top:5pt; margin-bottom:5pt; t-a:j }
+span.Rubrik4Char { font-family:'Verdana'; font-size:12pt; font-style:italic; color:#2e74b5 }
+span.Rubrik5Char { font-family:'Verdana'; font-size:12pt; color:#2e74b5 }
+span.RubrikChar { font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+--&gt;&lt;/style&gt;
+
+		&lt;div class="Section1"&gt;
+			&lt;h1&gt;
+				&lt;a name="Textstart"&gt;&lt;/a&gt;&lt;a name="_Toc152685560"&gt;&lt;/a&gt;&lt;a name="_Toc156567885"&gt;&lt;span style="-aw-bookmark-end:Textstart"&gt;&lt;/span&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Justering av protokoll&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685560"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Protokollet för den 14 november justerades.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc152685561"&gt;&lt;/a&gt;&lt;a name="_Toc156567886"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om fördröjt svar på interpellation&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685561"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande skrivelse hade kommit in:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-style:italic"&gt;Interpellation 2023/24:265&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:275pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Till riksdagen&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Interpellation 2023/24:265 Särskilda utvisningsanstalter&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av Adam Marttinen (SD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Interpellationen kommer inte hinna besvaras inom tidsfristen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Skälet till dröjsmålet är tjänsteresor och andra sedan tidigare inbokade arrangemang.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Interpellationen kommer att besvaras den 20&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;december 2023.&lt;/span&gt;&lt;a name="PassTempLäge"&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Stockholm den 4 december 2023&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Justitiedepartementet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Gunnar Strömmer (M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Enligt uppdrag&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-style:italic"&gt;Jenny Kvarnholt&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Expeditionschef&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc152685562"&gt;&lt;/a&gt;&lt;a name="_Toc156567887"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Ärenden för bordläggning&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685562"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande dokument anmäldes och bordlades:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Utrikesutskottets betänkande och utlåtande&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:UU5 Kommissionens arbetsprogram 2024&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:UU1 Utgiftsområde 5 Internationell samverkan&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Konstitutionsutskottets betänkande&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:KU1 Utgiftsområde 1 Rikets styrelse&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Försvarsutskottets betänkande&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:FöU1 Utgiftsområde 6 Försvar och samhällets krisberedskap&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Kulturutskottets betänkande&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:KrU1 Utgiftsområde 17 Kultur, medier, trossamfund och fritid&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Skatteutskottets betänkande&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:SkU1 Utgiftsområde 3 Skatt, tull och exekution&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc152684880"&gt;&lt;/a&gt;&lt;a name="_Toc152685563"&gt;&lt;/a&gt;&lt;a name="_Toc156567888"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Svar på interpellation 2023/24:249 om kärnkraftverk som hot eller skydd i ett krisläge&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152684880"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685563"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:107.8pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;a name="_Toc152684881"&gt;&lt;/a&gt;&lt;a name="_Toc152685564"&gt;&lt;span&gt;Svar på interpellation&lt;/span&gt;&lt;/a&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc156567889"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet CARL-OSKAR BOHLIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152684881"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685564"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jan Riise har frågat mig på vilka fakta och omständigheter jag baserat mitt ställningstagande om kärnkraftsanläggningar som tillgångar för Sverige i ett läge med höjd beredskap eller där vårt land är indraget i en faktisk konflikt och om jag avser att utveckla mitt resonemang kring frågan.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sedan jag tillträdde som minister för civilt försvar har läget i vår omvärld förvärrats. Krig i vårt närområde påverkar vår säkerhet, och det är min starka övertygelse att Sverige ska stå stabilt i oroliga tider. Vårt land måste fortsätta fungera även i händelse av höjd beredskap och i värsta fall vid ett väpnat angrepp.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;En robust energiförsörjning är en grundförutsättning för ett tryggt samhälle. Det är även nödvändigt för totalförsvaret. Sverige är ett av världens mest elektrifierade länder och därmed i hög grad beroende av att el kan levereras för samhällets funktionalitet i stort. Vi behöver därför ha en stabil elförsörjning i hela hotskalan.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;För att kunna försörja ett land med el även under värsta tänkbara scenario, höjd beredskap eller ytterst krig, krävs det att elsystemet innehar rätt förmågor – alltså elproduktion och elnät med rätt egenskaper på rätt platser. Det har inte minst visat sig i krigets Ukraina. Under pågående krig har det varit helt avgörande att kunna köra ett lands elsystem i så kallad ödrift, att snabbt kunna återuppbygga och reparera elsystemet på flera olika sätt och på så vis upprätthålla landets motståndskraft och säkerställa att de viktigaste samhällsfunktionerna fortsätter att fungera.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det avgörande är att det krävs robust planerbar elproduktion för att säkerställa viktiga förmågor. Ukrainas kärnkraft har haft stor betydelse för landets elförsörjning och för synkroniseringen med Centraleuropas el&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;system. Olika produktionskällor har olika förutsättningar att bidra till ett robust elsystem. Intermittenta energikällor såsom sol- och vindkraft behö&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ver kompletteras med annan teknik för att skapa ett robust elsystem där el kan levereras dit där den behövs när den behövs.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;En stor del av Sveriges elförsörjning kommer från kärnkraft. Reger&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ingen avser att i närtid lägga fram en energipolitisk inriktningsproposition som omfattar ett planeringsmål och ett leveranssäkerhetsmål för elsystemet. Regeringen har redan nu lanserat en färdplan för ny kärnkraft för att kunna bygga fler kärnkraftverk på fler ställen än i dag. Det är viktigt att utbyggnaden görs så att elsystemet blir mer leveranssäkert och att den tar höjd för en hög försörjningstrygghet av el inom landet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I dag är Sverige importberoende under vintermånaderna, och vårt elsystem är sårbart. Förra vintern fanns en reell risk för tvingande bortkoppling av förbrukare. Utifrån de erfarenheter som kommer från Ukraina och den energikris som hela Europa upplevde under vintern 2022/23 är kärnkraften av stor betydelse för att ha en trygg elförsörjning samtidigt som klimatutsläppen minskar och nettonollutsläpp till 2045 kan uppnås.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den som har tillstånd att driva ett kärnkraftverk har det fulla ansvaret för att anläggningen drivs på ett strålsäkert sätt och att personalen och om&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;givningen skyddas mot strålning. Strålsäkerhetsmyndigheten ställer krav på strålsäkerheten och följer upp att de som driver anläggningarna uppfyl&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ler gällande regelverk och andra krav. Strålsäkerhetsmyndigheten är även en beredskapsmyndighet med uppgift att vara pådrivande inom den natio&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;nella strålskyddsberedskapen med ett särskilt ansvar inför och vid höjd be&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;redskap.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellation&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen följer arbetet som sker i beredskapssektorerna.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc152684882"&gt;&lt;/a&gt;&lt;a name="_Toc152685565"&gt;&lt;/a&gt;&lt;a name="_Toc156567890"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;JAN RIISE&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(MP):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152684882"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685565"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Stort tack till statsrådet för svaret! Tack också för gårda&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;gens puff på plattformen X för dagens event! Den medförde ett antal ytter&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ligare frågor, men dem kanske vi kan ta vid något senare tillfälle.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag instämmer helt i problembeskrivningen, men kanske inte i den förordade lösningen med kärnkraft. Det är ju väl känt vad Miljöpartiet står för i sammanhanget. Ett elnät med produktion och distribution på väl valda platser är av största betydelse i en eventuell krissituation eller, än värre, krigssituation. Min tvekan gäller om kärnkraft verkligen är det bästa svaret på frågan hur detta system ska utformas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Av det fyrtiotal länder som har eller har haft kärnkraft är det egentligen bara två – Ryssland och Ukraina – som har befunnit sig i krig. Det är visserligen lite give or take med länder som Iran och motsvarande, men i princip är det bara Ukraina som har erfarenhet av väpnade angrepp. Jag tänker ändå att vi kan fördjupa diskussionen lite grann.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag har tre olika perspektiv på funderingarna kring detta. De handlar om tekniken och forskningen på området och det lokala och globala risk&lt;/span&gt;&lt;span&gt;&amp;#x2011;&lt;/span&gt;&lt;span&gt; och säkerhetsperspektivet, i ljuset av bland annat Rysslands krig och ökade terrorhot.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag är från Chalmers i Göteborg och har tillbringat några år där. Jag har arbetat med flera av de stora lärosätena i mer än 30 år, inte minst med kontakter med näringsliv och civilsamhälle. Det gav mig ju inga som helst kunskaper om säkerhetsaspekter på kärnkraftverk, men det gav en massa kontakter, så jag har tagit mig för att ringa runt till tidigare kollegor. Vi diskuterade bland annat ödrift och dödnätsstart, som kom upp vid presentationen den 2 november.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag tar ödriften först. Det är naturligtvis fullt möjligt att driva specifika områden i Sverige från specifika kraftverk. Med den storlek ett kärnkraftverk har blir ön i fråga mycket större än om man utgår från mitt tak med solceller. Men man ska komma ihåg att tekniken inte är helt utvecklad. Jag tror att statsrådet var inne på det. Vi är inte riktigt där än. Det kräver en del mjukvaruutveckling att kunna koppla upp på det sättet, men det görs på många ställen. Låt oss anta att det där ordnar sig. Om det skulle bli angeläget att förse Sverige med ström på det sättet skulle det inom en rimlig framtid vara fullt möjligt. Det är också rätt teknikneutralt; det spelar inte så stor roll varifrån strömmen kommer. Jag hoppas att statsrådet delar den uppfattningen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Både statsrådet och energiminister Ebba Busch har talat om möjligheterna till så kallad dödnätsstart. Om jag fattar det rätt handlar det om att strömsätta ett elnät från noll, till exempel efter en större reparation eller ett angrepp av något slag.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Dödnätsstart ska gå att göra från vilket kraftverk som helst. Det har inte något att göra med på vilket sätt strömmen produceras. Liksom för ödriften är det storleken på sammanhanget som skiljer sig åt, inte vilket slags kraftproducent som används. Men det har framkommit en osäkerhet om det skulle vara möjligt att starta från ett kärnkraftverk, eftersom det krävs en massa ström för att säkerställa kylningen av bränsleelementen under en sådan uppstart. Det kan till och med vara olagligt enligt strålskyddslagen. Man måste ju i alla lägen kunna garantera att både härd och utbränt material kan kylas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellation&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Mot bakgrund av den inledningen vill jag fråga om statsrådet delar min uppfattning.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc152684883"&gt;&lt;/a&gt;&lt;a name="_Toc152685566"&gt;&lt;/a&gt;&lt;a name="_Toc156567891"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet CARL-OSKAR BOHLIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152684883"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685566"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag uppfattade kanske ingen jättekonkret fråga ställas till mig, utan det var mer ett allmänt resonemang som jag förväntas ha någon synpunkt på.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det man måste börja med att konstatera, tror jag, är att vi hur vi än vrider och vänder på det här inte kommer runt fysikens lagar, som finns i botten. Om man inte har någon elproduktion till att börja med är det väldigt svårt att förse ett land med el. Det är det som ligger till grund för att Sverige har ett elsystem som är uppbyggt kring planerbar elproduktion. Det är bara att titta ut genom fönstret. Vi befinner oss i början av december. Det är kallt i hela landet. Det är vindstilla och mulet. Vi är alltså beroende av den typ av elproduktion som vi kan kontrollera och styra för att de mest grundläggande och basala funktionerna i vårt samhälle ska gå att upprätthålla.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den poäng som regeringen gjorde vid den pressträff som ledamoten Riise refererar till är att regeringen i händelse av höjd beredskap naturligtvis inte kommer att börja med att binda upp båda händerna bakpå ryggen genom att stänga av vår kärnkraft. Slutsatsen är alltså felaktig. Att den är felaktig visar oss erfarenheterna från Ukraina med all önskvärd tydlighet. Det är helt riktigt så att Ryssland har agerat folkrättsvidrigt, som påpekas i interpellationen. Ryssland har ockuperat en av kärnkraftsanläggningarna i Ukraina. Man har brutit mot krigets lagar i anslutning till detta. Men att därav dra slutsatsen att man ska stänga av produktionsanläggningar som inte står under rysk kontroll är mycket märkligt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Erfarenheten visar oss att en av anledningarna till att Ukraina har varit så framgångsrikt i att upprätthålla sin motståndskraft under det här kriget är den planerbara elproduktionen. Ukraina är ett land som nästan uteslutande drivs framåt av planerbar elproduktion. Man har i huvudsak kärnkraft och gaskraft. Vi vet alla vad vi har anledning att tycka om gaskraftsproduktion – den är dålig för miljön och skapar säkerhetspolitiska beroenden som varken vi eller några andra länder långsiktigt vill ha.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Slutsatsen är naturligtvis att det vi behöver göra är att ta höjd för att kunna använda vår kärnkraft även i ett försämrat säkerhetsläge. Då handlar det om att anpassa lagstiftning. Strålsäkerhetsmyndigheten har ett uppdrag som kommer att redovisas under nästa år. Det kommer sannolikt att leda till författningsändringar. Det ställer nya krav på verksamhetsutövarna att ta större ansvar.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det vi behöver komma tillbaka till är att vi alla i grunden är styrda av fysikens lagar. Jo, det är skillnad på elproduktion och elproduktion, för sättet som elen produceras på definierar också elens egenskaper i systemet. Det kommer under överskådlig tid att vara på det sättet att tung synkron elproduktion är det som utgör basen och fundamentet för vår elproduktion.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Ledamoten får gärna försöka bygga ett ödriftssystem av sin solcells&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;anläggning. Han kommer att inse att det blir ganska obekvämt, eftersom hans elproduktion är intermittent till karaktären. Han kan alltså inte själv styra när han har eller inte har el. För samhället blir det väldigt svårt att bygga funktionalitet på den premissen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc152684884"&gt;&lt;/a&gt;&lt;a name="_Toc152685567"&gt;&lt;/a&gt;&lt;a name="_Toc156567892"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;JAN RIISE&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(MP):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152684884"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685567"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellation&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag tackar för svaret och de fortsatta funderingarna.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag måste inledningsvis säga att jag inte någonstans, åtminstone inte avsiktligt, har föreslagit att vi skulle stänga kärnkraftverk under en kristid. Mina farhågor har helt och hållet handlat om säkerheten för dessa kraftverk under kris- eller krigstid. Under överskådlig tid, om vi tänker några få år framåt i tiden, är det ju så att vi har de kraftverk vi har och den sammansättning av kraftproducenter vi har. Vi har några kärnkraftsreaktorer och vattenkraft. Vi har också ett växande antal vindkraftverk, med det förändras ganska långsamt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Mina farhågor handlar helt och hållet om säkerheten för dessa kraftverk, och det är också det som Sipri och andra har diskuterat när det gäller Ukraina. Självklart är el och produktion av elkraft angeläget under en kristid, vare sig det är kallt eller inte och vare sig det är en angripare som står vid dörren eller inte. Det var inte min avsikt att leda tankarna till att vi skulle stänga någonting för den sakens skull.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;När Ryssland attackerade Ukraina i februari 2022 och intog Zaporizjzja och Tjernobyl var det fråga om något som aldrig tidigare hade hänt, som Sipri har pekat på. Därmed ställdes tidigare säkerhetstänkande och policyer inför ett omedelbart behov av diskussioner och uppdateringar. Sedan har Ryssland intagit ytterligare några kärnkraftverk i Ukraina, som har förhållandevis många kärnkraftverk.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Före angreppet handlade det i huvudsak om terrorism och stölder. Det har vi diskuterat även i Sverige. Man riktade fokus mot grupper och organisationer, inte länder. Men i och med den fullskaliga invasionen har en ny, tidigare inte känd, dimension kommit in i bilden, där en nation angriper ett land och tar över det landets kraftverk.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I Försvarsberedningens rapport &lt;/span&gt;&lt;span style="font-style:italic"&gt;Allvarstid&lt;/span&gt;&lt;span&gt;, som statsrådet säkert väl känner till och som kom tidigare i år, kan man läsa: ”Som en del av krigföringen har Ryssland också intagit och använt kärnkraftverket i Zaporizjzja och den nedlagda anläggningen i Tjernobyl i Ukraina. Skador på anläggningen i Zaporizjzja, personal som tvingats arbeta under svåra förhållanden, bristfälligt underhåll och ovilja att tillåta inspektioner från Internationella atomenergiorganet (&lt;/span&gt;&lt;span style="font-style:italic"&gt;International Atomic Energy Agency&lt;/span&gt;&lt;span&gt;, IAEA) riskerar att leda till allvarliga utsläpp av radioaktiva ämnen. Därmed har Ryssland hotat Ukraina och världen med en kärnkraftskatastrof.”&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Elförsörjningen är ett troligt förstahandsmål för en angripare. Utan el slutar det att fungera, precis som vi har talat om och är överens om. Om&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;fattande och långvariga elavbrott kan vara mycket demoraliserande. El&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;systemets centrala betydelse för samhället kommer att öka ytterligare i framtiden, med elektrifiering av transporter, industri och uppvärmning. Kärnkraften medför i sig stora säkerhetsrisker både vid drift och vid av&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;fallshantering. Det har blivit uppenbart, till exempel i och med kärnavtalet med Iran, att det som börjar med kärnkraft för energi kan bli startskottet för kärnvapen. Civil kärnkraft kan användas för att tillverka plutonium, som till exempel i Korea.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi behöver skärskåda hur kärnkraft byggs och upprätthålls. Tillgången till uran är avgörande för drift, och kostnaderna för byggnation är helt enorma. Ryssland och Kina har helt avgörande roller för finansiering av både byggnation och drift. De nya reaktorer som byggs eller planeras är oftast på ett eller annat sätt beroende av finansiering från kinesiskt eller ryskt håll. Det är ingen nyhet att dessa antidemokratiska krafter nu har en expansiv geopolitisk och ekonomisk agenda, men nu spelar också kärnkraften en nyckelroll i maktstrategin. Det var den biten jag ville komma in på: säkerhetsriskerna för våra befintliga kärnkraftverk, allra helst i drift.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc152684885"&gt;&lt;/a&gt;&lt;a name="_Toc152685568"&gt;&lt;/a&gt;&lt;a name="_Toc156567893"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet CARL-OSKAR BOHLIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152684885"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685568"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellation&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Rysslands fullskaliga och folkrättsvidriga angreppskrig mot Ukraina ger oss anledning att dra en lång rad slutsatser. Jag delar interpellantens uppfattning att det sätter fingret på att vi behöver bygga samhällets robusthet tydligare och starkare.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag delar dock inte den underförstådda slutsatsen. Interpellationen uppfattar jag ändå är skriven med premissen att kärnkraft inte har någon roll att spela i det svenska samhället och absolut inte vid höjd beredskap. Det är så jag uppfattar den underförstådda frågeställningen. Låt mig då göra en sak mycket tydlig: Kärnkraften är ett fundament för att vi ska kunna upprätthålla motståndskraften i det svenska samhället.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Det är också på det sättet att Ryssland urskillningslöst bombar barnsjukhus och teatrar. Det är inte ett argument mot barnsjukhus och teatrar. Det är ett argument för att samhället måste se vad Ryssland är för någonting. Det är också ett argument för att vi behöver förstärka robustheten kring kritisk infrastruktur och kring det som bygger vårt civila samhälle starkt. Den operativa slutsatsen av detta är att vi måste bygga ett mer robust elsystem.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Vi befinner oss i en situation där Sveriges elsystem under en mycket lång tid har tillåtits bli anorektiskt och skört på ett sätt som långsiktigt riskerar att skada Sverige. Det är därför regeringen i akt och mening nu söker vända den utvecklingen. Att bygga ett mer sårbart el&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;system är inte bara hämmande mot vår nation ur ett konkurrenskraftsper&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;spektiv, utan det riskerar naturligtvis att skada våra nationella vitala säker&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;hetsintressen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Från att ha haft tolv kärnkraftsreaktorer som basen av det svenska elsystemet tillsammans med vattenkraften är vi nu nere på sex. Vi märker att varje gång vi får en driftsstörning i någon av våra reaktorer skapar det påfrestningar i elsystemet. Det är i sig inte ett argument mot kärnkraften. Det är ett argument för att vi behöver mer tillgänglighet av planerbar elproduktion.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi konstaterar i dag när det är kallt ute att Sverige under lejonparten av den här dagen har varit importberoende. Vi är inte längre självförsörjande när vi som mest behöver elen, det vill säga när det är mörkt och kallt i landet. Vi behöver fortsätta att bygga ett elsystem som bättre tar höjd för detta.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Intermittent elproduktion kan absolut finnas som en del av elsystemet. Men den kan aldrig bli basen i elsystemet så länge som vi vill bygga ett elsystem som är till för användarna och inte tvärtom.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag uppfattar att till syvende och sist kokar det ned till det miljöpartistiska fördröjningskriget mot kärnkraften. Man har kanske äntligen insett att man har haft fel om kärnkraften i ett utsläppshänseende. Man kanske till slut börjar inse att kärnkraften är en del av nyckeln för att lösa klimatomställningen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellation&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Men då ger man sig på nästa aspekt och antyder att kärnkraften inte har en roll under höjd beredskap. Min uppfattning är att kärnkraften absolut har en roll när det kommer till att upprätthålla motståndskraften i vårt samhälle. Skulle vi stänga ned kärnkraften saknar vi fundamentet för det som bygger motståndskraft. Det vore att helt enkelt bortse från de lärdomar som vi har anledning att dra från Ukraina.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc152684886"&gt;&lt;/a&gt;&lt;a name="_Toc152685569"&gt;&lt;/a&gt;&lt;a name="_Toc156567894"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;JAN RIISE&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(MP):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152684886"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685569"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag delar uppfattning om mycket av det statsrådet Bohlin säger. Men jag vill hävda att det är elkraften som är avgörande för vår motståndskraft och inte att den kommer just från kärnkraft. Det är vi säkert överens om att vi inte är överens om.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag var inte ute efter att stänga kärnkraftverk. Vi har ett avtal om att de som finns ska fortsätta att fungera till dess att deras ekonomiska och tekniska livslängd är slut. Jag var ute efter de säkerhetsaspekter som har pekats på från Sipri och vår egen försvarsberedning när det gäller den typen av anläggningar, som kanske är något mer riskabla än vad ett vattenkraftverk eller en havsvindpark är.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag hade egentligen tänkt att jag skulle ta upp ytterligare ett par aspek&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ter så här i sluttampen. Jag vill inte hamna i en diskussion om kärnkraftens vara eller icke vara. Jag vill hamna i en diskussion om säkerheten kring kärnkraften.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;När vi talar om kärnkraft har vi dessutom frågan om uran. Kända till&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;gångar är inte så väldigt stora. Det tillkommer för all del nya fynd i Austra&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;lien, Kanada och Kazakstan. Vi har lite tillgångar även i Ranstad mellan Falköping och Skövde och på andra ställen i Sverige.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi har efterarbetet, som kanske är än viktigare. Det ska sägas att så länge använda kärnelement ligger i bränslebassänger för nedkylning, till exempel i Ringhals i närheten av där jag bor, är det förhållandevis enkla mål att komma åt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sedan skeppas det i väg på tåg eller på annat sätt till slutförvaring, eller som hittills i Sverige till ett mellanlager i avvaktan på att det ska vara möjligt att förvara avfallet säkert under jord i 100&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 år.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Detta är djup otillfredsställande när det gäller säkerhet. Inget land har efter 50 år eller mer av kärnkraft skapat ett säkert system för kärnavfall. Det är till och med så att andra länder tittar på Sverige och idén om förvaring djupt ned i marken. Under tiden körs avfallet omkring på tåg och fraktas med fartyg inte helt utan incidenter.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc152684887"&gt;&lt;/a&gt;&lt;a name="_Toc152685570"&gt;&lt;/a&gt;&lt;a name="_Toc156567895"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet CARL-OSKAR BOHLIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152684887"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685570"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fru talman! Jag uppfattar inte heller denna gång någon ytterligare specifik fråga som ställs till mig. Men jag tror att vi behöver bottna i det faktum att för att vårt elsystem ska fungera krävs det planerbar elproduktion. Vattenkraften är i princip så utbyggd som den kan vara i Sverige. Då har vi valet kärnkraft, kolkraft, gaskraft och oljekraft kvar.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;De tre sistnämnda går bort av lätt insedda skäl ur både säkerhetspolitiskt hänseende och miljömässigt hänseende. Då har vi kärnkraften kvar som både en möjliggörare för grön omställning och för det faktum att vi ska se till att vi har den el vi behöver när vi behöver den. Den produceras också på ett sådant sätt att hela elsystemet kan fungera. Vi behöver tung synkron elproduktion i botten för att vårt elnät ska fungera. Det går inte att bortse från detta faktum. Allting annat i produktionshänseende är icing on the cake. Vi behöver ha detta i grunden.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Svar på interpellation&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi kan konstatera att vattenkraften inte räcker till. Den är i huvudsak lokaliserad i en del av landet där det bor förhållandevis få människor. För att få ned den elproduktionen till södra Sverige krävs tung synkron elproduktion i södra Sverige. Där har vi vår kärnkraft. Det finns i dag ingenting som realistiskt kan ersätta kärnkraften, tvärtom. För att vi ska kunna tillgodogöra oss mer av vattenkraften behöver vi mer av kärnkraft i södra Sverige.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag håller helt med om att vi behöver vidta ytterligare säkerhetshöjande åtgärder kopplat till det geopolitiska omvärldsläge som vi befinner oss i. Men slutsatsen att vi skulle avveckla kärnkraften eller stänga kärnkraften av den anledningen menar jag och regeringen är helt fel riktning att gå&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;i.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är därför regeringen nu vidtar fler åtgärder för att vi ska kunna bygga mer kärnkraft och ha säkrare kärnkraft i Sverige även i det säkerhetspolitiska läge som vi befinner oss&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;i.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Interpellationsdebatten var härmed avslutad.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc152685571"&gt;&lt;/a&gt;&lt;a name="_Toc156567896"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Bordläggning och beslut om förlängd motionstid&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685571"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande dokument anmäldes och bordlades:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Proposition&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:40 Behöriga myndigheter enligt EU:s förordning om en gemensam digital ingång&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;Skrivelser &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:45 2023 års redogörelse för tillämpningen av lagen om särskild kontroll av vissa utlänningar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:47 Redovisning av användningen av hemliga tvångsmedel under 2022&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:48 Riksrevisionens rapport om statens arbete med väntetider i vården&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;2023/24:49 Riksrevisionens rapport om hantering av uttjänta solcellspane&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ler och vindturbinblad&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Kammaren biföll talmannens förslag att motionstiden för ovanstående proposition och skrivelser skulle förlängas till och med &lt;/span&gt;&lt;span style="font-style:italic"&gt;fredagen den 19&lt;/span&gt;&lt;span style="font-style:italic"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;januari 2024&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;EU-dokument&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Bordlggning"&gt;
+				&lt;span&gt;COM(2023) 733 Förslag till Europaparlamentets och rådets förordning om ändring av förordning (EU) 2018/1806 vad gäller innehavare av serbiska pass som har utfärdats av det serbiska samordningsdirektoratet (Koordinaciona uprava)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:82.25pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;a name="_Toc152685572"&gt;&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;&lt;/a&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc156567897"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om interpellationer&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685572"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande interpellationer hade framställts:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="anmdat0" style="margin-top:0pt; margin-bottom:0pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 4 december&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:276 Informationsplikten för hivpositiva&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Anna Wallentheim&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till socialminister Jakob Forssmed (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:277 Åtgärder mot extremism och religiös påverkan i skolan&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Åsa Westlund&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Lotta Edholm (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:278 Sveriges ändringsförslag till IHR&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Elsa Widding&lt;/span&gt;&lt;span&gt; (-)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till socialminister Jakob Forssmed (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:279 Bemanning av Arbetsmiljöverket och centren mot arbetslivskriminalitet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Patrik Lundqvist&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Paulina Brandberg (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:280 Skolan och den psykiska hälsan&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Linus Sköld&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Lotta Edholm (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:281 Psykisk ohälsa bland unga&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Linus Sköld&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till socialminister Jakob Forssmed (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc152685573"&gt;&lt;/a&gt;&lt;a name="_Toc156567898"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om frågor för skriftliga svar&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685573"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Följande frågor för skriftliga svar hade framställts:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="anmdat0" style="margin-top:0pt; margin-bottom:0pt"&gt;
+				&lt;span style="font-style:italic"&gt;den 4 december&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:338 Internationella samarbeten om reglering av AI&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Elisabeth Thand Ringqvist&lt;/span&gt;&lt;span&gt; (C)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Erik Slottner (KD)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;2023/24:339 Stressrelaterade sjukskrivningar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;av &lt;/span&gt;&lt;span style="font-style:italic"&gt;Patrik Lundqvist&lt;/span&gt;&lt;span&gt; (S)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;till statsrådet Paulina Brandberg (L)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc152685574"&gt;&lt;/a&gt;&lt;a name="_Toc156567899"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Kammaren åtskildes kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;13.27.&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc152685574"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sammanträdet leddes av andre vice talmannen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;Vid protokollet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:189.95pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p&gt;
+				&lt;span&gt;GERGÖ KISCH&lt;/span&gt;&lt;span style="-aw-import:spaces"&gt;&amp;#xa0;&amp;#xa0;&amp;#xa0; &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="width:51pt; text-indent:0pt; display:inline-block"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="width:65.2pt; text-indent:0pt; display:inline-block"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-style:italic"&gt;/Olof Pilo&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Innehll"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;&lt;span&gt;Innehållsförteckning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Justering av protokoll&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om fördröjt svar på interpellation&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Ärenden för bordläggning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Svar på interpellation 2023/24:249 om kärnkraftverk som hot eller skydd i ett krisläge&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet CARL-OSKAR BOHLIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;JAN RIISE&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet CARL-OSKAR BOHLIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;JAN RIISE&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet CARL-OSKAR BOHLIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;JAN RIISE&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(MP)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsrådet CARL-OSKAR BOHLIN&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;5&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Bordläggning och beslut om förlängd motionstid&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om interpellationer&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Anmälan om frågor för skriftliga svar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;8&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Kammaren åtskildes kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;13.27.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Tryckort"&gt;
+				&lt;span&gt;Tryck: Elanders Sverige AB, Vällingby 2024&lt;/span&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+</html>
+</dokument>
+<dokbilaga>
+<bilaga>
+<dok_id>HB0942</dok_id>
+<subtitel></subtitel>
+<filnamn>prot_202324__42.pdf</filnamn>
+<filstorlek>151254</filstorlek>
+<filtyp>pdf</filtyp>
+<titel>Protokoll 2023/24:42 Tisdagen den 5 december</titel>
+<fil_url>https://data.riksdagen.se/fil/553B5510-FC60-45C4-8CA1-F2A02A72B968</fil_url>
+</bilaga>
+</dokbilaga>
+</dokumentstatus>

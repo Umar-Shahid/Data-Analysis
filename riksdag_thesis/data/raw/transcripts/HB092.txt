@@ -1,0 +1,824 @@
+<dokumentstatus><dokument>
+ <hangar_id>5183281</hangar_id>
+ <dok_id>HB092</dok_id>
+ <rm>2023/24</rm>
+ <beteckning>2</beteckning>
+ <typ>prot</typ>
+ <subtyp></subtyp>
+ <doktyp>prot</doktyp>
+ <typrubrik>Riksdagens protokoll 2023/24:2</typrubrik>
+ <dokumentnamn>Protokoll</dokumentnamn>
+ <debattnamn>Protokoll</debattnamn>
+ <tempbeteckning></tempbeteckning>
+ <organ></organ>
+ <mottagare></mottagare>
+ <nummer>2</nummer>
+ <slutnummer>0</slutnummer>
+ <datum>2023-09-12 00:00:00</datum>
+ <systemdatum>2023-10-10 17:17:50</systemdatum>
+ <publicerad>2023-09-12 00:00:00</publicerad>
+ <titel>Protokoll 2023/24:2 Tisdagen den 12 september</titel>
+ <subtitel></subtitel>
+ <status>justerat</status>
+ <htmlformat>html</htmlformat>
+ <relaterat_id></relaterat_id>
+ <source>RIM</source>
+ <sourceid></sourceid>
+ <dokument_url_text>https://data.riksdagen.se/dokument/HB092/text</dokument_url_text>
+ <dokument_url_html>https://data.riksdagen.se/dokument/HB092</dokument_url_html>
+ <dokumentstatus_url_xml>https://data.riksdagen.se/dokumentstatus/HB092</dokumentstatus_url_xml>
+ <html>&lt;div class="w460px"&gt;
+&lt;style&gt;&lt;!--
+p.NormalIndent{margin-top:0.6em;text-indent:0em !important;} 
+.w460px{width: 460px;font-size:0.8em;font-family:Verdana, Geneva, sans-serif}
+div&gt;p.Kantrubrik,p.Kantrubrik, p.Innehll, p.TOC1, p.TOC2, p.TOC3, p.Tryckort {visibility:hidden !important;}
+div.w460px&gt;div&gt;h1 {font-size:1.2em !important;}
+div.w460px&gt;div&gt;h2 {font-weight:bold !important;}
+h2.dtyp{font-size:1.5em !important;} @page Section1 { size:595.35pt 842pt; margin:28.35pt 243.8pt 225.4pt 56.7pt }
+@page Section2 { size:595.35pt 842pt; margin:28.35pt 187.1pt 225.4pt 113.4pt }
+div.Section1 { page:Section1 }
+div.Section2 { page:Section2 }
+body { t-a:j; font-family:'Verdana'; font-size:10pt }
+h1, h2, h3, h4, h5, p { margin:0pt }
+li, table { margin-top:0pt; margin-bottom:0pt }
+h1 { margin-top:24pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:bold; color:#000000 }
+h2 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h3 { margin-top:12pt; margin-leftZ:14.2pt; text-align:left; page-break-inside:auto; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#000000 }
+h4 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; font-style:italic; color:#2e74b5 }
+h5 { margin-top:2pt; t-a:j; page-break-inside:avoid; page-break-after:avoid; font-family:'Verdana'; font-size:10pt; font-weight:normal; color:#2e74b5 }
+.AnmDat { t-a:j; font-style:italic }
+.Anmlan { t-a:j; font-weight:normal }
+.Av { t-a:j }
+.Beslut { t-a:j; font-weight:bold }
+.Beslutsfattande { margin-left:14.2pt; t-a:j }
+.Bordlggning { margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Dikt { margin-top:6pt; margin-left:14.2pt; text-align:left }
+.Eget { t-a:j }
+.Footer { t-a:j }
+.FrgeSvarDatum { margin-top:12pt; text-align:left; font-style:italic }
+.Frgerubrik { t-a:j; font-size:20pt }
+.Frgesvar { margin-top:12pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.FrgesvarRad2 { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.Fredragning { margin-left:14.2pt; text-indent:-14.2pt; text-align:left }
+.Fredragning1 { t-a:j }
+.Header { t-a:j; line-height:15.65pt }
+.IPFR { t-a:j; font-weight:bold }
+.IPFRej { t-a:j; font-weight:bold }
+.IPMellanrubriker { margin-top:9pt; margin-bottom:3pt; text-align:left; page-break-after:avoid; font-style:italic }
+.Innehll { margin-bottom:12pt; t-a:j; font-size:20pt }
+.Kantformat { t-a:j; font-size:9pt; font-style:italic }
+.Kantrubrik { line-height:11.5pt; font-size:9pt; font-style:italic }
+.KantrubrikV { line-height:11.5pt; font-size:9pt; font-style:italic }
+.ListParagraph { margin-left:36pt; t-a:j }
+.Muntligfrga { margin-top:12pt; t-a:j; page-break-after:avoid; font-style:italic }
+.NormalIndent { text-indent:14.2pt; t-a:j }
+.NormalRam { t-a:j }
+.PunktlistaBomber { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaNummer { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.PunktlistaTankstreck { margin-top:6pt; margin-left:14.2pt; text-indent:-14.2pt; t-a:j }
+.Rubrik1-EU-nmnden { margin-top:0pt; text-align:left; page-break-after:avoid; font-weight:bold }
+.SidfotH { margin-right:5.65pt; text-align:right; font-size:9pt }
+.SidfotV { margin-right:5.65pt; text-align:left; font-size:9pt }
+.SidhuvudF { margin-right:5.65pt; t-a:j; font-size:11pt }
+.SidhuvudFText { margin-right:5.65pt; t-a:j; line-height:12pt; font-size:11pt }
+.SidhuvudFVapen { margin-right:5.65pt; t-a:j; line-height:11.5pt; font-size:11pt }
+.SidhuvudH { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudHS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.SidhuvudV { margin-right:5.65pt; t-a:j; line-height:normal; font-size:11pt }
+.SidhuvudVS { margin-right:5.65pt; t-a:j; line-height:normal; font-size:10pt }
+.Subtitle { margin-top:12pt; text-align:left; page-break-after:avoid; font-style:italic }
+.TOC1 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:bold }
+.TOC2 { margin-right:28.35pt; margin-left:28.35pt; text-indent:0pt; font-weight:normal }
+.TOC3 { margin-right:28.35pt; margin-left:17pt; text-indent:-17pt; line-height:12.25pt; font-weight:normal; font-style:italic }
+.Till { t-a:j }
+.Title { t-a:j; font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+.Tryckort { t-a:j; line-height:12.25pt; font-size:8pt }
+.Upplysning { t-a:j; font-style:italic }
+span.Rubrik4Char { font-family:'Verdana'; font-size:12pt; font-style:italic; color:#2e74b5 }
+span.Rubrik5Char { font-family:'Verdana'; font-size:12pt; color:#2e74b5 }
+span.RubrikChar { font-family:'Verdana'; font-size:28pt; letter-spacing:-0.5pt }
+--&gt;&lt;/style&gt;
+
+		&lt;div class="Section1"&gt;
+			&lt;h1&gt;
+				&lt;a name="Textstart"&gt;&lt;/a&gt;&lt;a name="_Toc145436578"&gt;&lt;/a&gt;&lt;a name="_Toc145435815"&gt;&lt;/a&gt;&lt;a name="_Toc145436514"&gt;&lt;span style="-aw-bookmark-end:Textstart"&gt;&lt;/span&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Riksmötets öppnande&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145436578"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.2pt; -aw-element-left:outside; -aw-element-top:173pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Program för öppnandet har fogats som bilaga till detta protokoll.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc145436579"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;TALMANNEN:&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145435815"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145436514"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag hemställer att Ers Majestät förklarar riksmötet öppnat.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc145435816"&gt;&lt;/a&gt;&lt;a name="_Toc145436515"&gt;&lt;/a&gt;&lt;a name="_Toc145436580"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;HANS MAJESTÄT KONUNGEN:&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145435816"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145436515"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Ärade ledamöter! Nu inleder ni ett nytt riksdagsår, och ni står inför många viktiga beslut. Medborgarna förväntar sig att ni tar ert uppdrag på allvar och alltid verkar i hela svenska folkets intresse.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det är oroliga tider vi lever i. Rysslands brutala anfallskrig mot Ukrai&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;na påverkar hela vår del av världen. EU har infört sanktioner mot Ryssland. Vi som land stöttar Ukraina och deras rätt till frihet och självbestämmande. Sverige står på tröskeln till att bli medlem i Nato. I och med det inleds en ny era i svensk säkerhetspolitik.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vår tid rymmer även andra stora uppgifter. Den höga inflationen leder till ett svårare ekonomiskt läge. Vi ser våld till följd av olika gängkonflikter. Det sker på olika platser runt om i Sverige och drabbar också syskon, föräldrar och grannar men även skolor, arbetsplatser och företag. Det är en fråga för hela vårt land. Hotnivån har höjts vad gäller risken för terrordåd, och det kräver varsamhet och samverkan. Samtidigt fortsätter klimatet att vara en ödesfråga för Sverige och världen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Allt detta ställer höga krav på er att fatta väl avvägda beslut för medborgarnas bästa. Det finns många problem att lösa, men med ålderns rätt vill jag också säga detta: Vi har tagit oss igenom svårigheter förut, tillsammans. Om vi lär av historien har vi goda möjligheter att göra rätt framåt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Ärade ledamöter! I år firar vi att det är 500 år sedan Gustav Vasa valdes till kung i Strängnäs. Det var början på vår tid som självständig nation. Och i dag för precis 50 år sedan vakade min familj och jag vid min farfar kung Gustaf VI Adolfs dödsbädd. Några dagar senare avled han, och jag blev landets kung.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I den stunden visste jag inget om hur detta halvsekel skulle bli och vad jag skulle få uppleva som statschef. Men i dag kan jag säga vad jag känt och vad jag fortfarande ser: att Sverige är ett rikt och starkt land. Vårt land har stora naturtillgångar och förmåga att omvandla idéer till framgångsrika företag. Vi är en nation med mycket kunskap, talanger, forskning och inno&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;vationer.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige är också ett fritt och öppet land med en stark demokrati, starka värderingar och tilltro till varandra och till våra institutioner. Det är någonting att vara stolt över och som vi har ett gemensamt ansvar att vårda.&lt;/span&gt;&lt;a name="PassTempLäge"&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Valda företrädare för Sveriges folk! Jag önskar er kraft, mod och visdom inför det kommande riksdagsåret.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Härmed förklarar jag 2023/24 års riksmöte öppnat.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc145435817"&gt;&lt;/a&gt;&lt;a name="_Toc145436516"&gt;&lt;/a&gt;&lt;a name="_Toc145436581"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;TALMANNEN:&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145435817"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145436516"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jag hemställer att statsministern avger sin regeringsförklaring.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h2&gt;
+				&lt;a name="_Toc145435818"&gt;&lt;/a&gt;&lt;a name="_Toc145436517"&gt;&lt;/a&gt;&lt;a name="_Toc145436582"&gt;&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsminister ULF KRISTERSSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M):&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145435818"&gt;&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145436517"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h2&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Eders Majestäter! Eders Kungliga Högheter! Herr talman! Ärade ledamöter av Sveriges riksdag! Mina damer och herrar! Vi lever i en tid av svåra prövningar. Sverige har inte varit i så omedelbar närhet av ett storskaligt invasionskrig sedan andra världskriget. Vi har inte haft så komplexa ekonomiska problem – hög inflation, låg tillväxt och stigande räntor – sedan 90-talskrisen. Världen har inte upplevt så stora geopolitiska spänningar sedan tiden före Berlinmurens fall, och Sverige har aldrig förr mött så allvarliga hot mot den inre säkerheten med både terrorism och grov organiserad brottslighet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Faktum är att ingen svensk regering i modern tid har behövt arbeta samtidigt med så många, så stora och så svåra utmaningar. En del kriser är internationella, skapade av krafter utanför vårt land. Andra är i hög grad Sveriges egna. Både energikrisen och den dåliga integrationen är resultat av långvarig oförmåga att ta itu med stora problem i tid.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Att lägga om kursen kräver både uthållighet och otålighet. Problem som har vuxit fram under lång tid kräver långsiktigt arbete, och just därför måste man ha driv i steget. Vi är realister och underskattar inte Sveriges problem. Men vi är också optimister – övertygade om att de går att lösa.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringspartierna Moderaterna, Kristdemokraterna och Liberalerna samarbetar med Sverigedemokraterna för att genomföra nödvändiga och efterlängtade reformer. Den regering som nu har arbetat i snart elva månader genomför ett paradigmskifte i svensk politik. Vi lämnar en attityd bak&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;om oss att det får bli lite som det blir, och vi tar i stället systematiskt tag i problemen. Så vänder vi uppgivenhet till förväntan och gör Sverige till ett starkare land.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Vi lägger om energi- och klimatpolitiken. Vi satsar på ny kärnkraft och mer fossilfri elproduktion. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi lägger om kriminalpolitiken med strängare straff för grova brott och mer fokus på brottsoffret än på gärningsmannen. Vi lägger om det brottsförebyggande arbetet med tidigare insatser, mer föräldraansvar och tydligare konsekvenser vid de allra första brotten. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi lägger om migrationspolitiken och minskar invandringen så att Sverige får en chans att klara av integrationen av dem som redan har kommit. Vi lägger om integrationspolitiken med fokus på att alla ska lära sig svens&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ka språket, att det alltid ska löna sig bättre att arbeta än att leva på bidrag och att inga kvinnor och inga ungdomar ska leva under hedersförtryck. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi lägger om socialpolitiken så att socialt utsatta barns rätt till trygghet och långsiktig stabilitet alltid ska vara vägledande. Barns rätt ska gå före föräldrars. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi lägger om skolpolitiken med mer fokus på mätbara kunskaper, fler skolböcker och färre skärmar – och med tuffare krav på dem som vill starta och driva skolor i Sverige. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi lägger om sjukvårdspolitiken och kopplar ett starkare statligt grepp om kvalitet, tillgänglighet och likvärdighet. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi lägger om försvars- och säkerhetspolitiken, stärker det svenska mili&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tära försvaret och satsar än en gång på civilförsvar. Och vi går med i Nato. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi lägger om utrikespolitiken och fokuserar på Europa, Norden och Baltikum och det transatlantiska samarbetet. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi har lagt om den ekonomiska politiken för att få ned inflationen och få upp tillväxten. Vi satsar på Sverige som företagarland, med vetskapen att välstånd måste skapas innan det kan fördelas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! En nödvändig förutsättning för att lösa svåra samhällsproblem är att förstå dem och ha kraften att fatta beslut. Sedan valet förra hösten har Sverige en stabil regering som bygger på en majoritet i kammaren. Det markerar slutet på ett decennium av parlamentariskt kaos med svaga regeringar och budgetar som faller. Det markerar också början på en tid av samarbete och ansvarstagande. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Reformtempot har varit högt under regeringens första tid. Ett mycket stort antal utredningar har tillsatts, som lägger grunden för nya och nödvändiga lagar. Men i ljuset av de många och stora samhällsproblemen behöver reformprocesserna gå fortare. Det tar för lång tid, problem växer sig större och många människor börjar misstro statens förmåga att agera.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringskansliet är ingen vanlig statlig förvaltningsmyndighet utan själva navet för att genomföra politiska förändringar. Regeringen kommer därför att stärka Regeringskansliets samlade reformförmåga. Bland annat kommer det under samordningskansliet i Statsrådsberedningen att inrättas en funktion med erfarna och meriterade utredare som tar sig an målinriktade utredningsuppdrag. Målet är att korta utredningstiden, till och med halvera den, med bibehållna krav på hög juridisk precision. När problemen är stora måste man vara noggrann – men man måste också vara snabb.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Det finns ute i världen – och här i Sverige – tendenser till en farlig polarisering av samhällsdebatten, en sorts oförsonlighet och ett misstänkliggörande av meningsmotståndares karaktär och bevekelsegrunder. Det riskerar att förstöra något fint i vårt samhälle.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Alla vill vi lämna efter oss en bättre värld till våra barn och våra barnbarn. Men om ett litet land ska kunna lösa stora problem måste vi också kunna samla oss och få saker gjorda. Samling för att skydda de värden och ideal som en gång byggde Sverige starkt. Samling till förändring av det som helt enkelt inte längre fungerar. Samling för att kunna möta inre och yttre hot mot vår trygghet och vår säkerhet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I dessa oroliga tider vill jag leda en regering för hela Sverige och för alla svenskar – oavsett om man är född här eller har sina rötter någon annanstans i världen, oavsett var i landet man bor och oavsett vilket parti man har röstat på. Jag vill samla, inte splittra. Jag vill ena, inte dela.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Regeringen tog över ansvaret för en ekonomi med hög inflation av ett slag som Sverige inte har upplevt på decennier. Hushåll, företag och näringsliv är nu under hård press. Sveriges löntagare har tappat tio års reallöneökning. Mot den bakgrunden har regeringen nu tre stora ekonomisk-politiska uppgifter.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den första är att bekämpa inflationen, som är roten till många av de akuta ekonomiska problemen. När den ekonomiska politiken behöver vara ansvarsfull måste regeringen – och en majoritet i riksdagen – orka ta ansvar. Inte elda på och spendera mer, för vi vet av erfarenhet att en sådan politik ger en kraftig rekyl: högre inflation, stigande räntor, försämrad köpkraft, ökad internationell misstro och en svagare krona. Sverige kommer inte att gå den vägen under vår ledning.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I stället fokuserar regeringen på att mildra inflationens effekter. Då behövs både ett kallt huvud och ett varmt hjärta. I höstens budget kommer vi att prioritera åtgärder som tryggar välfärden, som stärker svensk nationell säkerhet och som lättar på bördan för hårt pressade hushåll.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Under hösten kommer därtill den sedan länge planerade översynen av överskottsmålet att inledas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den andra stora uppgiften är att lägga grunden för Sveriges framtida välstånd. Sverige behöver högre tillväxt och bli mer konkurrenskraftigt och än mer attraktivt som investeringsland. Vi behöver göra stora investeringar i fossilfri energi, i forskning och utbildning och i infrastruktur.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;En ny produktivitetskommission har tillsatts. Jobbskatteavdraget för äldre har höjts, liksom avdraget för forskning och utveckling. 3:12-regler&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;na ses över för att främja entreprenörskap. Elproduktionen ska byggas ut. Miljöbalkens tillståndsprocesser behöver utvecklas och moderniseras. Genom att göra dem kortare och mer förutsägbara ska den offentliga förvaltningen bidra till att svensk konkurrenskraft och beredskap stärks. Så blir Sverige en vinnare när hela Europa ställer om.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sveriges position som en ledande forskningsnation ska värnas. Reger&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ingen kommer att tillsätta en AI-kommission med uppdraget att ge vägledning för att både ta till vara de stora möjligheterna för Sverige som industrination och hantera AI:s olika risker.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den tredje uppgiften är arbetslinjen. Alla som kan jobba ska jobba och försörja sig själva. En stor bidragsreform kommer att genomföras med bidragstak, aktivitetskrav för att få försörjningsstöd och successiv kvalificering in till den svenska välfärden. Dessutom ska skatterna på arbete sänkas. Det behövs fler och starkare incitament att arbeta och att ta de jobb som finns, där de finns. Fler måste också utbilda sig för att kunna ta ett jobb.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen har därför kraftigt byggt ut vuxenutbildningen och yrkeshögskolan med minst 7&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 platser. De här satsningarna är viktiga, för ett arbete ger mer än bara en inkomst. Arbete gör människor delaktiga i samhället och ger mening för många i vardagen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Det ska även löna sig att &lt;/span&gt;&lt;span style="font-style:italic"&gt;ha&lt;/span&gt;&lt;span&gt; arbetat. Regeringen kompenserar den djupt orättvisa beskattningen av alla födda 1957 och säkerställer samtidigt att samma orättvisa inte drabbar nästa årskull.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;En fundamental del av arbetslinjen är det svenska språket. Alla som varaktigt bor i Sverige ska lära sig svenska – både för att det radikalt ökar möjligheterna att få ett jobb och för att kunna förstå det land man bor i, landets skrivna lagar och landets oskrivna regler och värderingar. Därför måste svenska för invandrare präglas av högre krav och högre kvalitet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Arbetsmarknadens parter har tagit ett stort ansvar i en tuff ekonomisk tid. Snart är de första etableringsjobben på plats för att fler långtidsarbets&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;lösa ska få ett arbete att gå till. Regeringen förstärker också CSN med anledning av överenskommelsen om omställningspaketet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Sverige har en på många vis unik välfärdsmodell. Förskola, skola, högskola, sjukvård och omsorg ger människor trygghet och frihet att kunna bygga ett bra liv för sig själva och de sina. Om det här råder det bred politisk enighet. Välfärdsmodellen är en källa till stolthet, inte till konflikt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den svenska välfärden bygger samtidigt på förväntningar om egen försörjning, respekt, hederlighet och en fungerande kontroll. Om något av detta brister kommer också välfärden att hotas. Vi ser flera sådana hot just nu.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;På kort sikt utgör inflationen det främsta ekonomiska hotet. Regering&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;en kommer inte att lämna vården, skolan och omsorgen åt sitt öde. Alla i hemtjänsten som ser till att äldre har en värdig vardag, alla lärare som får elever att knäcka läskoden och alla barnmorskor som hjälper ännu ett litet barn till världen – ni ska veta att vi värnar era viktiga jobb. Era insatser är avgörande för att människor i vårt land ska känna sig trygga med att äldre har det bra, att barn trivs i skolan och att sjukvården fungerar. Låt mig säga tack för allt som ni gör!&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;I höstens budget kommer vi att prioritera välfärden. Vi tillför resurser för att hjälpa kommuner och regioner att klara sig igenom den svåra ekonomiska tid som Sverige befinner sig i.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den svenska skolan är en avgörande förutsättning för enskilda människors livsresor, för Sveriges långsiktiga välstånd och för samhällets demokratiska utveckling. Mycket fungerar bra, men det finns också stora brister.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Orimligt många elever klarar inte kunskapskraven i spåren av den misslyckade integrationen. Var femte fjärdeklassare har svårigheter att läsa. Fysisk och psykisk otrygghet präglar vardagen i skolan för alltför många elever. Dessutom uppdagas nu orättvisa och oacceptabla glädjebetyg i en del skolor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen tar krafttag mot allt detta. En utredare ska lämna förslag på hur betyg och meritvärden i grundskolan och på gymnasiet ska spegla elevernas verkliga kunskaper. Under många år har pedagogiska trender fått prägla skolan, där djupa ämneskunskaper värderats alltför lågt. Det ändrar vi på. Dagens abstrakta betygskriterier och läroplaner ska reformeras till förmån för en mer faktabaserad kunskapssyn.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen omprövar den ogenomtänkta användningen av skärmar i undervisningen. Forskning visar att analoga verktyg ger bäst förutsättning&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ar för barn att lära sig läsa, skriva och räkna. Därför genomförs en historisk satsning på riktiga skolböcker. Skärmtid byts mot lästid.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi ser också till att elever tidigt får det stöd de behöver. Fler speciallär&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;are och fler små undervisningsgrupper gör att fler elever kan klara skolan.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen förbereder en omfattande reform för att komma till rätta med friskolesystemet. Skärpt ägar- och ledningsprövning, förbud mot eller begränsning av vinstutdelning vid konstaterade brister och kännbara sank&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tioner ska införas. Nu ska skolan tillbaka till grunderna: mer ordning, mindre experiment.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige har sedan länge en sjukvård i världsklass, men det finns oacceptabelt stora geografiska skillnader i tillgänglighet och kvalitet. De långa köerna bryter mot den lagstadgade rätten att få rätt vård i rätt tid. Regeringen har inlett arbetet med att korta vårdköerna och höja kvaliteten i sjukvården. En parlamentarisk kommitté ska undersöka möjligheterna att införa ett helt eller delvis statligt huvudmannaskap.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen har också tillfört resurser för att öka antalet vårdplatser i ett prestationsbaserat system. Nästa steg är att utveckla en nationell vårdförmedling med initialt fokus på patienter med cancerdiagnos. Samtidigt stärks cancer- och barncancervården, och den nationella cancerstrategin uppdateras.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vården för kvinnor och flickor har länge varit eftersatt, och den behöver utvecklas för att bli mer jämlik och mer tillgänglig. Kunskapen måste öka om de sjukdomar som drabbar främst just kvinnor och flickor. Kvinnor ska inte behöva acceptera att det är normalt att leva med smärta. Det är en avgörande fråga om grundläggande jämställdhet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den psykiska ohälsan inte minst bland många yngre ökar på ett djupt oroväckande vis. Barn och unga ska inte behöva vänta i kö för att få den hjälp de behöver. Föräldrar ska inte lämnas ensamma med sin oro och sin förtvivlan. En nationell strategi för psykisk hälsa och suicidprevention tas nu fram, och en nationell samordnare med samlat ansvar för det suicidpreventiva arbetet kommer att tillsättas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Samtidigt ska möjligheterna för personer med funktionsnedsättning stärkas för att de fullt ut ska kunna delta i samhällslivet, bland annat genom att förbättra tolktjänsten för döva och hörselskadade personer och för personer med dövblindhet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;En utredning tillsätts för att stärka tandvårdens högkostnadsskydd för att mer efterlikna det som finns i övrig vård. Äldre personer med sämst munhälsa ska prioriteras.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Att begå brott är ytterst ett val. Varje människa har ett personligt ansvar att inte välja den kriminella banan. Rättspolitiken i Sverige ska spegla den synen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen genomför ett grundläggande perspektivskifte, från fokus på gärningsman till fokus på brottsoffer och samhällsskydd. Vi skärper straffen, och kriminalvården byggs ut för att möta kommande reformers ökade behov. En plan kommer att läggas fram, men en uppskattning visar att det åtminstone rör sig om en fördubbling av antalet platser. Antalet poliser ökar i snabb takt. I höst får polisen rätt att använda hemliga tvångsmedel mot de kriminella gängen också i förebyggande syfte. Till våren blir det dubbla straff för grova vapenbrott.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den långsiktiga och viktiga uppgiften att skriva om delar av brottsbalk&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;en har påbörjats. Vi går vidare med effektivare verktyg för att komma åt de kriminellas brottsvinster. Särskilda ungdomsfängelser ska inrättas, och under hösten tillsätts en utredning om att hyra anstaltsplatser utomlands.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Våldet kryper, som vi alla är smärtsamt medvetna om, allt lägre ned i åldrarna. Tioåringar lockas med hamburgare medan femtonåringar mördar för pengar och prestige. Inget annat land i hela Europa är ens i närheten av den svenska våldsutvecklingen. Även här ser vi följderna av en alltför stor invandring i kombination med en misslyckad integration och statens oförmåga att gripa in i tid.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;För att lyckas i kampen mot gängbrottsligheten måste man förstå att det inte finns någon motsättning mellan det repressiva och det preventiva, ingen motsättning mellan det hårda och det mjuka. Båda behövs. Kriminella ska stoppas och straffas samtidigt som vi ska förhindra att dagens femåringar om tio år blir förhärdade femtonåringar med skjutvapen, och i klassrummet läggs grunden för en annan bana än brottets.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Stöd till familjer är en förebyggande åtgärd. I höstas byggdes de föräld&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;rastöd ut som vi vet har effekt – eller för att citera chefen för Kumlaanstal&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ten: ”Det är där vi måste börja. Med att stötta mammorna som ropar på hjälp.”&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fritidskortet är en viktig satsning på barns och ungdomars möjlighet till meningsfull aktivitet och samhörighet. I fotbollslaget och dansgruppen skapas alternativ till gängens gemenskap. En utredning har tillsatts för att ta bort sekretessen så att skolan kan prata med socialtjänsten och polisen i tid, och 40 år efter den gamla socialtjänstlagen påbörjas nu äntligen arbetet med att skriva en ny.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige behöver en socialpolitik som är anpassad till den tid vi nu lever&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;i. Insatser måste sättas in tidigare för att förebygga och bryta utanförskapet. Därför blir det språkscreening redan på BVC, lovskola på lågstadiet och fler hembesök hos familjer i socialt utsatta områden. Alla barn ska få en god chans att lyckas oavsett deras föräldrars livssituation. Det räcker inte längre med bara vackra ord. Det är i den praktiska politiken som barnets rättigheter skyddas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Mäns våld mot kvinnor ska bekämpas med samhällets fulla kraft. Regeringen utreder möjligheterna att kraftigt utvidga det geografiska området för kontaktförbud vid en särskilt allvarlig hotbild liksom att oftare kunna frihetsberöva våldsamma män. Vi har även stärkt civilsamhällets möjligheter att stödja kvinnor som har utsatts eller riskerar att utsättas för våld och hedersförtryck. Här gör landets kvinno- och tjejjourer viktiga insatser som måste uppmärksammas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Efter decennier av för stor invandring och för dålig integration sker nu ett paradigmskifte i svensk invandringspolitik. Under de senaste tolv åren har 1,2 miljoner utländska medborgare invandrat till Sverige, och under samma tid har över 700&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;000 fått svenskt medborgarskap.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Många kommer att bidra till att göra Sverige starkare, rikare och bättre. Men omfattningen av den stora invandring Sverige har haft innebär stora påfrestningar för vårt samhälle. Integrationsproblemen präglar numera de flesta politikområden. Därför lägger regeringen om politiken. Reformerna syftar till att Sverige ska gå från att vara ett av de länder som har tagit emot flest asylsökande till att asyllagstiftningen ska anpassas till EU:s miniminivå.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den som har fått ett utvisningsbeslut ska lämna Sverige. Skuggsamhällen måste bekämpas, och exploateringen av utsatta människor måste motverkas. Regeringen stärker verktygen och gör det jobbet mer effektivt. Antalet förvarsplatser ska öka. Kraven skärps på de länder som vägrar ta emot sina egna utvisade medborgare. Uppehållstillstånd återkallas för dem som har ljugit eller fuskat sig till dem.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Vi ser nu hur migrationstrycket minskar mot Sverige trots att det ökar i Europa. Men den stora omläggningen har bara börjat. Reglerna skärps för den lågkvalificerade arbetskraftsinvandringen samtidigt som möjlighe&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;terna förbättras för den högkvalificerade. Sverige ska vara ett välkomnan&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;de land för internationell talang och kompetens.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Samtidigt skärps kraven på hederligt levnadssätt för utlänningar som bor i landet. Det ska bli enklare att återkalla uppehållstillstånd och utvisa fler på grund av brott. Incitamenten ses över för att stimulera frivillig återvandring.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen tror på ett Sverige där människor med olika bakgrund kan leva sida vid sida. Men då krävs ett kitt som förenar och håller oss samman. De viktigaste beståndsdelarna i denna samhällsgemenskap är svenska språket, medborgarskapets rättigheter och skyldigheter samt respekt för grundläggande svenska värderingar. Förväntningarna och kraven för att bli en del av det svenska samhället måste bli tydligare. Vill man inte bli en del av denna gemenskap bör man inte söka sig hit.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;En ny och bättre samhällsorientering kommer att införas med prov på deltagarnas kunskaper om svenskt samhällsliv, demokrati och grundläggande normer och värderingar. Arbetet för att införa ett språkkrav för att bli svensk medborgare fortsätter. Regeringen ser också över bosättningsregelverket för att förbättra kommunernas förutsättningar för en god integration.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Försvaret av Ukrainas frihet och suveränitet är de kommande årens främsta utrikespolitiska uppgift. Ukrainas öde är sammanflätat med hela Europas. De för en strid på liv och död. &lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;För knappt ett år sedan sa jag i denna kammare att Sverige skulle ge mesta möjliga stöd åt Ukraina – politiskt, ekonomiskt och militärt. I dag kan jag konstatera att Sverige tillhör de tio största bidragsgivarna. Vi har hittills bidragit med ett stöd värt över 25 miljarder kronor, och Sverige har just lanserat en biståndsstrategi som är den enskilt mest omfattande någonsin. Ukraina blir nu vår största biståndsmottagare. Inom ramen för vårt stöd har Ukraina fått några av våra mest avancerade vapensystem. Sverige kommer att fortsätta stödja Ukraina så länge det behövs.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;De grundvalar för svensk utrikes- och säkerhetspolitik som angavs i förra regeringsförklaringen ligger fast. Grunden är den regelbaserade internationella ordningen, försvaret av demokrati och mänskliga rättigheter och respekten för FN-stadgan. Vi värnar bäst våra intressen i samarbete med andra länder. Svensk utrikespolitik kommer att föras på en europeisk, nordisk-baltisk och transatlantisk grund.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Inträdet i Nato, efter Turkiets åtagande i Vilnius att ratificera det svens&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ka medlemskapet, blir en epokgörande förändring för vårt land. Men det är också en hemkomst. Slutligen tar Sverige fullt ut steget in i de västliga demokratiernas försvarsgemenskap, i den krets av länder där vi hör hem&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ma. Därmed fullföljs den förändring av svensk säkerhetspolitik som inleddes genom det svenska EU-medlemskapet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige kommer inte bara att få stöd utan också ge stöd och bidra till hela alliansens säkerhet. Nu genomförs dessutom den kraftigaste upprustningen av totalförsvaret sedan 1950-talet. Det militära försvaret växer. Sverige anskaffar nästa generations ubåtar och stridsflygplan, stärker försvarets framtida personalförsörjning och satsar på avancerad teknik och innovation. Vi är också en ledande rymdnation och ska fortsatt gå i bräschen på det området. Även det civila försvaret stärks. Skyddsrum iordningställs, försörjningsberedskap höjs och cyberförsvaret byggs ut. Nästa år ökar anslagen till det militära försvaret med mer än 27 miljarder kronor, och Sverige uppnår alltså redan 2024 Natostandard om minst 2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;procent av bnp.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Europeiska unionen är inte bara Sveriges viktigaste utrikespolitiska plattform utan också en värdegemenskap. EU har avgörande betydelse för vår ekonomi och konkurrenskraft, för klimatarbetet och för vår förmåga att på ett globalt plan värna Sveriges nationella intressen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Under EU-ordförandeskapet visade Sverige ett starkt ledarskap i flera avgörande frågor för hela unionens framtid: klimatet, migrationen och stödet till Ukraina. Ordförandeskapets lärdomar tar vi nu med oss som en ännu mer aktiv, engagerad och pådrivande medlem i EU. Kinas agerande mot Taiwan inger oro, och hot om militärt våld är oacceptabelt. Sveriges relation till Kina ska vara förankrad i en europeisk strategi och i nära transatlantisk samverkan. Under vårt EU-ordförandeskap togs viktiga steg i just den riktningen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den senaste tidens händelser i samband med aktioner och demonstra&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;tioner visar tydligt hur viktigt det är att skydda Sverige. Främmande stater, statsliknande aktörer och enskilda provokatörer kan utnyttja situationen. Attackerna mot svenska beskickningar är bara ett exempel på hur svenska liv och intressen hotas. Desinformationskampanjen mot socialtjänsten är ett annat. Regeringen kommer alltid att försvara yttrandefriheten som ett svenskt kärnvärde, men samtidigt värna Sveriges och svenskars säkerhet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige ska fortsätta att vara ett globalt engagerat land som står upp för mänskliga fri- och rättigheter, demokrati och rättsstatens principer. I det arbetet är bistånds&lt;/span&gt;&lt;span&gt;&amp;#x2011;&lt;/span&gt;&lt;span&gt;, klimat- och handelspolitiken central. Reformeringen av biståndet ska fortsätta, med fokus på långsiktighet, effektivitet och transparens. Att Sverige är en av världens mest generösa biståndsgivare innebär också ett mycket stort ansvar. Bistånd räddar liv och lindrar nöd. Den demokratiska utvecklingen i världen är hotad. Det svenska stödet till demokratisering, människorättsförsvarare och demokratikämpar ska fortsatt vara starkt.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Sverige ska föra en ambitiös och effektiv klimatpolitik för att nå klimatmålen. Det svenska näringslivet ska ges förutsättningar att vara ledande i den gröna omställningen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;För att möta både de globala klimatförändringarna och de svenska energibehoven krävs en regering som förstår att energi och klimat hör ihop. Denna insikt vägleder både Sveriges nationella och internationella klimatpolitik.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Under det svenska ordförandeskapet i EU fördes ett av världens mest ambitiösa klimatpaket i hamn. När 450 miljoner européer ställer om gör det skillnad på riktigt. Klimatpaketet tas nu vidare in i arbetet med en uppdaterad nationell klimatpolitik. I oktober presenteras utredningen om en ny strategi för svensk klimatpolitik, som bygger på EU:s nya klimatlagstiftning. Den blir en viktig utgångspunkt för arbetet med nästa klimathandlingsplan, som läggs fram före jul.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Den här regeringen tillträdde efter många års misskötsel av det svenska energisystemet och efter mer än 40 års förödande konflikt om kärnkraften. Nu har återuppbyggnaden påbörjats. Det är en ödesfråga – både för hushållen, för näringslivet och för klimatet. När efterfrågan på el fördubblas krävs mer fossilfri energi. Regeringen tar fram en färdplan för att en effektiv och kraftfull utbyggnad av kärnkraften ska genomföras i så snabb takt som möjligt. En energipolitisk inriktningsproposition kommer att lämnas under riksdagsåret.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Dessutom stärks anslagen till återställande av våtmarker, och det omfattande statliga stödet för infångning och lagring av biogen koldioxid lig&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ger fast. Regeringen storsatsar på elektrifiering och möjliggör fortsatt utbyggnad av laddinfrastruktur i hela landet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Villkoren för att kunna bo, leva och verka i hela landet måste förbättras. Därför har regeringen inrättat ett särskilt landsbygds- och infrastrukturdepartement.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Jordbruks- och livsmedelspolitiken läggs om. Målet är att öka det svenska jordbrukets konkurrenskraft och lönsamhet samtidigt som vi bibehåller och värnar Sveriges högt ställda krav på djurskydd. Regeringen arbetar med att ta fram lagförslag för att införa gårdsförsäljning samtidigt som Systembolagets monopol värnas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Skogen är en strategisk resurs för både klimatet och svensk konkurrenskraft. Skogen är också en källa till nationell stolthet och en bärande del av vårt kulturarv. En hållbar skogspolitik måste kunna förena miljöhänsyn med skogsbrukets ekonomiska villkor. En skogsutredning kommer att tillsättas.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Man behöver inte färdas långt i vårt avlånga land för att inse att det krävs stora investeringar i väg- och järnvägsnätet. Underhållet för det svenska väg- och järnvägsnätet ska därför stärkas. Det handlar om att underlätta för människors vardag och för arbetspendling men också för godstrafik som främjar jobb och tillväxt i hela landet.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Fler människor ska få möjlighet till ett bra boende. I dag finns en alltför stor regelbörda och alltför höga trösklar in på bostadsmarknaden, inte minst för landets unga. Regeringen kommer därför att fokusera på att öka tillgången på byggbar mark, förenkla byggreglerna och sänka trösklarna in på bostadsmarknaden. Det behövs fler hyresrätter, fler bostadsrätter och fler villor.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! Den liberala demokratin är starkt förankrad i vårt land. Men den måste också vinnas för varje ny generation. Det finns en bred parlamentarisk enighet bakom förslaget att stärka domstolarnas oberoende. Regeringen har också inlett ett arbete för att stärka skyddet för demokratiska fri- och rättigheter. En parlamentarisk kommitté har fått i uppdrag att utreda om nya grundläggande fri- och rättigheter, såsom rätten att göra abort, rätten till domstolsprövning och ett generellt skydd mot diskriminering, bör läggas till i regeringsformen.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Kulturen är en stark och enande kraft i det svenska samhället. Arbetet med att ta fram en ny kulturkanon konkretiseras under året samtidigt som det läsfrämjande arbetet förstärks. Finansieringen av fler långa stipendier fortsätter liksom arbetet för ett kulturskyddsråd.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;En viktig del av den svenska demokratin är insikten att samhället är mycket större än staten. Här ingår inte minst fria medier, oberoende forsk&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;ning och ett levande förenings&lt;/span&gt;&lt;span&gt;&amp;#x2011;&lt;/span&gt;&lt;span&gt;, församlings- och kulturliv. Det svenska samhällets mångsidighet är en styrka när vi möter framtidens utmaningar. Här lever kristna, muslimer, judar och icke-religiösa sida vid sida. Reli&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;gionsfriheten är självklar i Sverige, liksom rätten att ifrågasätta religion.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Yttrandefriheten är en hörnsten i den liberala demokratin. Regeringen kommer att fortsätta arbetet för att uppnå en frigivning av journalisten Dawit Isaak och av förläggaren och poeten Gui Minhai. Regeringen arbetar samtidigt intensivt med andra konsulära fall där svenska medborgare har frihetsberövats, senast EU-tjänstemannen Johan Floderus. Regeringen kräver att de alla omedelbart friges.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Sverige ska fortsatt vara en stark röst för jämställdhet, både här hemma och globalt. Flera viktiga framsteg gjordes under det svenska ordförande&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;skapet. Regeringen intensifierar nu arbetet mot hedersförtryck, bland an&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;nat genom att se över straffskalorna för äktenskapstvång och barnäkten&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;skapsbrott. En utredare fick i går i uppdrag att ta fram ett förbud mot kusin&lt;/span&gt;&lt;span&gt;&amp;#xad;&lt;/span&gt;&lt;span&gt;äktenskap.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:14.15pt; -aw-element-left:outside; -aw-element-top:65.2pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Regeringen höjer i en särskild satsning ambitionen i arbetet mot antisemitism. I Sverige ska man kunna leva tryggt, oavsett religion, etnicitet eller sexuell läggning. Vi fortsätter den frihetsresa som har inneburit ökad acceptans och lika rättigheter för hbtqi-personer genom att se över diskriminerande regelverk. Homosexuella män ska få samma möjlighet att ge blod som alla andra.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Herr talman! I år firar Sverige 500 år som självständig nationalstat. Under den här tiden har vi utvecklats från ett av Europas fattigaste länder till ett rikt välfärdssamhälle. Från ett land med envälde till en av världens starkaste demokratier. Ett land med både jämlikhet, jämställdhet och stark samhällsgemenskap. Ett öppet och innovativt land där framgångsrika företag exporterar till hela världen. Ett land där vi bryr oss om varandra.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Bara de senaste decennierna har vi gjort en imponerande mängd förändringsresor. Vi har varit pionjärer för fossilfri energiproduktion, vänt 90-talets krisår till robusta statsfinanser och ersatt ett utbrett bidragsberoende med arbetslinjen. Allt detta är vår gemensamma bedrift och visar vad vi som land kan åstadkomma tillsammans. Våra styrkor är så mycket större än våra problem. Vi kan göra allt det här en gång till.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Nu är det vårt ansvar att rusta Sverige starkt för framtida generationer så att vi kan fortsätta att vara ett fantastiskt land, inte bara i 5 eller 50 utan i minst 500 år till.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Allra sist, herr talman, vill jag till riksdagen anmäla att jag anser att alla statsråd i regeringen har gjort ett riktigt starkt första år, och jag ser fram emot deras fortsatta insatser.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;De såg lite oroliga ut där, kan jag säga.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span&gt;Gedigen kunskap är en lätt börda att bära, även i politiken. Man måste alltså inte, herr talman, vara disputerad kustjägare för att bli en framgångsrik och respekterad försvarsminister i min regering, men ni ska veta att det hjälper.&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span&gt;(Applåder)&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;h1&gt;
+				&lt;a name="_Toc145436518"&gt;&lt;/a&gt;&lt;a name="_Toc145436583"&gt;&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Ceremonin avslutades kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;15.10.&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Toc145436518"&gt;&lt;/span&gt;&lt;/a&gt;
+			&lt;/h1&gt;
+		&lt;/div&gt;
+		&lt;br style="page-break-before:always; clear:both; mso-break-type:section-break"&gt;
+		&lt;div class="Section2"&gt;
+			&lt;h1&gt;
+				&lt;span style="font-weight:normal; -aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/h1&gt;
+			&lt;p style="margin-top:24pt; text-align:left; page-break-after:avoid"&gt;
+				&lt;span style="font-weight:bold"&gt;Bilaga&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="NormalIndent"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;a name="_Hlk82520804"&gt;&lt;span&gt;Program för öppnandet av riksmötet 2023/24&lt;/span&gt;&lt;/a&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span&gt;tisdagen den 12 september 2023 kl. 14.00&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:11.35pt; -aw-element-left:outside; -aw-element-top:116.25pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+					&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-style:italic"&gt;Festmarsch&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;Mässingssextett ur Livgardets dragonmusikkår&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-style:italic"&gt;Kungssången&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-style:italic"&gt;Kung Liljekonvalje&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;Orphei Drängar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-weight:bold"&gt;Talmannen&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;uppmanar Hans Majestät Konungen att öppna riksmötet&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-weight:bold"&gt;H.M. Konungen&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;förklarar riksmötet 2023/24 öppnat&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-style:italic"&gt;Fanfar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;Mässingssextett ur Livgardets dragonmusikkår&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-style:italic"&gt;Nu är det gott att leva&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;Orphei Drängar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-weight:bold"&gt;Statsministern&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;avger regeringsförklaringen&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="font-style:italic; -aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-style:italic"&gt;Sverige&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;Orphei Drängar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="font-style:italic; -aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-style:italic"&gt;Sveriges nationalsång&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:13pt"&gt;
+				&lt;span style="font-style:italic"&gt;Grande Marche&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;Mässingssextett ur Livgardets dragonmusikkår&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:8pt"&gt;
+				&lt;span&gt;––––––––––––––––––––––––––––––––––––––––––––––––––––&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span style="font-weight:bold"&gt;Medverkande&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span style="font-style:italic"&gt;Riksplan:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span&gt;Arméns musikkår&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span&gt;Livgardet paraderar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span style="font-style:italic"&gt;Trapphallen:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span&gt;Tvesôvla&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span&gt;Riksteatern&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span style="font-style:italic"&gt;Plenisalen:&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span&gt;Orphei Drängar&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p style="text-align:center; font-size:9pt"&gt;
+				&lt;span&gt;Livgardets dragonmusikkår&lt;/span&gt;&lt;span style="-aw-bookmark-end:_Hlk82520804"&gt;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Innehll"&gt;
+				&lt;br style="page-break-before:always; clear:both"&gt;&lt;span&gt;Innehållsförteckning&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Riksmötets öppnande&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;1&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;TALMANNEN&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;HANS MAJESTÄT KONUNGEN&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;3&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;TALMANNEN&lt;/span&gt;&lt;span style="width:165.12pt; font-family:'Lucida Console'; display:inline-block; -aw-font-family:'Verdana'; -aw-tabstop-align:right; -aw-tabstop-leader:dots; -aw-tabstop-pos:294.85pt"&gt;...........................&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC2" style="text-align:left; line-height:10pt"&gt;
+				&lt;span&gt;Anf.&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;4&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;Statsminister ULF KRISTERSSON&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;(M)&lt;/span&gt;&lt;span style="width:67.05pt; font-family:'Lucida Console'; display:inline-block; -aw-font-family:'Verdana'; -aw-tabstop-align:right; -aw-tabstop-leader:dots; -aw-tabstop-pos:294.85pt"&gt;...........&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="TOC1" style="text-align:left"&gt;
+				&lt;span&gt;§&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;2&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;Ceremonin avslutades kl.&lt;/span&gt;&lt;span style="font-weight:normal"&gt;&amp;#xa0;&lt;/span&gt;&lt;span style="font-weight:normal"&gt;15.10.&lt;/span&gt;&lt;span style="width:138.48pt; text-indent:0pt; font-family:'Lucida Console'; font-weight:normal; display:inline-block; -aw-font-family:'Verdana'; -aw-tabstop-align:right; -aw-tabstop-leader:dots; -aw-tabstop-pos:294.85pt"&gt;......................&lt;/span&gt;&lt;span&gt;11&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;div style="width:85.05pt; float:right"&gt;
+				&lt;p class="Kantrubrik" style="text-align:left; -aw-element-anchor-horizontal:page; -aw-element-anchor-vertical:page; -aw-element-frame-hspace:8.5pt; -aw-element-left:outside; -aw-element-top:65.25pt; -aw-element-wrap:around; -aw-frame-width:85.05pt; -aw-height-rule:exactly"&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold"&gt;Bilaga.......................................................................................................12&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="font-weight:bold; -aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p&gt;
+				&lt;span style="-aw-import:ignore"&gt;&amp;#xa0;&lt;/span&gt;
+			&lt;/p&gt;
+			&lt;p class="Tryckort"&gt;
+				&lt;span&gt;Tryck: Elanders Sverige AB, Vällingby 2023&lt;/span&gt;
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+</html>
+</dokument>
+<dokbilaga>
+<bilaga>
+<dok_id>HB092</dok_id>
+<subtitel></subtitel>
+<filnamn>prot_202324__2.pdf</filnamn>
+<filstorlek>164217</filstorlek>
+<filtyp>pdf</filtyp>
+<titel>Protokoll 2023/24:2 Tisdagen den 12 september</titel>
+<fil_url>https://data.riksdagen.se/fil/41555C07-8CF8-46E6-BA78-19A099CBFCE4</fil_url>
+</bilaga>
+</dokbilaga>
+</dokumentstatus>
